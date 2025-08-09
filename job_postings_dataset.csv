@@ -1,0 +1,1021 @@
+job_id,job_title,company,company_size,location,experience_level,work_arrangement,salary,required_skills,posting_date,date_posted
+JOB_0001,Data Scientist,Tech Corp,Medium (201-1000),"Portland, OR",Entry Level (0-2 years),Remote,104265.0,"Azure, PyTorch, Statistics, Python",2024-12-01,12/01/2024
+JOB_0002,Data Scientist,Analytics Partners,Large (1001+),"Atlanta, GA",Entry Level (0-2 years),Remote,70328.0,"Python, Jupyter, Statistics",2024-08-24,08/24/2024
+JOB_0003,Data Analyst,DataFlow Systems,Large (1001+),"Atlanta, GA",Mid Level (3-5 years),Remote,68231.0,"SQL, Looker, Matplotlib, Excel, Power BI, Tableau, R",2025-03-26,2025-03-26
+JOB_0004,Data Analyst,Intelligence Solutions,Medium (201-1000),"Phoenix, AZ",Mid Level (3-5 years),On-site,72059.0,"SQL, Excel, Python, PowerQuery",2024-10-27,10/27/2024
+JOB_0005,Data Scientist,Information Analytics,Medium (201-1000),"Austin, TX",Senior Level (6-10 years),Remote,107361.0,"Machine Learning, Statistics, Python, Azure, Tableau, Git, SQL",2025-04-01,04/01/2025
+JOB_0006,Data Scientist,Information Analytics,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),Hybrid,,"Deep Learning, Machine Learning, Python, Docker, SQL, TensorFlow, R, Power BI",2024-11-15,11/15/2024
+JOB_0007,Data Engineer,Cloud Data Systems,Startup (1-50),"Boston, MA",Entry Level (0-2 years),On-site,115260.0,"Redis, PostgreSQL, Kafka, MongoDB, Python, SQL",2024-12-29,12/29/2024
+JOB_0008,Data Scientist,Business Intelligence Ltd,Startup (1-50),"Austin, TX",Mid Level (3-5 years),Hybrid,140010.0,"R, Python, NumPy, SQL",2025-06-30,06/30/2025
+JOB_0009,Data Analyst,DataFlow Systems,Small (51-200),"Los Angeles, CA",Senior Level (6-10 years),Hybrid,86510.0,"SQL, Pandas, SPSS",2025-01-22,01/22/2025
+JOB_0010,Data Engineer,Analytics Pro,Small (51-200),"Los Angeles, CA",Senior Level (6-10 years),Hybrid,179835.0,"Python, GCP, Docker, Azure",2025-01-17,01/17/2025
+JOB_0011,Data Engineer,Business Intelligence Ltd,Small (51-200),"Denver, CO",Mid Level (3-5 years),Remote,97219.0,"Python, SQL, NoSQL, Kafka, Hadoop, Airflow, ETL",2025-05-23,05/23/2025
+JOB_0012,Data Analyst,Information Systems Inc,Small (51-200),"Washington, DC",Lead Level (10+ years),Remote,99915.0,"Git, Python, SQL, Power BI, Statistics, R",2025-04-26,04/26/2025
+JOB_0013,Data Engineer,Intelligence Solutions,Startup (1-50),"Seattle, WA",Mid Level (3-5 years),On-site,157348.0,"Apache Spark, Hadoop, Python, Airflow, Kafka, Kubernetes, Git",2025-02-20,02/20/2025
+JOB_0014,Data Scientist,Big Data Co,Medium (201-1000),"Dallas, TX",Entry Level (0-2 years),Hybrid,75234.0,"R, PyTorch, Python",2025-01-30,01/30/2025
+JOB_0015,Data Scientist,Insight Technologies,Small (51-200),"San Diego, CA",Senior Level (6-10 years),Hybrid,130117.0,"R, Python, AWS, Pandas, Statistics, Jupyter, Azure, TensorFlow",2024-10-02,10/02/2024
+JOB_0016,Data Engineer,Information Systems Inc,Small (51-200),"Chicago, IL",Mid Level (3-5 years),Hybrid,119252.0,"PostgreSQL, SQL, Python",2025-05-07,2025-05-07
+JOB_0017,Data Scientist,Data Driven Co,Small (51-200),"Miami, FL",Senior Level (6-10 years),Remote,263699.0,"Machine Learning, Pandas, Jupyter, Python, R, SQL, Deep Learning",2024-12-10,12/10/2024
+JOB_0018,Data Engineer,Smart Analytics,Large (1001+),"Phoenix, AZ",Mid Level (3-5 years),Hybrid,114581.0,"SQL, Hadoop, Docker, Scala, Linux",2024-11-01,11/01/2024
+JOB_0019,Data Scientist,Data Driven Co,Large (1001+),"Chicago, IL",Mid Level (3-5 years),Hybrid,127422.0,"Machine Learning, R, Python, Statistics, Scikit-learn",2025-07-07,07/07/2025
+JOB_0020,Data Scientist,Analytics Pro,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),Remote,100161.0,"Python, Docker, Machine Learning, Power BI, Scikit-learn, Pandas, R",2025-06-06,2025-06-06
+JOB_0021,Data Analyst,Cloud Data Systems,Startup (1-50),"San Diego, CA",Entry Level (0-2 years),Remote,56847.0,"Excel, Tableau, R",2025-01-25,01/25/2025
+JOB_0022,Data Scientist,Analytics Partners,Large (1001+),"Chicago, IL",Mid Level (3-5 years),Remote,286374.0,"NumPy, R, Python, Statistics, Deep Learning, Machine Learning",2025-04-08,04/08/2025
+JOB_0023,Data Analyst,Analytics Hub,Startup (1-50),"Los Angeles, CA",Lead Level (10+ years),Hybrid,25559.0,"SQL, Tableau, Power BI, Excel, DAX, Python, Looker, Google Analytics",2025-07-09,07/09/2025
+JOB_0024,Data Scientist,AI Innovations,Small (51-200),"San Francisco, CA",Mid Level (3-5 years),Hybrid,146296.0,"Deep Learning, Pandas, SQL, Python",2025-03-26,03/26/2025
+JOB_0025,Data Scientist,Analytics Hub Inc.,Startup (1-50),Dallas TX,Entry Level 0-2 years,Remote,,"Docker, Statistics, R, TensorFlow, Git, Pandas, Deep Learning",2025-07-08,07/08/2025
+JOB_0026,Data Scientist,Digital Insights,Large (1001+),"Phoenix, AZ",Mid Level (3-5 years),On-site,122565.0,"Python, Docker, Statistics, R",2025-04-12,04/12/2025
+JOB_0027,Data Analyst,Business Intelligence Ltd,Large (1001+),"New York, NY",Lead Level (10+ years),On-site,172845.0,"SQL, R, Power BI, Tableau, Python, Git, Matplotlib, DAX",2025-03-13,03/13/2025
+JOB_0028,Data Analyst,AI Innovations,Startup (1-50),"Chicago, IL",Senior Level (6-10 years),Hybrid,114019.0,"R, SQL, Excel",2025-05-13,05/13/2025
+JOB_0029,Data Scientist,Data Solutions Inc,Startup (1-50),"Denver, CO",Mid Level (3-5 years),Remote,78907.0,"Python, Tableau, R, Git, Statistics, Scikit-learn, Machine Learning",2024-09-13,09/13/2024
+JOB_0030,Data Analyst,Analytics Partners,Startup (1-50),"San Francisco, CA",Mid Level (3-5 years),Hybrid,108081.0,"Python, SQL, Power BI, Tableau, Excel, Looker",2024-09-19,09/19/2024
+JOB_0031,Data Engineer,AI Innovations,Medium (201-1000),"Miami, FL",Senior Level (6-10 years),Remote,121154.0,"MongoDB, SQL, Python, Redis, Apache Spark, Linux",2024-12-22,12/22/2024
+JOB_0032,Data Engineer,Tech Corp,Large (1001+),"Austin, TX",Entry Level (0-2 years),Hybrid,68801.0,"ETL, SQL, NoSQL",2025-05-24,05/24/2025
+JOB_0033,Data Scientist,Analytics Pro,Small (51-200),"Seattle, WA",Senior Level (6-10 years),On-site,166633.0,"Python, SQL, Azure, TensorFlow",2025-01-01,01/01/2025
+JOB_0034,Data Analyst,DataFlow Systems,Medium (201-1000),"Washington, DC",Entry Level (0-2 years),Hybrid,61332.0,"SQL, R, SPSS, Power BI",2024-10-01,10/01/2024
+JOB_0035,Data Engineer,Business Intelligence Ltd,Medium (201-1000),"Atlanta, GA",Mid Level (3-5 years),Hybrid,102471.0,"Kubernetes, Docker, SQL, Azure, NoSQL, Redis, Hadoop, Apache Spark",2024-11-24,11/24/2024
+JOB_0036,Data Engineer,Business Intelligence Ltd,Startup (1-50),"Boston, MA",Lead Level (10+ years),Remote,255904.0,"Airflow, Docker, Azure, PostgreSQL, SQL, Python",2025-06-29,2025-06-29
+JOB_0037,Data Analyst,Business Intelligence Ltd,Small (51-200),"Phoenix, AZ",Mid Level (3-5 years),Hybrid,78028.0,"SQL, Python, R, PowerQuery, Tableau, Excel, Statistics",2025-03-23,03/23/2025
+JOB_0038,Data Engineer,DataFlow Systems,Startup (1-50),"Miami, FL",Mid Level (3-5 years),On-site,89705.0,"Python, Kafka, Hadoop, Airflow, ETL, Java, Kubernetes",2025-06-03,2025-06-03
+JOB_0039,Data Scientist,Information Systems Inc,Small (51-200),"Austin, TX",Entry Level (0-2 years),Hybrid,62736.0,"Scikit-learn, Python, Machine Learning, GCP, NumPy, TensorFlow, SQL, R",2024-12-14,12/14/2024
+JOB_0040,Data Scientist,Information Analytics,Small (51-200),"Dallas, TX",Lead Level (10+ years),Remote,227528.0,"Python, SQL, TensorFlow, Deep Learning",2024-10-31,10/31/2024
+JOB_0041,Data Scientist,Intelligence Solutions,Small (51-200),"Miami, FL",Senior Level (6-10 years),On-site,105168.0,"GCP, PyTorch, SQL, Statistics, R, Python, Machine Learning, Deep Learning",2024-10-29,2024-10-29
+JOB_0042,Data Scientist,AI Innovations,Large (1001+),"denver, co",Mid Level (3-5 years),On-site,,"Jupyter, TensorFlow, Machine Learning, Python",2025-01-12,01/12/2025
+JOB_0043,Data Analyst,Analytics Pro,Medium (201-1000),"Austin, TX",Senior Level (6-10 years),On-site,91193.0,"Python, SQL, Excel, R, Tableau, Pandas, Git",2025-07-03,07/03/2025
+JOB_0044,Data Analyst,Big Data Co,Medium (201-1000),"Austin, TX",Entry Level (0-2 years),Remote,41253.0,"Seaborn, Tableau, SQL, Excel, Power BI",2025-06-02,06/02/2025
+JOB_0045,Data Engineer,Intelligence Solutions,Startup (1-50),"San Diego, CA",Senior Level (6-10 years),On-site,,"Hadoop, SQL, Airflow, Apache Spark",2025-05-31,05/31/2025
+JOB_0046,Data Analyst,Information Systems Inc,Large (1001+),"Atlanta, GA",Mid Level (3-5 years),Remote,70572.0,"Google Analytics, Excel, PowerQuery, SQL, Python",2025-07-15,07/15/2025
+JOB_0047,Data Scientist,Insight Technologies,Medium (201-1000),"Miami, FL",Senior Level (6-10 years),Hybrid,143743.0,"Python, Deep Learning, R, AWS, Machine Learning",2025-03-06,03/06/2025
+JOB_0048,Data Engineer,Data Science Corp,Small (51-200),"Chicago, IL",Lead Level (10+ years),Hybrid,181225.0,"SQL, Python, Docker, Kafka, NoSQL",2025-05-27,2025-05-27
+JOB_0049,Data Analyst,Intelligence Solutions,Medium (201-1000),"Boston, MA",Mid Level (3-5 years),On-site,101776.0,"Pandas, SQL, Statistics, Matplotlib, SPSS, Python",2025-03-23,03/23/2025
+JOB_0050,Data Scientist,Analytics Pro,Medium (201-1000),"Miami, FL",Mid Level (3-5 years),Hybrid,298453.0,"Scikit-learn, R, AWS, Jupyter, Machine Learning, PyTorch, Python, GCP",2025-07-14,07/14/2025
+JOB_0051,Data Analyst,AI Innovations,Small (51-200),"Boston, MA",Mid Level (3-5 years),Remote,88637.0,"Matplotlib, Excel, PowerQuery, SQL",2024-09-01,09/01/2024
+JOB_0052,Data Engineer,Analytics Partners,Small (51-200),"Denver, CO",Lead Level (10+ years),Hybrid,192799.0,"Python, SQL, Git, Hadoop, Kafka, Kubernetes",2025-07-31,07/31/2025
+JOB_0053,Data Scientist,Big Data Co,Large (1001+),"San Diego, CA",Entry Level (0-2 years),Remote,89944.0,"R, Deep Learning, PyTorch, Scikit-learn, Python, Machine Learning, NumPy, TensorFlow",2024-11-07,11/07/2024
+JOB_0054,Data Engineer,Analytics Hub,Small (51-200),"Miami, FL",Entry Level (0-2 years),On-site,100629.0,"SQL, Python, AWS, Kafka, ETL, Apache Spark, MongoDB",2025-07-16,07/16/2025
+JOB_0055,Data Analyst,Information Analytics,Large (1001+),"Miami, FL",Lead Level (10+ years),Hybrid,128736.0,"SQL, SPSS, Excel, Tableau",2025-03-25,03/25/2025
+JOB_0056,Data Engineer,Business Intelligence Ltd,Large (1001+),"Phoenix, AZ",Mid Level (3-5 years),Hybrid,24681.0,"Git, Scala, Kubernetes, SQL, Python",2024-12-09,12/09/2024
+JOB_0057,Data Engineer,DataFlow Systems,Startup (1-50),"Austin, TX",Senior Level (6-10 years),Remote,154205.0,"Hadoop, Apache Spark, MongoDB, Python",2024-10-25,10/25/2024
+JOB_0058,Data Analyst,Intelligence Solutions,Medium (201-1000),"San Francisco, CA",Lead Level (10+ years),Hybrid,112161.0,"SQL, Python, Tableau, Seaborn, Pandas, Looker",2025-04-04,04/04/2025
+JOB_0059,Data Scientist,Analytics Partners,Large (1001+),"Miami, FL",Entry Level (0-2 years),On-site,75569.0,"R, Jupyter, Python, GCP, Tableau",2024-08-12,08/12/2024
+JOB_0060,Data Scientist,DataFlow Systems,Small (51-200),"Dallas, TX",Lead Level (10+ years),On-site,169125.0,"Git, SQL, Power BI, Python, GCP",2024-11-29,11/29/2024
+JOB_0061,Data Analyst,Digital Insights,Large (1001+),"Portland, OR",Lead Level (10+ years),Remote,81767.0,"Tableau, Power BI, Python, R, PowerQuery, SQL, Excel",2025-06-23,06/23/2025
+JOB_0062,Data Engineer,Analytics Pro,Large (1001+),"Portland, OR",Entry Level (0-2 years),Remote,67295.0,"PostgreSQL, Apache Spark, Kafka, Python",2025-04-02,04/02/2025
+JOB_0063,Data Scientist,Analytics First,Large (1001+),"Denver, CO",Senior Level (6-10 years),On-site,101735.0,"Machine Learning, R, SQL, Python, Tableau",2025-03-12,03/12/2025
+JOB_0064,Data Engineer,Cloud Data Systems,Startup (1-50),"New York, NY",Senior Level (6-10 years),Hybrid,162411.0,"Docker, Hadoop, SQL",2024-08-29,2024-08-29
+JOB_0065,Data Engineer,Smart Analytics,Large (1001+),"Seattle, WA",Mid Level (3-5 years),Hybrid,124569.0,"Docker, Python, MongoDB, GCP, Git, Kubernetes, Kafka",2024-10-06,10/06/2024
+JOB_0066,Data Analyst,Information Analytics,Startup (1-50),"austin, tx",Mid Level (3-5 years),Remote,,"DAX, Seaborn, SQL",2025-01-15,01/15/2025
+JOB_0067,Data Scientist,Data Science Corp,Small (51-200),"Portland, OR",Lead Level (10+ years),Remote,220864.0,"R, Pandas, Power BI, Python, Statistics, Tableau, NumPy, Docker",2025-06-08,06/08/2025
+JOB_0068,Data Analyst,Information Analytics,Startup (1-50),"Phoenix, AZ",Senior Level (6-10 years),Hybrid,99913.0,"Excel, SQL, Seaborn, Matplotlib, SPSS",2024-08-30,08/30/2024
+JOB_0069,Data Engineer,Tech Corp,Large (1001+),"Atlanta, GA",Senior Level (6-10 years),On-site,151472.0,"Hadoop, AWS, Git, ETL, Python, Apache Spark",2024-10-02,10/02/2024
+JOB_0070,Data Scientist,Intelligence Solutions,Small (51-200),"San Diego, CA",Mid Level (3-5 years),Hybrid,105400.0,"GCP, Statistics, Python, Deep Learning, R, PyTorch, Git, AWS",2025-05-03,05/03/2025
+JOB_0071,Data Analyst,Analytics Hub,Large (1001+),"Phoenix, AZ",Lead Level (10+ years),Hybrid,101122.0,"R, Git, Excel, SQL, Seaborn",2025-06-08,06/08/2025
+JOB_0072,Data Analyst,Analytics Hub,Small (51-200),"San Francisco, CA",Senior Level (6-10 years),On-site,134174.0,"Power BI, SQL, Excel, R, Statistics, Google Analytics, Tableau",2025-05-27,05/27/2025
+JOB_0073,Data Analyst,Data Experts Ltd,Small (51-200),"Austin, TX",Mid Level (3-5 years),On-site,68327.0,"Pandas, Excel, Tableau, Seaborn, Google Analytics",2024-12-19,12/19/2024
+JOB_0074,Data Scientist,Insight Technologies,Small (51-200),"Boston, MA",Entry Level (0-2 years),Remote,117670.0,"AWS, Machine Learning, Python, Tableau, R, Statistics, Deep Learning, SQL",2024-12-10,12/10/2024
+JOB_0075,Data Scientist,Data Experts Ltd,Large (1001+),"San Diego, CA",Lead Level (10+ years),Remote,141045.0,"Python, Statistics, Machine Learning, AWS, Deep Learning",2024-09-25,09/25/2024
+JOB_0076,Data Analyst,Data Experts Ltd,Medium (201-1000),"Portland, OR",Senior Level (6-10 years),On-site,88056.0,"SQL, Excel, Tableau, R, Power BI",2025-05-17,05/17/2025
+JOB_0077,Data Analyst,Big Data Co,Small (51-200),"Boston, MA",Mid Level (3-5 years),On-site,92617.0,"Power BI, SQL, Pandas, Tableau, Git, DAX, Excel, Seaborn",2024-10-09,10/09/2024
+JOB_0078,Data Analyst,Data Experts Ltd,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),Hybrid,89111.0,"SQL, Excel, Python, Tableau, PowerQuery, R, Power BI",2025-06-06,06/06/2025
+JOB_0079,Data Analyst,Cloud Data Systems,Medium (201-1000),"Chicago, IL",Senior Level (6-10 years),Remote,111400.0,"PowerQuery, Python, SQL",2025-01-10,01/10/2025
+JOB_0080,Data Analyst,Smart Analytics,Large (1001+),"New York, NY",Senior Level (6-10 years),Remote,99884.0,"Python, SQL, Excel, Power BI, R, Google Analytics, Matplotlib",2024-08-15,08/15/2024
+JOB_0081,Data Analyst,Business Intelligence Ltd,Large (1001+),"Seattle, WA",Entry Level (0-2 years),Remote,20878.0,"Pandas, Python, SQL, R, Statistics, Tableau",2024-09-11,09/11/2024
+JOB_0082,Data Scientist,Analytics Pro,Small (51-200),"Phoenix, AZ",Senior Level (6-10 years),Remote,170471.0,"R, Deep Learning, SQL, Power BI, TensorFlow, Python",2025-05-21,05/21/2025
+JOB_0083,Data Scientist,Analytics Hub,Large (1001+),"Phoenix, AZ",Lead Level (10+ years),On-site,152026.0,"Python, R, Azure, Machine Learning, TensorFlow, Deep Learning",2025-06-06,06/06/2025
+JOB_0084,Data Engineer,AI Innovations,Small (51-200),"San Diego, CA",Entry Level (0-2 years),On-site,74292.0,"Python, SQL, Linux",2025-07-13,07/13/2025
+JOB_0085,Data Engineer,Intelligence Solutions,Large (1001+),"Seattle, WA",Entry Level (0-2 years),Hybrid,,"GCP, Python, Airflow, Redis, Hadoop, Docker",2025-06-09,06/09/2025
+JOB_0086,Data Scientist,Analytics Pro,Small (51-200),"Boston, MA",Lead Level (10+ years),On-site,180656.0,"Scikit-learn, Python, R, Machine Learning, Pandas, Deep Learning, SQL",2025-06-25,06/25/2025
+JOB_0087,Data Analyst,Business Intelligence Ltd,Small (51-200),"Portland, OR",Mid Level (3-5 years),Remote,70159.0,"Python, SQL, Excel, R",2024-09-08,09/08/2024
+JOB_0088,Data Engineer,Analytics Hub,Startup (1-50),"Miami, FL",Senior Level (6-10 years),On-site,156757.0,"SQL, Azure, Python, Docker, AWS",2025-07-27,07/27/2025
+JOB_0089,Data Analyst,Analytics Pro,Startup (1-50),"denver, co",Lead Level (10+ years),On-site,,"Python, Excel, DAX, Matplotlib, Looker, SQL, Seaborn",2025-01-21,01/21/2025
+JOB_0090,Data Engineer,Business Intelligence Ltd,Startup (1-50),"Portland, OR",Entry Level (0-2 years),Remote,106697.0,"Python, Kubernetes, Hadoop, ETL, Azure, SQL, Apache Spark",2025-04-06,04/06/2025
+JOB_0091,Data Engineer,Data Experts Ltd,Startup (1-50),"Washington, DC",Lead Level (10+ years),On-site,184487.0,"Airflow, Hadoop, SQL, NoSQL, GCP, Apache Spark",2025-02-03,02/03/2025
+JOB_0092,Data Scientist,Intelligence Solutions,Large (1001+),"Seattle, WA",Senior Level (6-10 years),On-site,215835.0,"Machine Learning, R, PyTorch, Python, Docker, Deep Learning",2025-07-14,2025-07-14
+JOB_0093,Data Analyst,Business Intelligence Ltd,Medium (201-1000),"San Francisco, CA",Senior Level (6-10 years),Remote,84650.0,"PowerQuery, Tableau, SQL, DAX, Excel, Seaborn, Pandas",2025-03-03,03/03/2025
+JOB_0094,Data Analyst,AI Innovations,Medium (201-1000),"Los Angeles, CA",Entry Level (0-2 years),Hybrid,72969.0,"PowerQuery, Pandas, SQL, Excel, Statistics, R, Git, Google Analytics",2025-04-21,04/21/2025
+JOB_0095,Data Scientist,Data Driven Co,Large (1001+),"Atlanta, GA",Mid Level (3-5 years),Hybrid,73783.0,"Pandas, Python, NumPy",2025-04-14,04/14/2025
+JOB_0096,Data Scientist,Data Driven Co,Startup (1-50),"Chicago, IL",Mid Level (3-5 years),Hybrid,99451.0,"R, Scikit-learn, Python",2025-03-05,03/05/2025
+JOB_0097,Data Scientist,Smart Analytics,Large (1001+),"Denver, CO",Entry Level (0-2 years),Hybrid,102229.0,"TensorFlow, Statistics, SQL, Python, R, Machine Learning, GCP",2025-01-05,01/05/2025
+JOB_0098,Data Analyst,Analytics Hub,Small (51-200),"Denver, CO",Mid Level (3-5 years),On-site,83308.0,"Excel, Python, Google Analytics, SQL, R, Tableau, DAX",2024-11-14,11/14/2024
+JOB_0099,Data Engineer,Intelligence Solutions,Medium (201-1000),"San Francisco, CA",Senior Level (6-10 years),Hybrid,172272.0,"Hadoop, Docker, Redis",2024-12-23,12/23/2024
+JOB_0100,Data Analyst,Smart Analytics,Large (1001+),"Washington, DC",Lead Level (10+ years),Hybrid,131573.0,"SQL, R, Excel, Statistics, Looker",2025-04-13,04/13/2025
+JOB_0101,Data Engineer,AI Innovations,Small (51-200),"Denver, CO",Senior Level (6-10 years),Hybrid,,"Apache Spark, Python, Scala, GCP",2025-02-21,02/21/2025
+JOB_0102,Data Scientist,Data Science Corp,Small (51-200),"San Diego, CA",Lead Level (10+ years),On-site,177836.0,"AWS, Jupyter, SQL, Statistics",2024-08-27,08/27/2024
+JOB_0103,Data Scientist,Big Data Co,Large (1001+),"San Francisco, CA",Lead Level (10+ years),Remote,24342.0,"Python, R, Pandas, TensorFlow, GCP, Statistics",2024-10-21,10/21/2024
+JOB_0104,Data Scientist,Analytics Pro,Medium (201-1000),"San Diego, CA",Lead Level (10+ years),Hybrid,237060.0,"PyTorch, Machine Learning, Python, Deep Learning, Statistics, Azure",2025-05-09,05/09/2025
+JOB_0105,Data Scientist,DataFlow Systems,Startup (1-50),"Phoenix, AZ",Lead Level (10+ years),Hybrid,194727.0,"SQL, Statistics, Python, Deep Learning",2024-09-13,09/13/2024
+JOB_0106,Data Scientist,Intelligence Solutions,Startup (1-50),"Chicago, IL",Entry Level (0-2 years),Hybrid,85076.0,"GCP, Python, R",2025-08-04,08/04/2025
+JOB_0107,Data Scientist,Analytics First,Startup (1-50),"New York, NY",Entry Level (0-2 years),On-site,126450.0,"Power BI, Machine Learning, Statistics, Python, PyTorch",2025-02-08,02/08/2025
+JOB_0108,Data Scientist,Digital Insights,Small (51-200),"Washington, DC",Mid Level (3-5 years),Remote,158226.0,"Docker, Python, Machine Learning, SQL, R, Jupyter",2025-06-17,06/17/2025
+JOB_0109,Data Analyst,Cloud Data Systems,Large (1001+),"Washington, DC",Mid Level (3-5 years),Hybrid,71733.0,"Python, Excel, R, SQL, Google Analytics, Looker",2024-12-17,12/17/2024
+JOB_0110,Data Scientist,DataFlow Systems,Small (51-200),"Denver, CO",Senior Level (6-10 years),Remote,168014.0,"Python, Deep Learning, R, NumPy, Pandas",2025-03-23,03/23/2025
+JOB_0111,Data Scientist,Analytics Hub,Medium (201-1000),"San Diego, CA",Senior Level (6-10 years),Remote,104979.0,"Python, Deep Learning, Pandas, R, PyTorch, Machine Learning",2025-02-21,02/21/2025
+JOB_0112,Data Scientist,Data Driven Co,Startup (1-50),"Washington, DC",Senior Level (6-10 years),Hybrid,101161.0,"Python, TensorFlow, Jupyter, NumPy, R",2025-02-27,02/27/2025
+JOB_0113,Data Analyst,Information Analytics,Large (1001+),"San Diego, CA",Entry Level (0-2 years),On-site,66277.0,"SQL, PowerQuery, Excel, Power BI, R, DAX, Seaborn",2024-12-04,12/04/2024
+JOB_0114,Data Scientist,Smart Analytics,Startup (1-50),"Washington, DC",Senior Level (6-10 years),Hybrid,140592.0,"Python, R, Statistics",2025-07-05,2025-07-05
+JOB_0115,Data Scientist,Analytics Pro,Medium (201-1000),"Austin, TX",Mid Level (3-5 years),On-site,96318.0,"Statistics, R, SQL, Machine Learning",2025-03-09,03/09/2025
+JOB_0116,Data Scientist,Digital Insights,Medium (201-1000),"Austin, TX",Senior Level (6-10 years),On-site,135396.0,"Azure, PyTorch, Python, Jupyter, Machine Learning, Git, Pandas, R",2025-01-07,01/07/2025
+JOB_0117,Data Scientist,Cloud Data Systems,Large (1001+),"San Francisco, CA",Mid Level (3-5 years),Hybrid,194636.0,"SQL, Statistics, Python",2025-02-12,02/12/2025
+JOB_0118,Data Scientist,Information Systems Inc,Medium (201-1000),"San Francisco, CA",Lead Level (10+ years),Hybrid,242979.0,"NumPy, Tableau, SQL, Python, Docker, Deep Learning, Machine Learning, Scikit-learn",2025-02-20,02/20/2025
+JOB_0119,Data Engineer,Information Analytics,Small (51-200),"New York, NY",Senior Level (6-10 years),Hybrid,190852.0,"Python, PostgreSQL, NoSQL, Kafka, Airflow, SQL, Git, Hadoop",2024-09-10,09/10/2024
+JOB_0120,Data Scientist,Smart Analytics,Startup (1-50),"Los Angeles, CA",Entry Level (0-2 years),Remote,270457.0,"SQL, Python, PyTorch, Statistics, R, Machine Learning",2025-01-11,01/11/2025
+JOB_0121,Data Scientist,DataFlow Systems,Large (1001+),"Denver, CO",Senior Level (6-10 years),Hybrid,264139.0,"R, TensorFlow, SQL, Machine Learning, Deep Learning, GCP",2024-10-27,10/27/2024
+JOB_0122,Data Analyst,Information Systems Inc,Small (51-200),"Boston, MA",Entry Level (0-2 years),On-site,289873.0,"SQL, R, Excel, Power BI",2025-03-24,03/24/2025
+JOB_0123,Data Analyst,Data Solutions Inc,Large (1001+),"Miami, FL",Senior Level (6-10 years),On-site,227801.0,"Excel, Pandas, SQL",2024-11-14,11/14/2024
+JOB_0124,Data Scientist,Data Solutions Inc,Medium (201-1000),"Washington, DC",Entry Level (0-2 years),Remote,29080.0,"TensorFlow, Machine Learning, Deep Learning, Python, Pandas, NumPy, R",2024-10-12,10/12/2024
+JOB_0125,Data Analyst,Analytics First,Small (51-200),"Chicago, IL",Mid Level (3-5 years),Hybrid,59482.0,"Excel, SQL, PowerQuery, Google Analytics, Tableau",2024-08-10,08/10/2024
+JOB_0126,Data Scientist,Big Data Co,Startup (1-50),"Phoenix, AZ",Mid Level (3-5 years),Remote,101186.0,"SQL, Jupyter, PyTorch, Pandas, Deep Learning",2024-08-16,2024-08-16
+JOB_0127,Data Analyst,Smart Analytics,Large (1001+),"Boston, MA",Entry Level (0-2 years),Hybrid,50165.0,"Seaborn, SQL, Python, SPSS, Google Analytics, Power BI, DAX, Excel",2024-10-06,10/06/2024
+JOB_0128,Data Analyst,Analytics Hub,Small (51-200),"Atlanta, GA",Entry Level (0-2 years),Hybrid,65664.0,"PowerQuery, SQL, Power BI, Excel, DAX, Looker, Google Analytics, Python",2024-08-31,08/31/2024
+JOB_0129,Data Engineer,Tech Corp,Startup (1-50),"Boston, MA",Lead Level (10+ years),On-site,237128.0,"ETL, SQL, GCP, Python, Kafka, Apache Spark",2025-03-02,03/02/2025
+JOB_0130,Data Scientist,Analytics Pro,Medium (201-1000),"Denver, CO",Entry Level (0-2 years),Hybrid,64270.0,"TensorFlow, R, Python",2024-10-23,10/23/2024
+JOB_0131,Data Scientist,Data Science Corp,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),On-site,291983.0,"SQL, Scikit-learn, R, Statistics, Git, Python, Machine Learning",2025-04-24,04/24/2025
+JOB_0132,Data Engineer,Intelligence Solutions,Large (1001+),"Portland, OR",Mid Level (3-5 years),Remote,134225.0,"Python, NoSQL, Hadoop, Redis, Azure",2025-03-08,03/08/2025
+JOB_0133,Data Engineer,Intelligence Solutions,Medium (201-1000),"San Francisco, CA",Senior Level (6-10 years),Hybrid,155206.0,"SQL, AWS, Apache Spark, Kafka, MongoDB",2024-12-17,12/17/2024
+JOB_0134,Data Engineer,Analytics Pro,Large (1001+),"San Francisco, CA",Entry Level (0-2 years),Remote,29201.0,"AWS, Apache Spark, Kubernetes, Python",2025-02-15,02/15/2025
+JOB_0135,Data Scientist,Intelligence Solutions,Medium (201-1000),"Portland, OR",Entry Level (0-2 years),Hybrid,59371.0,"R, Python, Power BI, Machine Learning, TensorFlow, NumPy, Statistics, GCP",2025-03-13,03/13/2025
+JOB_0136,Data Engineer,Analytics Partners,Small (51-200),"Austin, TX",Entry Level (0-2 years),Remote,78696.0,"Python, Apache Spark, NoSQL, Git, Kafka, SQL",2025-07-11,07/11/2025
+JOB_0137,Data Engineer,Big Data Co,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),Hybrid,177526.0,"Python, Git, Airflow, Kafka, Hadoop, SQL",2024-12-02,12/02/2024
+JOB_0138,Data Scientist,Information Analytics,Medium (201-1000),"Washington, DC",Entry Level (0-2 years),Remote,102099.0,"Python, Scikit-learn, R, GCP, AWS",2024-11-09,11/09/2024
+JOB_0139,Data Engineer,Analytics Partners,Large (1001+),"Seattle, WA",Mid Level (3-5 years),Remote,269531.0,"Java, Python, SQL, AWS, Docker, GCP, Hadoop, Airflow",2024-10-20,10/20/2024
+JOB_0140,Data Analyst,Analytics First,Small (51-200),"Los Angeles, CA",Lead Level (10+ years),On-site,130517.0,"R, SQL, Git, Google Analytics, Seaborn, Matplotlib, Statistics, Tableau",2025-01-15,01/15/2025
+JOB_0141,Data Scientist,Smart Analytics,Small (51-200),"San Francisco, CA",Entry Level (0-2 years),Hybrid,83493.0,"R, Python, TensorFlow, Machine Learning, Deep Learning, SQL, Azure, Pandas",2024-09-03,09/03/2024
+JOB_0142,Data Analyst,Intelligence Solutions,Medium (201-1000),"Denver, CO",Lead Level (10+ years),Remote,102621.0,"R, Matplotlib, Excel",2025-04-28,04/28/2025
+JOB_0143,Data Analyst,Insight Technologies,Medium (201-1000),"Portland, OR",Lead Level (10+ years),Remote,23349.0,"R, SQL, Git, Pandas, Tableau, Seaborn",2024-11-29,11/29/2024
+JOB_0144,Data Engineer,Business Intelligence Ltd,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),On-site,112596.0,"Docker, GCP, Airflow",2024-10-09,10/09/2024
+JOB_0145,Data Analyst,Insight Technologies,Medium (201-1000),"Los Angeles, CA",Mid Level (3-5 years),Remote,57772.0,"Statistics, SQL, Git, Matplotlib, Excel, Seaborn, Python, PowerQuery",2025-02-28,02/28/2025
+JOB_0146,Data Engineer,Analytics Partners,Large (1001+),"San Francisco, CA",Senior Level (6-10 years),Hybrid,219104.0,"Apache Spark, Python, SQL, Kafka, Scala, Azure, PostgreSQL, Hadoop",2025-03-04,03/04/2025
+JOB_0147,Data Engineer,Digital Insights,Large (1001+),"New York, NY",Senior Level (6-10 years),Hybrid,187240.0,"Hadoop, Linux, SQL",2025-02-10,02/10/2025
+JOB_0148,Data Analyst,Insight Technologies,Startup (1-50),"Washington, DC",Lead Level (10+ years),On-site,132500.0,"DAX, SQL, Power BI, Excel, Pandas, R, Python, Looker",2025-01-14,01/14/2025
+JOB_0149,Data Engineer,Insight Technologies,Small (51-200),"San Francisco, CA",Entry Level (0-2 years),On-site,136870.0,"Linux, Kubernetes, Python, AWS, SQL, Apache Spark, PostgreSQL, ETL",2025-02-04,02/04/2025
+JOB_0150,Data Analyst,Business Intelligence Ltd,Small (51-200),"San Francisco, CA",Mid Level (3-5 years),Remote,114821.0,"SQL, SPSS, Excel, Python",2025-06-13,06/13/2025
+JOB_0151,Data Scientist,Analytics Hub,Large (1001+),"Phoenix, AZ",Lead Level (10+ years),Hybrid,195269.0,"Scikit-learn, TensorFlow, Python, Deep Learning, Azure, R, SQL, GCP",2025-05-25,05/25/2025
+JOB_0152,Data Analyst,Smart Analytics,Large (1001+),"Portland, OR",Senior Level (6-10 years),Remote,106378.0,"Tableau, Excel, SQL, SPSS, PowerQuery, R",2025-04-06,04/06/2025
+JOB_0153,Data Scientist,Insight Technologies,Startup (1-50),"New York, NY",Senior Level (6-10 years),On-site,24703.0,"Python, Deep Learning, R, Jupyter, Machine Learning, GCP",2025-04-02,04/02/2025
+JOB_0154,Data Scientist,Information Analytics,Large (1001+),"Dallas, TX",Entry Level (0-2 years),On-site,118536.0,"Jupyter, Scikit-learn, NumPy, PyTorch, Statistics, Python, R",2025-06-02,06/02/2025
+JOB_0155,Data Engineer,Analytics First,Large (1001+),"Denver, CO",Mid Level (3-5 years),Hybrid,109525.0,"Kafka, Azure, Apache Spark",2024-10-25,10/25/2024
+JOB_0156,Data Scientist,Insight Technologies,Small (51-200),"Austin, TX",Entry Level (0-2 years),Remote,84688.0,"Python, Deep Learning, Machine Learning, SQL, Docker, Statistics, TensorFlow, R",2024-12-13,12/13/2024
+JOB_0157,Data Scientist,Information Systems Inc,Medium (201-1000),"Washington, DC",Mid Level (3-5 years),On-site,121350.0,"R, Machine Learning, Statistics, TensorFlow, Jupyter, NumPy",2025-02-23,02/23/2025
+JOB_0158,Data Scientist,Analytics Pro,Medium (201-1000),"Portland, OR",Senior Level (6-10 years),Remote,141667.0,"Machine Learning, Python, Power BI, Statistics, TensorFlow, PyTorch, R, SQL",2025-05-21,05/21/2025
+JOB_0159,Data Analyst,Analytics First,Startup (1-50),"Portland, OR",Mid Level (3-5 years),Hybrid,72925.0,"SQL, Excel, Tableau, Python",2025-07-14,07/14/2025
+JOB_0160,Data Analyst,Smart Analytics,Startup (1-50),"Portland, OR",Lead Level (10+ years),On-site,122171.0,"Power BI, Pandas, SQL, Tableau, Matplotlib, Excel",2025-05-22,05/22/2025
+JOB_0161,Data Engineer,Intelligence Solutions,Medium (201-1000),"Portland, OR",Entry Level (0-2 years),Remote,75813.0,"Python, Hadoop, Docker, NoSQL, ETL",2025-02-10,02/10/2025
+JOB_0162,Data Scientist,AI Innovations,Small (51-200),"Phoenix, AZ",Lead Level (10+ years),Remote,150770.0,"Pandas, Python, Git",2024-10-27,10/27/2024
+JOB_0163,Data Analyst,Analytics First,Small (51-200),"Phoenix, AZ",Entry Level (0-2 years),Hybrid,45316.0,"Matplotlib, Python, Tableau, Statistics",2025-02-17,02/17/2025
+JOB_0164,Data Scientist,Analytics Hub,Startup (1-50),"Washington, DC",Mid Level (3-5 years),On-site,108133.0,"Python, Jupyter, Tableau, R, NumPy, Scikit-learn, TensorFlow, Pandas",2025-02-11,02/11/2025
+JOB_0165,Data Scientist,Cloud Data Systems,Small (51-200),"Phoenix, AZ",Lead Level (10+ years),On-site,160213.0,"Power BI, Tableau, Deep Learning, Python",2025-04-06,04/06/2025
+JOB_0166,Data Analyst,Data Driven Co,Large (1001+),"Denver, CO",Lead Level (10+ years),Hybrid,143325.0,"SQL, Python, Git, Statistics, Matplotlib, Tableau",2025-05-06,05/06/2025
+JOB_0167,Data Scientist,Business Intelligence Ltd,Startup (1-50),"Washington, DC",Mid Level (3-5 years),Hybrid,149684.0,"R, Power BI, Python, Jupyter, SQL",2025-04-12,04/12/2025
+JOB_0168,Data Analyst,Data Driven Co,Startup (1-50),"Atlanta, GA",Entry Level (0-2 years),Remote,69665.0,"Statistics, Python, Git, PowerQuery, Excel, SQL",2024-12-26,12/26/2024
+JOB_0169,Data Analyst,Analytics Hub,Medium (201-1000),"San Francisco, CA",Mid Level (3-5 years),Remote,90982.0,"PowerQuery, SQL, Tableau",2025-03-09,03/09/2025
+JOB_0170,Data Analyst,Cloud Data Systems,Startup (1-50),"San Francisco, CA",Senior Level (6-10 years),On-site,128447.0,"Statistics, SQL, Power BI, PowerQuery, Looker, Git, R, Excel",2024-09-28,09/28/2024
+JOB_0171,Data Engineer,Smart Analytics Inc.,Large (1001+),Boston MA,Lead Level 10+ years,On-site,,"Apache Spark, Hadoop, SQL",2025-06-20,06/20/2025
+JOB_0172,Data Analyst,Big Data Co,Medium (201-1000),"Seattle, WA",Lead Level (10+ years),Remote,102258.0,"SQL, Excel, Looker",2025-01-10,01/10/2025
+JOB_0173,Data Scientist,Analytics Pro,Startup (1-50),"Washington, DC",Lead Level (10+ years),On-site,127508.0,"Deep Learning, R, Scikit-learn, Python, Tableau, Machine Learning, SQL",2025-06-10,06/10/2025
+JOB_0174,Data Scientist,Data Driven Co,Large (1001+),"San Diego, CA",Mid Level (3-5 years),Remote,101531.0,"SQL, R, NumPy, Machine Learning, Python",2025-06-19,06/19/2025
+JOB_0175,Data Analyst,Insight Technologies,Medium (201-1000),"Portland, OR",Entry Level (0-2 years),Remote,56624.0,"Power BI, SQL, Statistics, Tableau, Python, DAX, PowerQuery",2025-05-05,05/05/2025
+JOB_0176,Data Analyst,Data Experts Ltd,Startup (1-50),"New York, NY",Lead Level (10+ years),Hybrid,133246.0,"Git, SQL, Tableau, Google Analytics, Excel",2025-02-23,02/23/2025
+JOB_0177,Data Scientist,Cloud Data Systems,Startup (1-50),"San Francisco, CA",Senior Level (6-10 years),Hybrid,129922.0,"Machine Learning, AWS, R, Python",2025-01-26,01/26/2025
+JOB_0178,Data Scientist,Analytics Hub,Large (1001+),"Portland, OR",Mid Level (3-5 years),Hybrid,78270.0,"Power BI, GCP, Python, Azure",2024-11-10,11/10/2024
+JOB_0179,Data Analyst,AI Innovations,Startup (1-50),"New York, NY",Senior Level (6-10 years),Remote,142419.0,"Git, Python, Tableau, SQL, R",2024-08-30,08/30/2024
+JOB_0180,Data Analyst,Business Intelligence Ltd,Startup (1-50),"Dallas, TX",Lead Level (10+ years),Hybrid,103394.0,"SQL, Tableau, Looker, R, PowerQuery",2024-11-14,2024-11-14
+JOB_0181,Data Scientist,Business Intelligence Ltd,Startup (1-50),"Portland, OR",Senior Level (6-10 years),On-site,188426.0,"TensorFlow, NumPy, Azure, Deep Learning, Machine Learning, Statistics",2025-03-20,03/20/2025
+JOB_0182,Data Engineer,Data Experts Ltd,Large (1001+),"Austin, TX",Mid Level (3-5 years),On-site,255640.0,"Hadoop, Python, Redis, Docker, Airflow",2025-05-01,05/01/2025
+JOB_0183,Data Scientist,DataFlow Systems,Medium (201-1000),"Washington, DC",Mid Level (3-5 years),On-site,119981.0,"Deep Learning, R, Python",2024-09-30,09/30/2024
+JOB_0184,Data Analyst,Digital Insights,Large (1001+),"Washington, DC",Lead Level (10+ years),On-site,134210.0,"SPSS, SQL, Looker",2025-03-25,03/25/2025
+JOB_0185,Data Analyst,Analytics Pro,Large (1001+),"Portland, OR",Entry Level (0-2 years),On-site,62262.0,"Git, Pandas, R, Statistics, Excel, Tableau, Seaborn, Matplotlib",2025-04-28,2025-04-28
+JOB_0186,Data Engineer,Data Solutions Inc,Small (51-200),"Dallas, TX",Lead Level (10+ years),Remote,176015.0,"Apache Spark, GCP, Python, Hadoop, SQL, NoSQL, Kubernetes, AWS",2024-12-07,12/07/2024
+JOB_0187,Data Scientist,Analytics Hub,Medium (201-1000),"New York, NY",Mid Level (3-5 years),On-site,162725.0,"R, Python, Scikit-learn",2025-03-24,03/24/2025
+JOB_0188,Data Analyst,Cloud Data Systems,Startup (1-50),"Austin, TX",Senior Level (6-10 years),Remote,98930.0,"Tableau, Python, Excel, Seaborn, SQL, Statistics",2024-11-12,11/12/2024
+JOB_0189,Data Scientist,Analytics Hub,Small (51-200),"Boston, MA",Senior Level (6-10 years),Hybrid,169031.0,"SQL, Statistics, PyTorch, Pandas, TensorFlow, GCP, Python, R",2025-01-02,01/02/2025
+JOB_0190,Data Scientist,Digital Insights,Large (1001+),"San Francisco, CA",Lead Level (10+ years),Remote,236675.0,"Deep Learning, Docker, Python, AWS, GCP",2025-07-24,07/24/2025
+JOB_0191,Data Scientist,Digital Insights,Small (51-200),"Boston, MA",Senior Level (6-10 years),On-site,120556.0,"Python, Machine Learning, R, Deep Learning",2025-04-26,04/26/2025
+JOB_0192,Data Engineer,Tech Corp,Medium (201-1000),"Chicago, IL",Lead Level (10+ years),Hybrid,189263.0,"Hadoop, SQL, Kafka, Docker, Python",2025-05-29,05/29/2025
+JOB_0193,Data Analyst,Analytics Pro,Medium (201-1000),"Washington, DC",Entry Level (0-2 years),On-site,70921.0,"SQL, Power BI, Python, Statistics, Excel, Looker, Tableau",2025-04-11,04/11/2025
+JOB_0194,Data Engineer,Analytics First,Startup (1-50),"San Francisco, CA",Mid Level (3-5 years),On-site,171811.0,"Hadoop, Python, Kafka, Git, GCP, PostgreSQL, SQL, Kubernetes",2025-04-04,04/04/2025
+JOB_0195,Data Analyst,Smart Analytics,Large (1001+),"Phoenix, AZ",Mid Level (3-5 years),Hybrid,83954.0,"Seaborn, PowerQuery, Excel",2024-09-06,09/06/2024
+JOB_0196,Data Scientist,Information Systems Inc,Medium (201-1000),"Austin, TX",Mid Level (3-5 years),Remote,142199.0,"Scikit-learn, Python, Pandas, Machine Learning",2024-12-15,12/15/2024
+JOB_0197,Data Analyst,Insight Technologies,Small (51-200),"Washington, DC",Entry Level (0-2 years),Hybrid,55219.0,"SQL, Tableau, Python, R",2025-06-02,06/02/2025
+JOB_0198,Data Scientist,Analytics Partners,Startup (1-50),"Washington, DC",Senior Level (6-10 years),Remote,184176.0,"PyTorch, Jupyter, Python",2024-09-19,09/19/2024
+JOB_0199,Data Scientist,Information Analytics,Startup (1-50),"Chicago, IL",Lead Level (10+ years),On-site,149967.0,"Python, Statistics, SQL, R, Scikit-learn, Power BI, Machine Learning",2025-06-26,06/26/2025
+JOB_0200,Data Analyst,Data Driven Co,Large (1001+),"Chicago, IL",Lead Level (10+ years),Remote,90359.0,"Excel, Power BI, Statistics",2025-07-27,07/27/2025
+JOB_0201,Data Engineer,Information Analytics,Small (51-200),"Chicago, IL",Senior Level (6-10 years),On-site,149268.0,"Python, Kubernetes, Hadoop, PostgreSQL, SQL, Apache Spark, Kafka, Azure",2025-01-19,01/19/2025
+JOB_0202,Data Scientist,Analytics First,Small (51-200),"Austin, TX",Entry Level (0-2 years),On-site,85464.0,"Pandas, Python, SQL, Git, Deep Learning",2024-10-10,10/10/2024
+JOB_0203,Data Analyst,Information Analytics,Large (1001+),"Boston, MA",Lead Level (10+ years),Remote,132988.0,"Excel, Tableau, SPSS, R, Pandas",2024-10-29,10/29/2024
+JOB_0204,Data Analyst,Data Experts Ltd,Medium (201-1000),"Atlanta, GA",Lead Level (10+ years),On-site,141946.0,"SQL, R, Google Analytics",2024-08-20,08/20/2024
+JOB_0205,Data Scientist,Analytics Partners,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),Remote,134866.0,"Deep Learning, Python, SQL, Machine Learning, Git",2024-09-03,09/03/2024
+JOB_0206,Data Scientist,Data Driven Co,Startup (1-50),"Portland, OR",Lead Level (10+ years),Remote,227665.0,"Deep Learning, Scikit-learn, AWS, Python",2025-03-17,03/17/2025
+JOB_0207,Data Scientist,Data Solutions Inc,Large (1001+),"Los Angeles, CA",Senior Level (6-10 years),Remote,125613.0,"Python, Power BI, AWS, SQL, NumPy, Statistics, R",2025-05-27,05/27/2025
+JOB_0208,Data Engineer,DataFlow Systems,Medium (201-1000),"Los Angeles, CA",Lead Level (10+ years),Hybrid,156372.0,"Python, GCP, AWS, Docker, SQL, Kafka, Apache Spark",2025-07-23,07/23/2025
+JOB_0209,Data Engineer,DataFlow Systems,Medium (201-1000),"Austin, TX",Senior Level (6-10 years),Remote,170731.0,"Hadoop, SQL, Apache Spark, Kafka, MongoDB, Airflow, Java",2024-11-18,2024-11-18
+JOB_0210,Data Engineer,Analytics First,Large (1001+),"New York, NY",Mid Level (3-5 years),Hybrid,167568.0,"Python, Redis, GCP, Hadoop",2025-03-30,03/30/2025
+JOB_0211,Data Engineer,Data Science Corp,Medium (201-1000),"Austin, TX",Mid Level (3-5 years),Hybrid,134282.0,"NoSQL, Azure, SQL, Python, GCP, Kafka, Java",2025-01-28,01/28/2025
+JOB_0212,Data Analyst,Data Experts Ltd,Startup (1-50),"Washington, DC",Senior Level (6-10 years),On-site,78683.0,"Matplotlib, SQL, Seaborn, DAX, Python, R, Statistics, Tableau",2025-01-25,01/25/2025
+JOB_0213,Data Scientist,Information Analytics,Large (1001+),"Phoenix, AZ",Entry Level (0-2 years),On-site,93855.0,"Python, R, GCP, SQL, Tableau, TensorFlow, Deep Learning",2025-07-10,07/10/2025
+JOB_0214,Data Analyst,Insight Technologies,Large (1001+),"Denver, CO",Mid Level (3-5 years),Remote,52069.0,"Excel, SQL, Tableau, Matplotlib",2025-07-23,07/23/2025
+JOB_0215,Data Analyst,Analytics Hub,Medium (201-1000),"Chicago, IL",Entry Level (0-2 years),On-site,62626.0,"SQL, Pandas, Python, SPSS, Excel, Matplotlib",2024-10-25,10/25/2024
+JOB_0216,Data Engineer,Data Solutions Inc,Small (51-200),"Washington, DC",Lead Level (10+ years),Hybrid,183404.0,"Python, SQL, Docker, Kubernetes, Java, PostgreSQL, Azure",2024-11-23,11/23/2024
+JOB_0217,Data Scientist,Digital Insights,Large (1001+),"Los Angeles, CA",Senior Level (6-10 years),Hybrid,146537.0,"Statistics, SQL, Machine Learning, Python, Git, Deep Learning, TensorFlow",2025-01-31,01/31/2025
+JOB_0218,Data Engineer,Information Analytics,Large (1001+),"Portland, OR",Senior Level (6-10 years),Remote,177149.0,"Kubernetes, AWS, Python, SQL, Apache Spark",2024-12-13,12/13/2024
+JOB_0219,Data Scientist,AI Innovations,Large (1001+),"Boston, MA",Senior Level (6-10 years),On-site,178113.0,"Python, PyTorch, SQL, R, Machine Learning",2025-04-11,04/11/2025
+JOB_0220,Data Engineer,Big Data Co,Large (1001+),"Boston, MA",Senior Level (6-10 years),On-site,,"Azure, Linux, Apache Spark, Python",2025-02-01,02/01/2025
+JOB_0221,Data Analyst,Analytics Hub,Medium (201-1000),"San Francisco, CA",Senior Level (6-10 years),Hybrid,110985.0,"Python, Seaborn, SQL, Excel",2025-04-11,04/11/2025
+JOB_0222,Data Scientist,Smart Analytics,Startup (1-50),"Atlanta, GA",Senior Level (6-10 years),Hybrid,28700.0,"PyTorch, Machine Learning, R, SQL",2025-06-05,06/05/2025
+JOB_0223,Data Engineer,Big Data Co,Large (1001+),"Chicago, IL",Entry Level (0-2 years),On-site,108642.0,"PostgreSQL, Git, Azure",2025-04-07,2025-04-07
+JOB_0224,Data Scientist,Intelligence Solutions,Large (1001+),"Atlanta, GA",Mid Level (3-5 years),On-site,107649.0,"Deep Learning, Machine Learning, Python, NumPy",2025-07-08,07/08/2025
+JOB_0225,Data Scientist,Analytics Partners,Small (51-200),"Miami, FL",Entry Level (0-2 years),Hybrid,83386.0,"Docker, Machine Learning, Statistics, Deep Learning",2024-08-28,08/28/2024
+JOB_0226,Data Engineer,Data Science Corp,Large (1001+),"Miami, FL",Entry Level (0-2 years),Remote,64607.0,"Airflow, Kafka, Python",2025-01-04,01/04/2025
+JOB_0227,Data Analyst,Data Driven Co,Large (1001+),"Miami, FL",Senior Level (6-10 years),Hybrid,97369.0,"SQL, Statistics, Python, Power BI, Excel, SPSS, PowerQuery",2025-05-14,05/14/2025
+JOB_0228,Data Scientist,Business Intelligence Ltd,Small (51-200),"Atlanta, GA",Lead Level (10+ years),Remote,207829.0,"R, Scikit-learn, Deep Learning, Python",2025-01-25,01/25/2025
+JOB_0229,Data Scientist,Analytics First,Medium (201-1000),"Seattle, WA",Entry Level (0-2 years),Hybrid,90202.0,"Python, Deep Learning, PyTorch, R",2025-07-20,07/20/2025
+JOB_0230,Data Scientist,Insight Technologies,Medium (201-1000),"Los Angeles, CA",Lead Level (10+ years),Remote,148204.0,"GCP, R, Scikit-learn, Statistics, Python, Git, Pandas, TensorFlow",2025-03-02,03/02/2025
+JOB_0231,Data Scientist,Tech Corp,Medium (201-1000),"Austin, TX",Mid Level (3-5 years),On-site,104995.0,"GCP, Pandas, R, Tableau, Statistics, SQL",2024-12-07,12/07/2024
+JOB_0232,Data Analyst,Business Intelligence Ltd,Medium (201-1000),"San Diego, CA",Entry Level (0-2 years),Hybrid,61882.0,"Matplotlib, Tableau, SQL",2024-12-07,12/07/2024
+JOB_0233,Data Scientist,Big Data Co,Medium (201-1000),"Los Angeles, CA",Senior Level (6-10 years),On-site,128821.0,"AWS, Python, R, Machine Learning",2025-06-19,06/19/2025
+JOB_0234,Data Analyst,Intelligence Solutions,Large (1001+),"Denver, CO",Senior Level (6-10 years),Hybrid,114929.0,"R, Google Analytics, SQL, Excel",2025-07-15,07/15/2025
+JOB_0235,Data Engineer,Insight Technologies,Large (1001+),"Dallas, TX",Entry Level (0-2 years),Hybrid,69118.0,"Airflow, SQL, GCP, ETL, Redis",2025-08-04,08/04/2025
+JOB_0236,Data Scientist,Analytics Partners,Small (51-200),"Dallas, TX",Mid Level (3-5 years),Remote,127912.0,"PyTorch, Machine Learning, NumPy, TensorFlow, Scikit-learn, Deep Learning, Python",2025-01-23,01/23/2025
+JOB_0237,Data Analyst,Analytics Pro,Large (1001+),"Washington, DC",Lead Level (10+ years),Remote,155272.0,"SPSS, DAX, SQL, Excel",2025-03-29,03/29/2025
+JOB_0238,Data Analyst,Data Driven Co,Startup (1-50),"Atlanta, GA",Lead Level (10+ years),On-site,128877.0,"Matplotlib, SQL, Python",2024-12-17,12/17/2024
+JOB_0239,Data Engineer,Analytics Pro,Startup (1-50),"Los Angeles, CA",Senior Level (6-10 years),Remote,152029.0,"Kubernetes, Hadoop, Kafka",2025-04-07,04/07/2025
+JOB_0240,Data Analyst,Information Systems Inc,Large (1001+),"Phoenix, AZ",Lead Level (10+ years),On-site,85259.0,"Excel, R, Power BI, Git, Tableau, Statistics",2025-02-18,02/18/2025
+JOB_0241,Data Scientist,Information Systems Inc,Startup (1-50),"Atlanta, GA",Mid Level (3-5 years),Remote,139316.0,"Machine Learning, Python, TensorFlow, Power BI, Statistics, Jupyter",2025-05-11,05/11/2025
+JOB_0242,Data Scientist,Tech Corp,Medium (201-1000),"Dallas, TX",Entry Level (0-2 years),On-site,91680.0,"SQL, PyTorch, Statistics, Python, R, Scikit-learn, Docker, Machine Learning",2025-07-19,07/19/2025
+JOB_0243,Data Analyst,Analytics Hub,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),Remote,,"SQL, Google Analytics, Excel, Python",2024-12-28,12/28/2024
+JOB_0244,Data Scientist,Cloud Data Systems,Small (51-200),"Washington, DC",Entry Level (0-2 years),Remote,66000.0,"Git, Power BI, R, Machine Learning, TensorFlow, Statistics, Python",2024-09-29,09/29/2024
+JOB_0245,Data Analyst,Cloud Data Systems,Startup (1-50),"Dallas, TX",Entry Level (0-2 years),On-site,57686.0,"Power BI, SQL, Tableau, Excel",2025-03-21,03/21/2025
+JOB_0246,Data Engineer,Insight Technologies,Medium (201-1000),"New York, NY",Mid Level (3-5 years),Remote,142030.0,"Python, Kafka, Apache Spark, Airflow, AWS",2025-05-30,05/30/2025
+JOB_0247,Data Analyst,Intelligence Solutions,Medium (201-1000),"Portland, OR",Mid Level (3-5 years),On-site,88775.0,"R, Power BI, Matplotlib, SQL, Python, Excel, Statistics",2024-09-09,09/09/2024
+JOB_0248,Data Engineer,DataFlow Systems,Large (1001+),"Portland, OR",Lead Level (10+ years),Remote,215994.0,"Docker, Azure, Hadoop, Apache Spark, Python, SQL, Airflow, ETL",2025-02-01,02/01/2025
+JOB_0249,Data Analyst,Intelligence Solutions,Small (51-200),"San Diego, CA",Lead Level (10+ years),On-site,129441.0,"SPSS, DAX, Tableau, Excel",2025-02-17,02/17/2025
+JOB_0250,Data Analyst,Smart Analytics,Large (1001+),"Chicago, IL",Senior Level (6-10 years),Remote,92296.0,"Pandas, SQL, Excel, Seaborn, R, Statistics",2025-05-23,05/23/2025
+JOB_0251,Data Scientist,AI Innovations,Medium (201-1000),"Chicago, IL",Senior Level (6-10 years),Hybrid,294972.0,"R, Python, NumPy, TensorFlow, Statistics, GCP",2024-09-18,09/18/2024
+JOB_0252,Data Scientist,Data Science Corp,Startup (1-50),"New York, NY",Senior Level (6-10 years),Remote,208686.0,"Machine Learning, Jupyter, NumPy, Python, Pandas, R, Git",2024-11-13,11/13/2024
+JOB_0253,Data Analyst,Data Driven Co,Startup (1-50),"Chicago, IL",Senior Level (6-10 years),Remote,72688.0,"Excel, Statistics, SQL, R, Tableau, SPSS, Python, Pandas",2024-11-14,11/14/2024
+JOB_0254,Data Scientist,Information Analytics,Small (51-200),"Miami, FL",Mid Level (3-5 years),On-site,112154.0,"Python, Docker, PyTorch, Machine Learning, Scikit-learn, R, Statistics",2024-12-09,12/09/2024
+JOB_0255,Data Scientist,Data Driven Co,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),On-site,294688.0,"Python, Docker, SQL, R, Azure, Machine Learning",2025-04-28,04/28/2025
+JOB_0256,Data Analyst,AI Innovations,Medium (201-1000),"Dallas, TX",Senior Level (6-10 years),On-site,101865.0,"Looker, R, DAX",2025-03-08,03/08/2025
+JOB_0257,Data Scientist,DataFlow Systems,Large (1001+),"New York, NY",Senior Level (6-10 years),On-site,156986.0,"R, Python, TensorFlow, Tableau",2024-10-26,10/26/2024
+JOB_0258,Data Scientist,DataFlow Systems,Medium (201-1000),"Chicago, IL",Lead Level (10+ years),On-site,196108.0,"Deep Learning, Python, SQL, Machine Learning, Tableau, Statistics, R, PyTorch",2025-04-16,04/16/2025
+JOB_0259,Data Scientist,Digital Insights,Small (51-200),"San Diego, CA",Senior Level (6-10 years),Hybrid,115123.0,"Python, NumPy, SQL, Jupyter, Scikit-learn, R",2025-05-15,05/15/2025
+JOB_0260,Data Analyst,Insight Technologies Inc.,Startup (1-50),Portland OR,Entry Level 0-2 years,Remote,,"R, SQL, Python",2025-07-17,07/17/2025
+JOB_0261,Data Analyst,Analytics Pro,Small (51-200),"Portland, OR",Mid Level (3-5 years),Remote,79885.0,"SQL, Google Analytics, Seaborn, Tableau, Python, Excel, Pandas",2024-11-28,11/28/2024
+JOB_0262,Data Scientist,Data Experts Ltd Inc.,Startup (1-50),Portland OR,Lead Level 10+ years,Remote,,"Machine Learning, Pandas, Python, Scikit-learn, R, SQL, Jupyter",2025-05-08,05/08/2025
+JOB_0263,Data Analyst,Tech Corp,Large (1001+),"Boston, MA",Senior Level (6-10 years),Remote,109116.0,"SQL, Git, PowerQuery",2024-10-02,10/02/2024
+JOB_0264,Data Scientist,Information Systems Inc,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),On-site,144218.0,"Machine Learning, Tableau, Scikit-learn, Python, Deep Learning",2024-09-18,09/18/2024
+JOB_0265,Data Engineer,Data Driven Co,Startup (1-50),"San Diego, CA",Mid Level (3-5 years),Hybrid,86127.0,"Hadoop, Apache Spark, Python",2025-07-07,07/07/2025
+JOB_0266,Data Analyst,Tech Corp,Small (51-200),"Denver, CO",Entry Level (0-2 years),Remote,61132.0,"Matplotlib, Excel, Pandas, Looker, SQL, Python",2025-04-21,04/21/2025
+JOB_0267,Data Scientist,Insight Technologies,Startup (1-50),"Dallas, TX",Entry Level (0-2 years),Remote,114166.0,"Scikit-learn, SQL, Statistics, Pandas, R, Docker, Python, Jupyter",2024-11-25,11/25/2024
+JOB_0268,Data Engineer,Business Intelligence Ltd,Startup (1-50),"Miami, FL",Entry Level (0-2 years),Remote,77576.0,"SQL, ETL, MongoDB",2025-01-17,01/17/2025
+JOB_0269,Data Scientist,Analytics Pro,Medium (201-1000),"San Diego, CA",Lead Level (10+ years),Remote,186277.0,"Tableau, Python, Docker, PyTorch",2025-05-24,05/24/2025
+JOB_0270,Data Scientist,Data Science Corp,Small (51-200),"Miami, FL",Senior Level (6-10 years),Hybrid,188708.0,"Machine Learning, Statistics, Python, Git, Pandas, GCP, SQL",2024-09-18,09/18/2024
+JOB_0271,Data Engineer,Analytics Pro,Medium (201-1000),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,139996.0,"Airflow, Python, NoSQL, Apache Spark, Kubernetes, Docker, GCP",2025-06-19,06/19/2025
+JOB_0272,Data Engineer,Analytics Hub,Large (1001+),"Portland, OR",Senior Level (6-10 years),Remote,153207.0,"Python, Kubernetes, ETL, GCP, Hadoop, Docker, Apache Spark",2025-02-07,02/07/2025
+JOB_0273,Data Analyst,Analytics Pro,Medium (201-1000),"Portland, OR",Lead Level (10+ years),Remote,85376.0,"Matplotlib, Python, Excel",2025-08-09,08/09/2025
+JOB_0274,Data Analyst,Data Science Corp,Medium (201-1000),"Phoenix, AZ",Mid Level (3-5 years),On-site,50340.0,"Matplotlib, Excel, SQL",2024-10-02,10/02/2024
+JOB_0275,Data Analyst,Big Data Co,Small (51-200),"Phoenix, AZ",Senior Level (6-10 years),Remote,94415.0,"Matplotlib, SQL, Excel, Python, PowerQuery, Seaborn",2024-11-12,11/12/2024
+JOB_0276,Data Analyst,Analytics Pro,Medium (201-1000),"San Francisco, CA",Entry Level (0-2 years),Hybrid,91193.0,"Excel, Seaborn, Python, Looker, Tableau, SQL, Power BI",2024-09-25,09/25/2024
+JOB_0277,Data Scientist,Intelligence Solutions,Large (1001+),"New York, NY",Senior Level (6-10 years),Remote,188717.0,"Deep Learning, Python, Jupyter, Machine Learning",2025-05-22,05/22/2025
+JOB_0278,Data Engineer,Business Intelligence Ltd,Medium (201-1000),"Seattle, WA",Mid Level (3-5 years),On-site,104292.0,"SQL, Airflow, Docker, Hadoop",2025-04-18,04/18/2025
+JOB_0279,Data Scientist,Analytics Pro,Medium (201-1000),"Boston, MA",Lead Level (10+ years),On-site,258770.0,"Python, R, Deep Learning, Azure, Jupyter, PyTorch, Scikit-learn, Pandas",2024-12-13,12/13/2024
+JOB_0280,Data Scientist,Data Driven Co,Startup (1-50),"San Francisco, CA",Mid Level (3-5 years),On-site,140792.0,"Docker, Deep Learning, SQL, Python, Machine Learning, Jupyter, PyTorch",2025-01-26,01/26/2025
+JOB_0281,Data Scientist,Information Analytics,Small (51-200),"Austin, TX",Lead Level (10+ years),On-site,236161.0,"Tableau, Python, R, PyTorch, AWS, Git, SQL",2025-01-20,01/20/2025
+JOB_0282,Data Engineer,Analytics First,Medium (201-1000),"Seattle, WA",Lead Level (10+ years),Hybrid,217957.0,"Kubernetes, Azure, Python, Linux, SQL, GCP, Redis, Apache Spark",2025-07-30,07/30/2025
+JOB_0283,Data Analyst,Business Intelligence Ltd,Large (1001+),"Austin, TX",Lead Level (10+ years),On-site,93094.0,"Python, SQL, Excel, R, Statistics, PowerQuery, Tableau",2024-10-06,10/06/2024
+JOB_0284,Data Engineer,Analytics Hub,Small (51-200),"Portland, OR",Entry Level (0-2 years),On-site,68532.0,"ETL, Airflow, Kafka, PostgreSQL, Python, Azure, SQL, Docker",2025-01-05,01/05/2025
+JOB_0285,Data Engineer,Smart Analytics,Medium (201-1000),"Los Angeles, CA",Lead Level (10+ years),Remote,161003.0,"ETL, Hadoop, Python, GCP, Kafka, MongoDB, AWS, PostgreSQL",2024-12-16,12/16/2024
+JOB_0286,Data Engineer,Information Analytics,Large (1001+),"San Francisco, CA",Lead Level (10+ years),Hybrid,232802.0,"Hadoop, Apache Spark, SQL, AWS, Kafka, Redis, Python",2025-03-02,03/02/2025
+JOB_0287,Data Analyst,Information Systems Inc,Startup (1-50),"Los Angeles, CA",Entry Level (0-2 years),Remote,67265.0,"Tableau, R, Power BI, SQL, Python, Excel, PowerQuery, SPSS",2024-12-14,12/14/2024
+JOB_0288,Data Analyst,Analytics First,Large (1001+),"Washington, DC",Lead Level (10+ years),Remote,121913.0,"Statistics, Python, Tableau",2024-08-14,08/14/2024
+JOB_0289,Data Scientist,Analytics Hub,Medium (201-1000),"Atlanta, GA",Mid Level (3-5 years),On-site,147147.0,"Python, R, Machine Learning, Tableau, PyTorch, Statistics, Pandas, Deep Learning",2025-04-03,04/03/2025
+JOB_0290,Data Scientist,Big Data Co,Medium (201-1000),"New York, NY",Lead Level (10+ years),On-site,177139.0,"Machine Learning, Python, R",2024-09-21,09/21/2024
+JOB_0291,Data Scientist,Insight Technologies,Large (1001+),"Phoenix, AZ",Mid Level (3-5 years),On-site,127431.0,"Python, R, Pandas",2025-04-09,04/09/2025
+JOB_0292,Data Analyst,Data Solutions Inc,Startup (1-50),"San Francisco, CA",Senior Level (6-10 years),Remote,98834.0,"Python, SQL, DAX, Excel, Tableau, Pandas, Google Analytics, Seaborn",2025-01-31,01/31/2025
+JOB_0293,Data Engineer,Insight Technologies,Small (51-200),"San Diego, CA",Mid Level (3-5 years),Hybrid,116690.0,"Python, SQL, Apache Spark, Git, ETL",2024-10-29,10/29/2024
+JOB_0294,Data Analyst,Digital Insights,Small (51-200),"phoenix, az",Lead Level (10+ years),Hybrid,,"Excel, Matplotlib, Google Analytics, SQL, Tableau, Python",2025-07-11,07/11/2025
+JOB_0295,Data Scientist,Analytics Partners,Large (1001+),"Chicago, IL",Lead Level (10+ years),On-site,140153.0,"Python, Statistics, Deep Learning, R, Machine Learning, Scikit-learn, Docker, SQL",2024-08-11,08/11/2024
+JOB_0296,Data Scientist,Analytics Partners,Startup (1-50),"Phoenix, AZ",Entry Level (0-2 years),Hybrid,77363.0,"R, Azure, Deep Learning, Statistics, Python",2024-11-12,11/12/2024
+JOB_0297,Data Analyst,Insight Technologies,Medium (201-1000),"Portland, OR",Lead Level (10+ years),Hybrid,105725.0,"PowerQuery, R, Git, Power BI, SQL, Tableau, Excel",2025-02-23,02/23/2025
+JOB_0298,Data Scientist,Information Analytics,Small (51-200),"Dallas, TX",Lead Level (10+ years),Hybrid,232413.0,"R, Machine Learning, SQL, Python, Statistics",2025-08-05,08/05/2025
+JOB_0299,Data Analyst,Big Data Co,Small (51-200),"Seattle, WA",Senior Level (6-10 years),On-site,102464.0,"Excel, Statistics, Tableau, Seaborn",2024-10-07,10/07/2024
+JOB_0300,Data Analyst,Analytics Partners,Large (1001+),"Los Angeles, CA",Mid Level (3-5 years),On-site,96648.0,"Excel, Tableau, SQL, Pandas, Python, DAX",2024-11-12,11/12/2024
+JOB_0301,Data Engineer,DataFlow Systems,Small (51-200),"Miami, FL",Mid Level (3-5 years),On-site,92261.0,"ETL, MongoDB, Apache Spark, SQL",2025-01-03,01/03/2025
+JOB_0302,Data Analyst,Tech Corp,Large (1001+),"New York, NY",Senior Level (6-10 years),Remote,144415.0,"Excel, R, Power BI, SQL, Statistics, Python",2024-11-16,11/16/2024
+JOB_0303,Data Engineer,Intelligence Solutions,Large (1001+),"Los Angeles, CA",Lead Level (10+ years),On-site,,"SQL, Python, Azure",2024-11-02,11/02/2024
+JOB_0304,Data Analyst,Business Intelligence Ltd,Small (51-200),"Boston, MA",Entry Level (0-2 years),Hybrid,75971.0,"Excel, SQL, Matplotlib, Pandas",2025-01-03,01/03/2025
+JOB_0305,Data Scientist,Analytics Partners,Startup (1-50),"Denver, CO",Entry Level (0-2 years),On-site,91523.0,"Python, Power BI, Machine Learning, Deep Learning, TensorFlow",2025-05-14,2025-05-14
+JOB_0306,Data Scientist,DataFlow Systems,Small (51-200),"San Diego, CA",Lead Level (10+ years),On-site,220799.0,"Machine Learning, GCP, R, Python, Jupyter, TensorFlow, Deep Learning, Azure",2024-09-30,09/30/2024
+JOB_0307,Data Scientist,Analytics Hub,Medium (201-1000),"Dallas, TX",Entry Level (0-2 years),On-site,112707.0,"GCP, R, Git, Statistics, NumPy, Tableau",2024-09-22,09/22/2024
+JOB_0308,Data Scientist,Analytics Partners,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),Hybrid,126120.0,"GCP, R, SQL, Python, Jupyter, Docker, TensorFlow, Statistics",2025-06-17,06/17/2025
+JOB_0309,Data Scientist,Data Solutions Inc,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),Hybrid,140617.0,"Python, R, GCP, SQL, Scikit-learn, Machine Learning, TensorFlow",2024-12-30,12/30/2024
+JOB_0310,Data Analyst,Analytics Partners,Medium (201-1000),"Boston, MA",Senior Level (6-10 years),Hybrid,83635.0,"Python, Excel, SPSS",2025-07-22,07/22/2025
+JOB_0311,Data Engineer,Business Intelligence Ltd,Small (51-200),"Miami, FL",Entry Level (0-2 years),Hybrid,73584.0,"Kafka, Hadoop, Python, Airflow",2024-10-15,10/15/2024
+JOB_0312,Data Scientist,Data Experts Ltd,Small (51-200),"Phoenix, AZ",Lead Level (10+ years),Hybrid,194288.0,"Machine Learning, SQL, Python, GCP, Docker",2025-06-28,06/28/2025
+JOB_0313,Data Analyst,Data Science Corp,Medium (201-1000),"Portland, OR",Entry Level (0-2 years),Hybrid,71137.0,"Python, Git, SQL, Pandas, R, DAX",2025-02-13,02/13/2025
+JOB_0314,Data Engineer,Analytics Hub,Medium (201-1000),"Dallas, TX",Entry Level (0-2 years),Remote,78275.0,"Python, Apache Spark, Scala, NoSQL, Kafka, Hadoop",2025-05-09,05/09/2025
+JOB_0315,Data Scientist,Analytics First,Medium (201-1000),"Denver, CO",Senior Level (6-10 years),On-site,108117.0,"Python, PyTorch, R, Machine Learning, SQL, Jupyter, Power BI",2025-05-16,05/16/2025
+JOB_0316,Data Analyst,Data Solutions Inc,Startup (1-50),"Austin, TX",Entry Level (0-2 years),Hybrid,44071.0,"Matplotlib, Statistics, R",2025-04-01,04/01/2025
+JOB_0317,Data Engineer,Intelligence Solutions,Small (51-200),"Denver, CO",Entry Level (0-2 years),Hybrid,83783.0,"Python, ETL, Apache Spark, PostgreSQL, NoSQL, Kafka, Airflow, Kubernetes",2024-10-15,10/15/2024
+JOB_0318,Data Engineer,Information Systems Inc,Medium (201-1000),"Boston, MA",Entry Level (0-2 years),Remote,116127.0,"Python, Apache Spark, Docker, Kubernetes, SQL, MongoDB, Kafka, Scala",2025-02-15,02/15/2025
+JOB_0319,Data Scientist,Intelligence Solutions,Startup (1-50),"Boston, MA",Mid Level (3-5 years),Hybrid,108473.0,"Power BI, Deep Learning, NumPy",2024-09-26,09/26/2024
+JOB_0320,Data Scientist,Tech Corp,Startup (1-50),"Chicago, IL",Lead Level (10+ years),Hybrid,224766.0,"Python, PyTorch, NumPy",2025-01-31,01/31/2025
+JOB_0321,Data Analyst,Data Science Corp,Startup (1-50),"San Francisco, CA",Mid Level (3-5 years),Hybrid,85535.0,"SQL, Statistics, Pandas",2024-09-30,09/30/2024
+JOB_0322,Data Analyst,Smart Analytics,Startup (1-50),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,94997.0,"Statistics, Seaborn, R",2025-05-24,05/24/2025
+JOB_0323,Data Scientist,Smart Analytics,Large (1001+),"San Diego, CA",Mid Level (3-5 years),Hybrid,213168.0,"Machine Learning, Python, R, SQL, Docker, Tableau",2025-07-26,07/26/2025
+JOB_0324,Data Scientist,Information Systems Inc,Large (1001+),"San Francisco, CA",Lead Level (10+ years),On-site,218205.0,"GCP, SQL, R, Python",2024-10-19,10/19/2024
+JOB_0325,Data Analyst,Tech Corp,Medium (201-1000),"Washington, DC",Senior Level (6-10 years),Remote,104892.0,"Pandas, Power BI, SQL, Excel, R, PowerQuery, Looker",2025-05-01,05/01/2025
+JOB_0326,Data Analyst,Cloud Data Systems,Large (1001+),"Portland, OR",Entry Level (0-2 years),On-site,56370.0,"PowerQuery, Excel, Python, SQL",2024-10-05,10/05/2024
+JOB_0327,Data Analyst,Information Systems Inc,Medium (201-1000),"Miami, FL",Entry Level (0-2 years),Remote,53790.0,"Looker, R, Excel, Tableau, SQL, Git, Python",2025-02-23,02/23/2025
+JOB_0328,Data Analyst,Analytics Pro,Startup (1-50),"Phoenix, AZ",Lead Level (10+ years),Hybrid,97182.0,"R, Tableau, SQL",2024-09-12,09/12/2024
+JOB_0329,Data Analyst,Insight Technologies,Medium (201-1000),"Phoenix, AZ",Lead Level (10+ years),Hybrid,130273.0,"SQL, Power BI, Matplotlib, R, Python, PowerQuery, Excel",2025-08-08,08/08/2025
+JOB_0330,Data Analyst,Business Intelligence Ltd,Startup (1-50),"San Francisco, CA",Mid Level (3-5 years),On-site,78316.0,"SQL, Tableau, Statistics, Excel, Pandas, Python, R",2024-09-18,09/18/2024
+JOB_0331,Data Analyst,Analytics Partners,Startup (1-50),"Austin, TX",Lead Level (10+ years),On-site,127838.0,"SQL, Seaborn, Statistics, Excel, Python, Tableau",2025-08-01,08/01/2025
+JOB_0332,Data Scientist,Intelligence Solutions,Startup (1-50),"Chicago, IL",Entry Level (0-2 years),On-site,59606.0,"NumPy, R, Scikit-learn, Git, Machine Learning, Docker, Tableau",2025-06-18,06/18/2025
+JOB_0333,Data Scientist,Big Data Co,Startup (1-50),"San Diego, CA",Mid Level (3-5 years),Hybrid,71487.0,"Deep Learning, Machine Learning, R, Statistics, TensorFlow, Python, Git, Power BI",2024-10-18,10/18/2024
+JOB_0334,Data Engineer,Digital Insights,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),Remote,119473.0,"Git, Docker, SQL, Python, AWS, Airflow, Scala, Kubernetes",2024-12-24,2024-12-24
+JOB_0335,Data Analyst,Business Intelligence Ltd,Startup (1-50),"Phoenix, AZ",Lead Level (10+ years),On-site,27457.0,"Python, SQL, Excel, Pandas, DAX, Tableau, Seaborn",2025-08-08,08/08/2025
+JOB_0336,Data Analyst,Analytics Partners,Small (51-200),"New York, NY",Lead Level (10+ years),On-site,113487.0,"Git, SQL, Power BI, R, Excel",2024-10-28,10/28/2024
+JOB_0337,Data Analyst,Insight Technologies,Startup (1-50),"San Francisco, CA",Mid Level (3-5 years),Remote,68013.0,"Statistics, Excel, Tableau, Pandas",2024-08-15,08/15/2024
+JOB_0338,Data Scientist,Data Solutions Inc,Large (1001+),"Seattle, WA",Mid Level (3-5 years),Remote,138559.0,"Git, R, Python, Machine Learning",2025-01-20,01/20/2025
+JOB_0339,Data Analyst,Analytics Partners,Medium (201-1000),"Dallas, TX",Entry Level (0-2 years),Remote,23656.0,"SQL, Matplotlib, Excel, Power BI, Tableau, Statistics, Python, Seaborn",2025-04-23,04/23/2025
+JOB_0340,Data Engineer,Analytics Pro,Large (1001+),"New York, NY",Lead Level (10+ years),On-site,171322.0,"Hadoop, Airflow, SQL, AWS, Kafka",2025-01-15,2025-01-15
+JOB_0341,Data Engineer,Analytics Partners,Medium (201-1000),"Chicago, IL",Senior Level (6-10 years),Hybrid,164807.0,"Python, AWS, Azure, SQL",2025-06-23,06/23/2025
+JOB_0342,Data Scientist,DataFlow Systems,Small (51-200),"Phoenix, AZ",Mid Level (3-5 years),Remote,73133.0,"Python, R, Scikit-learn, SQL, Machine Learning, Statistics",2024-08-12,08/12/2024
+JOB_0343,Data Analyst,Analytics First,Startup (1-50),"Dallas, TX",Entry Level (0-2 years),Hybrid,63829.0,"Looker, Seaborn, SQL, PowerQuery, Pandas, Python, Excel, Tableau",2025-02-17,02/17/2025
+JOB_0344,Data Scientist,Data Experts Ltd,Startup (1-50),"Chicago, IL",Lead Level (10+ years),Remote,,"Python, Machine Learning, PyTorch, R, Tableau",2025-08-08,08/08/2025
+JOB_0345,Data Engineer,Information Systems Inc,Large (1001+),"Dallas, TX",Lead Level (10+ years),Hybrid,140527.0,"AWS, Java, Hadoop, Linux, Python, SQL, Apache Spark",2024-09-21,09/21/2024
+JOB_0346,Data Scientist,Analytics Partners,Startup (1-50),"Los Angeles, CA",Entry Level (0-2 years),On-site,92634.0,"Statistics, Scikit-learn, SQL, Python",2025-07-14,07/14/2025
+JOB_0347,Data Engineer,Analytics First,Medium (201-1000),"Miami, FL",Lead Level (10+ years),On-site,137789.0,"Airflow, SQL, Python, Kafka",2024-12-26,12/26/2024
+JOB_0348,Data Engineer,Smart Analytics,Startup (1-50),"Phoenix, AZ",Entry Level (0-2 years),Remote,84580.0,"SQL, Apache Spark, PostgreSQL, Docker, Python, Hadoop",2025-03-27,03/27/2025
+JOB_0349,Data Analyst,Analytics Hub,Medium (201-1000),"Phoenix, AZ",Mid Level (3-5 years),On-site,55925.0,"Python, SQL, Google Analytics",2024-12-22,12/22/2024
+JOB_0350,Data Analyst,AI Innovations,Medium (201-1000),"Dallas, TX",Entry Level (0-2 years),Remote,48133.0,"SQL, Python, Power BI, Matplotlib, R, Tableau, Excel, Seaborn",2024-09-24,09/24/2024
+JOB_0351,Data Scientist,Business Intelligence Ltd,Small (51-200),"New York, NY",Senior Level (6-10 years),Remote,186619.0,"Python, NumPy, Tableau, Scikit-learn, Jupyter, GCP",2025-03-04,03/04/2025
+JOB_0352,Data Scientist,Smart Analytics,Startup (1-50),"Denver, CO",Entry Level (0-2 years),Remote,64566.0,"Azure, Power BI, TensorFlow, Tableau",2024-09-09,09/09/2024
+JOB_0353,Data Analyst,Analytics Partners,Medium (201-1000),"Portland, OR",Entry Level (0-2 years),Remote,46479.0,"SQL, Excel, R",2024-08-20,08/20/2024
+JOB_0354,Data Scientist,Analytics First,Startup (1-50),"Seattle, WA",Entry Level (0-2 years),Remote,89218.0,"Statistics, Tableau, Python",2025-04-02,04/02/2025
+JOB_0355,Data Engineer,Data Experts Ltd,Startup (1-50),"San Diego, CA",Lead Level (10+ years),On-site,150650.0,"MongoDB, Git, Linux, Hadoop, Scala, AWS",2025-07-24,07/24/2025
+JOB_0356,Data Scientist,Analytics Hub,Small (51-200),"Boston, MA",Senior Level (6-10 years),Remote,185517.0,"Machine Learning, TensorFlow, Python, Statistics, Deep Learning, SQL, Docker",2025-06-19,06/19/2025
+JOB_0357,Data Analyst,Data Solutions Inc,Startup (1-50),"Los Angeles, CA",Lead Level (10+ years),On-site,142949.0,"SQL, Excel, DAX, R",2025-02-21,02/21/2025
+JOB_0358,Data Analyst,DataFlow Systems,Startup (1-50),"Atlanta, GA",Mid Level (3-5 years),On-site,81436.0,"SQL, Excel, Seaborn, Statistics, Tableau",2025-08-09,08/09/2025
+JOB_0359,Data Scientist,Data Science Corp,Medium (201-1000),"Miami, FL",Senior Level (6-10 years),Remote,169265.0,"Machine Learning, Deep Learning, Python, R, GCP",2024-08-22,08/22/2024
+JOB_0360,Data Engineer,Data Solutions Inc,Large (1001+),"Phoenix, AZ",Senior Level (6-10 years),Hybrid,134508.0,"Python, AWS, SQL, Kubernetes, MongoDB, Git, Docker",2025-02-08,02/08/2025
+JOB_0361,Data Scientist,Business Intelligence Ltd,Startup (1-50),"Portland, OR",Mid Level (3-5 years),Remote,116504.0,"Scikit-learn, Python, SQL, R, Deep Learning, Machine Learning",2025-05-30,05/30/2025
+JOB_0362,Data Engineer,Cloud Data Systems,Medium (201-1000),"Seattle, WA",Mid Level (3-5 years),Hybrid,99697.0,"Python, Apache Spark, SQL, MongoDB, Hadoop",2025-08-01,08/01/2025
+JOB_0363,Data Engineer,Analytics Partners,Small (51-200),"Washington, DC",Mid Level (3-5 years),On-site,111010.0,"Kafka, Apache Spark, Hadoop, AWS, Python",2025-05-13,05/13/2025
+JOB_0364,Data Scientist,Tech Corp,Large (1001+),"Chicago, IL",Mid Level (3-5 years),Remote,96406.0,"Git, Azure, R, Scikit-learn, Machine Learning, Python, Deep Learning",2025-01-25,01/25/2025
+JOB_0365,Data Scientist,Data Solutions Inc,Startup (1-50),"Seattle, WA",Senior Level (6-10 years),Remote,229422.0,"R, Jupyter, Python, Azure, Machine Learning, Docker, Deep Learning, Pandas",2025-06-05,06/05/2025
+JOB_0366,Data Engineer,Analytics Pro,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),Hybrid,180810.0,"Airflow, Python, NoSQL, Hadoop, SQL, Apache Spark",2025-07-14,07/14/2025
+JOB_0367,Data Scientist,Intelligence Solutions,Large (1001+),"Seattle, WA",Mid Level (3-5 years),Hybrid,176691.0,"Python, PyTorch, R, TensorFlow",2025-01-18,01/18/2025
+JOB_0368,Data Scientist,Cloud Data Systems,Small (51-200),"Miami, FL",Senior Level (6-10 years),On-site,181242.0,"Tableau, Python, R, TensorFlow, GCP, SQL, Pandas, NumPy",2025-01-13,01/13/2025
+JOB_0369,Data Engineer,Analytics Partners,Startup (1-50),"New York, NY",Lead Level (10+ years),Remote,266011.0,"Apache Spark, SQL, Docker, GCP, Python",2025-06-13,06/13/2025
+JOB_0370,Data Scientist,Data Experts Ltd,Small (51-200),"Washington, DC",Entry Level (0-2 years),On-site,107057.0,"Docker, Pandas, Tableau, PyTorch",2024-09-17,09/17/2024
+JOB_0371,Data Scientist,Analytics First,Large (1001+),"Miami, FL",Entry Level (0-2 years),Remote,72353.0,"Statistics, Deep Learning, Python, SQL",2024-12-22,12/22/2024
+JOB_0372,Data Analyst,Tech Corp,Startup (1-50),"Phoenix, AZ",Entry Level (0-2 years),On-site,53751.0,"SQL, Pandas, R, Google Analytics, Excel, Seaborn, Git, Python",2025-03-21,03/21/2025
+JOB_0373,Data Analyst,Information Systems Inc,Large (1001+),"Denver, CO",Lead Level (10+ years),Remote,122661.0,"Python, Excel, DAX, Matplotlib, Power BI, Google Analytics, Statistics",2025-04-11,04/11/2025
+JOB_0374,Data Analyst,Data Solutions Inc,Medium (201-1000),"Denver, CO",Entry Level (0-2 years),Remote,71184.0,"Seaborn, SQL, Matplotlib, Excel, R",2025-01-19,01/19/2025
+JOB_0375,Data Engineer,Digital Insights,Startup (1-50),"Miami, FL",Lead Level (10+ years),Hybrid,205860.0,"ETL, Docker, Kubernetes, Hadoop, Git",2024-09-25,09/25/2024
+JOB_0376,Data Analyst,Intelligence Solutions,Small (51-200),"San Diego, CA",Entry Level (0-2 years),Hybrid,41754.0,"Excel, SQL, Pandas, Statistics",2025-03-19,03/19/2025
+JOB_0377,Data Scientist,DataFlow Systems,Medium (201-1000),"Chicago, IL",Lead Level (10+ years),Hybrid,251498.0,"Python, NumPy, TensorFlow, Tableau, SQL",2024-12-31,12/31/2024
+JOB_0378,Data Scientist,Smart Analytics,Startup (1-50),"Dallas, TX",Lead Level (10+ years),On-site,123485.0,"TensorFlow, Pandas, SQL, GCP, Python, Machine Learning",2024-08-10,08/10/2024
+JOB_0379,Data Analyst,AI Innovations,Startup (1-50),"Washington, DC",Lead Level (10+ years),Remote,126248.0,"Seaborn, SQL, Pandas, R",2024-11-22,11/22/2024
+JOB_0380,Data Scientist,Data Science Corp,Large (1001+),"San Francisco, CA",Senior Level (6-10 years),On-site,142190.0,"Python, Jupyter, R, AWS, Scikit-learn",2025-07-13,07/13/2025
+JOB_0381,Data Engineer,Information Systems Inc,Small (51-200),"Austin, TX",Lead Level (10+ years),On-site,185637.0,"Python, Kafka, Hadoop, GCP, MongoDB",2024-08-31,08/31/2024
+JOB_0382,Data Scientist,Smart Analytics,Startup (1-50),"Boston, MA",Entry Level (0-2 years),Remote,135367.0,"Deep Learning, Python, SQL, R, TensorFlow",2025-07-17,07/17/2025
+JOB_0383,Data Analyst,Data Science Corp,Large (1001+),"Chicago, IL",Entry Level (0-2 years),Hybrid,58766.0,"Excel, Statistics, SQL, Pandas, Tableau, Seaborn",2025-07-26,07/26/2025
+JOB_0384,Data Scientist,Data Solutions Inc,Small (51-200),"San Francisco, CA",Lead Level (10+ years),Remote,189421.0,"Python, R, Azure, Statistics",2025-03-26,03/26/2025
+JOB_0385,Data Analyst,Intelligence Solutions,Startup (1-50),"Seattle, WA",Entry Level (0-2 years),Hybrid,57691.0,"Tableau, SQL, Excel, Statistics",2025-03-19,03/19/2025
+JOB_0386,Data Scientist,Analytics Pro,Large (1001+),"Miami, FL",Entry Level (0-2 years),Hybrid,77373.0,"Python, Machine Learning, Tableau, SQL, GCP, R, Deep Learning",2025-02-28,02/28/2025
+JOB_0387,Data Analyst,Information Analytics,Large (1001+),"Miami, FL",Entry Level (0-2 years),Remote,44856.0,"Power BI, Excel, SQL, Statistics",2025-03-09,03/09/2025
+JOB_0388,Data Scientist,Analytics Partners,Startup (1-50),"San Francisco, CA",Entry Level (0-2 years),On-site,126656.0,"R, Deep Learning, GCP, Statistics, Python",2025-05-10,05/10/2025
+JOB_0389,Data Scientist,Data Solutions Inc,Small (51-200),"Washington, DC",Lead Level (10+ years),On-site,,"Azure, R, Python, Statistics",2025-03-03,03/03/2025
+JOB_0390,Data Analyst,Data Solutions Inc,Large (1001+),"Austin, TX",Mid Level (3-5 years),On-site,72142.0,"Tableau, SQL, Looker",2025-02-15,02/15/2025
+JOB_0391,Data Scientist,Big Data Co,Small (51-200),"Boston, MA",Lead Level (10+ years),Remote,244957.0,"Deep Learning, TensorFlow, Statistics, R, Python, Jupyter, Azure, Machine Learning",2025-01-09,01/09/2025
+JOB_0392,Data Scientist,Information Analytics,Startup (1-50),"San Diego, CA",Lead Level (10+ years),Remote,231725.0,"Azure, PyTorch, Git, Python",2025-03-23,03/23/2025
+JOB_0393,Data Analyst,Data Solutions Inc,Small (51-200),"Phoenix, AZ",Senior Level (6-10 years),Remote,98213.0,"Power BI, Excel, SQL, R, Python, Google Analytics, Pandas, DAX",2025-01-15,01/15/2025
+JOB_0394,Data Scientist,Digital Insights,Small (51-200),"Atlanta, GA",Entry Level (0-2 years),Remote,58167.0,"Deep Learning, Tableau, Python, SQL",2024-09-07,09/07/2024
+JOB_0395,Data Scientist,Business Intelligence Ltd,Medium (201-1000),"San Diego, CA",Mid Level (3-5 years),On-site,86236.0,"PyTorch, Docker, Machine Learning, Python, TensorFlow, R",2025-04-24,04/24/2025
+JOB_0396,Data Analyst,Digital Insights,Large (1001+),"Denver, CO",Lead Level (10+ years),Hybrid,102560.0,"R, Tableau, SQL, Power BI, Excel",2025-05-18,05/18/2025
+JOB_0397,Data Engineer,Data Driven Co,Startup (1-50),"San Diego, CA",Entry Level (0-2 years),On-site,101503.0,"Kubernetes, Python, Apache Spark, SQL",2024-09-03,09/03/2024
+JOB_0398,Data Analyst,AI Innovations,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),Hybrid,51314.0,"Statistics, R, Tableau, SQL, Google Analytics, Seaborn, Matplotlib",2025-03-06,03/06/2025
+JOB_0399,Data Engineer,Data Experts Ltd,Small (51-200),"Portland, OR",Entry Level (0-2 years),Hybrid,64554.0,"Redis, Hadoop, Python, Kafka, Kubernetes, SQL, Apache Spark",2024-11-05,11/05/2024
+JOB_0400,Data Engineer,Intelligence Solutions,Large (1001+),"Boston, MA",Senior Level (6-10 years),On-site,148200.0,"Kafka, Hadoop, Python, SQL, PostgreSQL",2025-04-01,04/01/2025
+JOB_0401,Data Analyst,Analytics Partners,Startup (1-50),"Dallas, TX",Lead Level (10+ years),Remote,143339.0,"Pandas, Python, Tableau, SQL, Power BI, Excel, Looker, R",2025-04-27,04/27/2025
+JOB_0402,Data Engineer,Data Driven Co,Startup (1-50),"Portland, OR",Senior Level (6-10 years),On-site,140239.0,"SQL, Apache Spark, Python, Hadoop, Kubernetes",2024-09-10,09/10/2024
+JOB_0403,Data Engineer,AI Innovations,Small (51-200),"Boston, MA",Senior Level (6-10 years),Hybrid,198246.0,"Python, AWS, SQL",2024-12-10,12/10/2024
+JOB_0404,Data Analyst,Data Experts Ltd,Medium (201-1000),"Seattle, WA",Entry Level (0-2 years),On-site,73445.0,"SQL, Tableau, DAX, Git, Pandas, Excel",2025-03-11,03/11/2025
+JOB_0405,Data Scientist,Analytics First,Small (51-200),"Washington, DC",Mid Level (3-5 years),Hybrid,139355.0,"R, Python, Machine Learning, SQL, NumPy, Scikit-learn, TensorFlow, GCP",2025-05-09,05/09/2025
+JOB_0406,Data Engineer,Digital Insights,Small (51-200),"Atlanta, GA",Senior Level (6-10 years),On-site,120769.0,"SQL, Apache Spark, Git, NoSQL, Python, Docker",2024-09-27,09/27/2024
+JOB_0407,Data Analyst,Analytics First,Startup (1-50),"Atlanta, GA",Mid Level (3-5 years),Remote,70125.0,"Python, SQL, Seaborn, Power BI",2025-02-06,02/06/2025
+JOB_0408,Data Engineer,Analytics Partners,Medium (201-1000),"Austin, TX",Senior Level (6-10 years),On-site,111035.0,"ETL, Kubernetes, Apache Spark, Kafka, Python, Airflow",2024-10-08,10/08/2024
+JOB_0409,Data Scientist,Data Experts Ltd,Small (51-200),"Washington, DC",Entry Level (0-2 years),Hybrid,111626.0,"TensorFlow, Python, PyTorch, Machine Learning, R, GCP, Statistics, Deep Learning",2024-10-09,10/09/2024
+JOB_0410,Data Scientist,Smart Analytics,Small (51-200),"Dallas, TX",Mid Level (3-5 years),On-site,129974.0,"Python, SQL, Statistics, R, Deep Learning, Tableau, NumPy",2025-03-06,03/06/2025
+JOB_0411,Data Analyst,Data Experts Ltd Inc.,Medium (201-1000),Seattle WA,Entry Level 0-2 years,Hybrid,,"Excel, Python, Power BI, SQL, R",2024-11-07,11/07/2024
+JOB_0412,Data Analyst,Analytics Partners,Small (51-200),"Phoenix, AZ",Mid Level (3-5 years),On-site,78423.0,"Git, Tableau, Python, SQL",2024-09-23,09/23/2024
+JOB_0413,Data Analyst,Tech Corp,Startup (1-50),"Denver, CO",Lead Level (10+ years),Hybrid,104451.0,"SQL, Excel, Power BI, PowerQuery, Statistics, Tableau, Python, Git",2024-11-19,11/19/2024
+JOB_0414,Data Scientist,Tech Corp,Startup (1-50),"Phoenix, AZ",Mid Level (3-5 years),Hybrid,115134.0,"Machine Learning, SQL, Statistics, Deep Learning",2024-12-14,12/14/2024
+JOB_0415,Data Scientist,Digital Insights,Startup (1-50),"Atlanta, GA",Senior Level (6-10 years),Remote,150759.0,"Python, TensorFlow, SQL, NumPy, Pandas",2025-01-08,01/08/2025
+JOB_0416,Data Engineer,Smart Analytics,Medium (201-1000),"Austin, TX",Lead Level (10+ years),On-site,149611.0,"Apache Spark, SQL, Azure, Python",2025-02-08,02/08/2025
+JOB_0417,Data Engineer,Cloud Data Systems,Small (51-200),"los angeles, ca",Entry Level (0-2 years),Hybrid,,"NoSQL, Apache Spark, Python, SQL",2024-10-15,10/15/2024
+JOB_0418,Data Engineer,Data Solutions Inc,Large (1001+),"San Francisco, CA",Senior Level (6-10 years),Hybrid,,"PostgreSQL, Python, NoSQL, SQL, Hadoop, Linux, Apache Spark",2024-12-17,12/17/2024
+JOB_0419,Data Analyst,Tech Corp,Startup (1-50),"Portland, OR",Entry Level (0-2 years),Hybrid,54559.0,"SQL, Excel, Pandas, SPSS, R, Tableau",2024-10-07,10/07/2024
+JOB_0420,Data Scientist,AI Innovations,Startup (1-50),"Denver, CO",Mid Level (3-5 years),On-site,83235.0,"R, Python, Machine Learning, TensorFlow, Deep Learning, SQL, Statistics, Jupyter",2025-03-12,03/12/2025
+JOB_0421,Data Analyst,Intelligence Solutions,Startup (1-50),"Washington, DC",Mid Level (3-5 years),Hybrid,73527.0,"SQL, Matplotlib, Pandas",2025-06-21,06/21/2025
+JOB_0422,Data Analyst,Business Intelligence Ltd,Small (51-200),"Chicago, IL",Mid Level (3-5 years),On-site,69356.0,"SQL, Statistics, R, Pandas, Tableau, Excel",2025-08-04,08/04/2025
+JOB_0423,Data Analyst,Data Experts Ltd,Medium (201-1000),"Miami, FL",Mid Level (3-5 years),Remote,55832.0,"Tableau, Statistics, SQL",2024-08-10,08/10/2024
+JOB_0424,Data Scientist,Smart Analytics,Startup (1-50),"Portland, OR",Lead Level (10+ years),Hybrid,206840.0,"Git, PyTorch, Docker, Statistics, Deep Learning, SQL, Machine Learning, Python",2024-09-16,09/16/2024
+JOB_0425,Data Analyst,Data Driven Co,Medium (201-1000),"Chicago, IL",Lead Level (10+ years),On-site,133292.0,"Power BI, SQL, Python",2024-09-03,2024-09-03
+JOB_0426,Data Scientist,Analytics First,Large (1001+),"Boston, MA",Senior Level (6-10 years),Hybrid,216223.0,"Python, Machine Learning, Docker",2024-10-07,2024-10-07
+JOB_0427,Data Analyst,Digital Insights,Medium (201-1000),"Dallas, TX",Mid Level (3-5 years),On-site,67583.0,"SQL, Power BI, Excel, Matplotlib, Tableau, Pandas, R",2025-03-21,03/21/2025
+JOB_0428,Data Analyst,Digital Insights,Startup (1-50),"Dallas, TX",Senior Level (6-10 years),On-site,82814.0,"SQL, DAX, Tableau, Excel, Matplotlib, R",2025-03-01,03/01/2025
+JOB_0429,Data Analyst,Digital Insights,Startup (1-50),"Denver, CO",Lead Level (10+ years),Remote,83843.0,"SQL, Tableau, Matplotlib, Pandas, Statistics, Power BI, Python, Excel",2025-07-31,07/31/2025
+JOB_0430,Data Scientist,Analytics Partners,Large (1001+),"San Francisco, CA",Lead Level (10+ years),Hybrid,193116.0,"Python, Git, SQL, Deep Learning, Machine Learning, Azure",2025-07-22,07/22/2025
+JOB_0431,Data Engineer,Smart Analytics,Large (1001+),"Washington, DC",Entry Level (0-2 years),On-site,,"SQL, PostgreSQL, Java, GCP, ETL, Python",2024-10-05,10/05/2024
+JOB_0432,Data Analyst,Insight Technologies,Small (51-200),"Austin, TX",Entry Level (0-2 years),Hybrid,57141.0,"SQL, SPSS, Excel, Statistics, Matplotlib, Seaborn, Looker",2025-01-29,01/29/2025
+JOB_0433,Data Scientist,Data Experts Ltd,Medium (201-1000),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,127446.0,"Python, R, Scikit-learn, SQL, NumPy, Statistics, Machine Learning, Git",2025-07-21,07/21/2025
+JOB_0434,Data Analyst,Tech Corp,Small (51-200),"Miami, FL",Entry Level (0-2 years),Hybrid,68489.0,"Statistics, SQL, Seaborn, Tableau, R, DAX",2025-04-06,04/06/2025
+JOB_0435,Data Analyst,Analytics First,Medium (201-1000),"Austin, TX",Mid Level (3-5 years),Remote,86077.0,"R, SPSS, Statistics, Excel",2025-04-25,04/25/2025
+JOB_0436,Data Analyst,Analytics Hub,Large (1001+),"Chicago, IL",Entry Level (0-2 years),Hybrid,68068.0,"Excel, SQL, R",2025-03-26,03/26/2025
+JOB_0437,Data Engineer,Big Data Co Inc.,Large (1001+),Denver CO,Entry Level 0-2 years,On-site,,"Redis, SQL, Hadoop, Python, Java, Scala, Airflow",2024-08-27,08/27/2024
+JOB_0438,Data Engineer,Insight Technologies,Small (51-200),"Washington, DC",Senior Level (6-10 years),Hybrid,159076.0,"Docker, Kafka, Python, Apache Spark, Airflow, Hadoop",2025-07-18,07/18/2025
+JOB_0439,Data Engineer,Analytics First,Large (1001+),"Chicago, IL",Lead Level (10+ years),Hybrid,221836.0,"Python, Apache Spark, Docker, Airflow, Hadoop",2025-07-11,07/11/2025
+JOB_0440,Data Scientist,Tech Corp,Medium (201-1000),"Portland, OR",Mid Level (3-5 years),On-site,141786.0,"Statistics, Python, TensorFlow, Machine Learning, Pandas",2025-06-29,06/29/2025
+JOB_0441,Data Engineer,Data Experts Ltd,Small (51-200),"New York, NY",Mid Level (3-5 years),Hybrid,133330.0,"Python, AWS, Docker",2025-03-06,03/06/2025
+JOB_0442,Data Analyst,AI Innovations,Large (1001+),"Miami, FL",Lead Level (10+ years),Remote,129620.0,"Seaborn, Pandas, Google Analytics",2025-01-29,01/29/2025
+JOB_0443,Data Analyst,Analytics Hub,Large (1001+),"Dallas, TX",Entry Level (0-2 years),Hybrid,44411.0,"Python, Excel, SQL, R, DAX, Matplotlib, Statistics",2025-06-06,2025-06-06
+JOB_0444,Data Scientist,DataFlow Systems,Large (1001+),"San Diego, CA",Entry Level (0-2 years),Hybrid,107188.0,"Python, Machine Learning, Statistics, Git, Deep Learning, R, AWS",2025-04-13,04/13/2025
+JOB_0445,Data Engineer,Smart Analytics,Startup (1-50),"Washington, DC",Mid Level (3-5 years),On-site,130184.0,"Python, Kubernetes, SQL, Azure, Java, PostgreSQL, Docker",2025-07-11,07/11/2025
+JOB_0446,Data Engineer,Business Intelligence Ltd,Large (1001+),"Washington, DC",Mid Level (3-5 years),On-site,105481.0,"Apache Spark, ETL, Python, SQL, Scala, PostgreSQL",2025-01-06,01/06/2025
+JOB_0447,Data Engineer,DataFlow Systems,Medium (201-1000),"Miami, FL",Senior Level (6-10 years),Hybrid,132487.0,"Redis, Python, SQL, Apache Spark, Hadoop, Kafka, Java, PostgreSQL",2025-05-19,05/19/2025
+JOB_0448,Data Engineer,Smart Analytics,Small (51-200),"Boston, MA",Senior Level (6-10 years),Hybrid,203075.0,"Apache Spark, SQL, Azure, Python, Airflow, ETL, Hadoop, Kafka",2025-05-13,05/13/2025
+JOB_0449,Data Engineer,Analytics Partners,Large (1001+),"Austin, TX",Lead Level (10+ years),Hybrid,183363.0,"Python, SQL, NoSQL, Docker, Kafka",2025-05-09,05/09/2025
+JOB_0450,Data Analyst,Smart Analytics,Startup (1-50),"New York, NY",Lead Level (10+ years),Hybrid,134993.0,"Pandas, SQL, R, Python",2024-09-06,09/06/2024
+JOB_0451,Data Scientist,Smart Analytics,Startup (1-50),"Boston, MA",Senior Level (6-10 years),Hybrid,203424.0,"Statistics, Python, Machine Learning, TensorFlow",2025-01-07,01/07/2025
+JOB_0452,Data Scientist,Information Analytics,Small (51-200),"Denver, CO",Entry Level (0-2 years),Hybrid,81486.0,"Pandas, Python, R, Machine Learning, TensorFlow, SQL, Deep Learning",2025-07-06,07/06/2025
+JOB_0453,Data Engineer,Data Solutions Inc,Large (1001+),"Phoenix, AZ",Senior Level (6-10 years),On-site,144980.0,"ETL, SQL, Hadoop, Java, PostgreSQL, Python, Docker, GCP",2025-03-10,03/10/2025
+JOB_0454,Data Analyst,AI Innovations,Large (1001+),"San Diego, CA",Senior Level (6-10 years),Remote,111500.0,"Python, Seaborn, Excel, Statistics, SQL, Looker, Pandas, Power BI",2025-06-29,06/29/2025
+JOB_0455,Data Analyst,AI Innovations,Medium (201-1000),"Atlanta, GA",Mid Level (3-5 years),On-site,54880.0,"SQL, R, Excel, Tableau, Python, DAX, Power BI, SPSS",2024-11-07,11/07/2024
+JOB_0456,Data Engineer,Data Science Corp,Startup (1-50),"Atlanta, GA",Entry Level (0-2 years),On-site,81317.0,"Hadoop, Python, SQL, Azure, Redis, PostgreSQL, Apache Spark",2024-12-29,12/29/2024
+JOB_0457,Data Analyst,Analytics First,Large (1001+),"Boston, MA",Entry Level (0-2 years),Hybrid,56073.0,"SQL, Git, Python",2024-10-27,10/27/2024
+JOB_0458,Data Scientist,Data Experts Ltd,Medium (201-1000),"Phoenix, AZ",Senior Level (6-10 years),Remote,159864.0,"Python, Jupyter, Scikit-learn, Statistics, PyTorch",2025-08-06,08/06/2025
+JOB_0459,Data Scientist,Intelligence Solutions,Large (1001+),"San Francisco, CA",Mid Level (3-5 years),Remote,118964.0,"Machine Learning, R, Python, GCP",2025-02-03,02/03/2025
+JOB_0460,Data Scientist,Information Analytics,Large (1001+),"Boston, MA",Mid Level (3-5 years),Hybrid,95536.0,"R, Python, Azure",2025-07-07,07/07/2025
+JOB_0461,Data Analyst,Data Solutions Inc,Medium (201-1000),"Miami, FL",Mid Level (3-5 years),On-site,66815.0,"Python, Statistics, SQL, Excel, R, SPSS",2024-10-06,10/06/2024
+JOB_0462,Data Engineer,Insight Technologies,Large (1001+),"Miami, FL",Senior Level (6-10 years),On-site,129232.0,"SQL, GCP, Python, Kafka, Docker",2024-08-31,08/31/2024
+JOB_0463,Data Analyst,DataFlow Systems,Startup (1-50),"San Francisco, CA",Mid Level (3-5 years),Hybrid,108931.0,"PowerQuery, Python, SQL, Excel",2024-09-11,09/11/2024
+JOB_0464,Data Analyst,Big Data Co,Small (51-200),"Portland, OR",Lead Level (10+ years),Hybrid,130803.0,"Excel, Seaborn, SQL, Python, Power BI, R, Matplotlib, Tableau",2025-08-03,08/03/2025
+JOB_0465,Data Scientist,Tech Corp,Large (1001+),"San Francisco, CA",Mid Level (3-5 years),Hybrid,22916.0,"R, Pandas, PyTorch",2025-01-25,01/25/2025
+JOB_0466,Data Scientist,Analytics Partners,Small (51-200),"Atlanta, GA",Entry Level (0-2 years),On-site,85564.0,"Scikit-learn, Python, Deep Learning, SQL, AWS, R",2025-03-05,03/05/2025
+JOB_0467,Data Scientist,Big Data Co,Startup (1-50),"New York, NY",Lead Level (10+ years),Hybrid,,"Python, NumPy, SQL",2025-06-21,06/21/2025
+JOB_0468,Data Engineer,Data Driven Co,Medium (201-1000),"Austin, TX",Entry Level (0-2 years),Hybrid,92683.0,"Python, SQL, Linux, Airflow, Git",2024-09-22,09/22/2024
+JOB_0469,Data Scientist,Digital Insights,Small (51-200),"New York, NY",Lead Level (10+ years),Remote,217326.0,"Statistics, Deep Learning, R, NumPy, Azure, Git, PyTorch",2025-02-25,02/25/2025
+JOB_0470,Data Scientist,Tech Corp,Small (51-200),"Portland, OR",Senior Level (6-10 years),Remote,166067.0,"Python, GCP, Scikit-learn",2024-08-30,08/30/2024
+JOB_0471,Data Analyst,AI Innovations,Medium (201-1000),"San Francisco, CA",Senior Level (6-10 years),Remote,151681.0,"Tableau, SPSS, Excel, SQL, PowerQuery, Google Analytics, Python, Power BI",2025-03-08,03/08/2025
+JOB_0472,Data Engineer,AI Innovations,Startup (1-50),"Washington, DC",Senior Level (6-10 years),Remote,121528.0,"Python, Kafka, Linux, Apache Spark, Docker, SQL, ETL",2025-07-18,07/18/2025
+JOB_0473,Data Engineer,DataFlow Systems,Startup (1-50),"Atlanta, GA",Lead Level (10+ years),On-site,295104.0,"Kubernetes, Hadoop, MongoDB",2025-07-18,07/18/2025
+JOB_0474,Data Engineer,Smart Analytics,Small (51-200),"Austin, TX",Senior Level (6-10 years),Remote,113149.0,"AWS, Python, Airflow, SQL, Git, Hadoop, GCP",2025-01-01,01/01/2025
+JOB_0475,Data Scientist,Information Analytics,Medium (201-1000),"Denver, CO",Senior Level (6-10 years),Hybrid,165128.0,"Python, R, Machine Learning, AWS",2025-06-04,06/04/2025
+JOB_0476,Data Scientist,Tech Corp,Medium (201-1000),"Los Angeles, CA",Mid Level (3-5 years),Remote,160995.0,"PyTorch, SQL, R, Machine Learning, Statistics, Python, Deep Learning, Jupyter",2024-11-30,11/30/2024
+JOB_0477,Data Engineer,Data Experts Ltd,Large (1001+),"Seattle, WA",Senior Level (6-10 years),On-site,188628.0,"SQL, Kubernetes, Airflow, Redis, GCP",2025-02-08,02/08/2025
+JOB_0478,Data Analyst,Business Intelligence Ltd,Small (51-200),"Washington, DC",Entry Level (0-2 years),Hybrid,49011.0,"Tableau, PowerQuery, Excel, SQL, DAX",2024-11-17,11/17/2024
+JOB_0479,Data Engineer,Analytics Partners,Large (1001+),"Dallas, TX",Entry Level (0-2 years),Hybrid,100149.0,"Python, Hadoop, Apache Spark",2024-11-25,11/25/2024
+JOB_0480,Data Scientist,Smart Analytics,Medium (201-1000),"Atlanta, GA",Lead Level (10+ years),On-site,208105.0,"Tableau, Python, Statistics, PyTorch, Deep Learning, SQL, R",2024-12-01,12/01/2024
+JOB_0481,Data Scientist,Data Science Corp,Medium (201-1000),"Atlanta, GA",Entry Level (0-2 years),Hybrid,71655.0,"SQL, R, Azure, Pandas, Tableau, Python, Machine Learning, TensorFlow",2024-08-14,08/14/2024
+JOB_0482,Data Scientist,Insight Technologies,Small (51-200),"Washington, DC",Mid Level (3-5 years),On-site,151233.0,"Python, TensorFlow, Machine Learning, Scikit-learn",2024-10-29,10/29/2024
+JOB_0483,Data Scientist,Information Systems Inc,Startup (1-50),"Seattle, WA",Lead Level (10+ years),Remote,150878.0,"SQL, R, Pandas, Machine Learning",2025-04-15,04/15/2025
+JOB_0484,Data Scientist,Insight Technologies,Medium (201-1000),"Portland, OR",Mid Level (3-5 years),On-site,,"R, Pandas, Python, Machine Learning, PyTorch, AWS",2025-04-06,04/06/2025
+JOB_0485,Data Scientist,Business Intelligence Ltd,Small (51-200),"San Francisco, CA",Senior Level (6-10 years),On-site,214060.0,"R, Pandas, Machine Learning, Azure, Python, NumPy",2025-07-09,07/09/2025
+JOB_0486,Data Analyst,Data Science Corp,Small (51-200),"San Francisco, CA",Senior Level (6-10 years),Hybrid,129724.0,"SQL, Python, Excel, Tableau, SPSS",2025-03-04,03/04/2025
+JOB_0487,Data Analyst,Insight Technologies,Small (51-200),"Washington, DC",Entry Level (0-2 years),On-site,49052.0,"Power BI, SQL, Excel, Pandas",2024-11-01,11/01/2024
+JOB_0488,Data Engineer,Digital Insights,Medium (201-1000),"Seattle, WA",Mid Level (3-5 years),Hybrid,126191.0,"Airflow, Python, SQL, Hadoop, GCP, Kafka, Kubernetes, Docker",2024-10-08,10/08/2024
+JOB_0489,Data Scientist,Data Experts Ltd,Large (1001+),"san francisco, ca",Lead Level (10+ years),Remote,,"R, Deep Learning, Python, Machine Learning",2025-06-07,2025-06-07
+JOB_0490,Data Scientist,Smart Analytics,Startup (1-50),"Washington, DC",Mid Level (3-5 years),Hybrid,98802.0,"Python, NumPy, SQL",2024-10-23,10/23/2024
+JOB_0491,Data Scientist,Data Driven Co,Startup (1-50),"Los Angeles, CA",Entry Level (0-2 years),Remote,123389.0,"Git, SQL, Python, Machine Learning, PyTorch, GCP, AWS",2025-03-26,03/26/2025
+JOB_0492,Data Engineer,Information Analytics,Small (51-200),"Dallas, TX",Lead Level (10+ years),Hybrid,214461.0,"MongoDB, Airflow, Kafka, SQL, Kubernetes, Hadoop, Python",2024-11-10,11/10/2024
+JOB_0493,Data Analyst,Analytics Hub,Startup (1-50),"Portland, OR",Senior Level (6-10 years),Remote,73664.0,"Matplotlib, SQL, Python, Seaborn, Excel, Power BI",2025-02-18,02/18/2025
+JOB_0494,Data Engineer,Smart Analytics,Startup (1-50),"Dallas, TX",Lead Level (10+ years),Remote,,"Python, ETL, Apache Spark, Hadoop, SQL, Kafka, Docker",2025-04-09,04/09/2025
+JOB_0495,Data Scientist,Analytics Pro,Large (1001+),"Atlanta, GA",Entry Level (0-2 years),Hybrid,91342.0,"Tableau, GCP, R, TensorFlow, Deep Learning, Pandas, AWS",2024-10-14,10/14/2024
+JOB_0496,Data Analyst,Insight Technologies,Large (1001+),"Phoenix, AZ",Lead Level (10+ years),On-site,114722.0,"Pandas, SQL, SPSS, R, Tableau, Power BI, Google Analytics, Excel",2024-08-31,08/31/2024
+JOB_0497,Data Analyst,Information Systems Inc,Startup (1-50),"Denver, CO",Lead Level (10+ years),On-site,111269.0,"SQL, Excel, R, Python, Power BI",2024-10-16,10/16/2024
+JOB_0498,Data Engineer,Information Analytics,Large (1001+),"San Francisco, CA",Senior Level (6-10 years),On-site,228149.0,"PostgreSQL, Python, SQL",2024-11-13,2024-11-13
+JOB_0499,Data Scientist,Insight Technologies,Startup (1-50),"Atlanta, GA",Entry Level (0-2 years),On-site,101073.0,"Python, Deep Learning, Statistics, Machine Learning",2025-07-10,07/10/2025
+JOB_0500,Data Scientist,Intelligence Solutions,Medium (201-1000),"San Francisco, CA",Mid Level (3-5 years),On-site,165012.0,"NumPy, Tableau, Python, Jupyter, AWS, SQL",2025-05-10,05/10/2025
+JOB_0501,Data Scientist,AI Innovations,Large (1001+),"Portland, OR",Lead Level (10+ years),Hybrid,135425.0,"Python, SQL, R, Git, Deep Learning, Machine Learning",2025-05-21,05/21/2025
+JOB_0502,Data Analyst,Analytics Partners,Medium (201-1000),"Boston, MA",Senior Level (6-10 years),Hybrid,83798.0,"Excel, Looker, R, SQL, Power BI, PowerQuery, Pandas, Python",2025-02-28,02/28/2025
+JOB_0503,Data Analyst,Analytics Hub,Small (51-200),"San Diego, CA",Mid Level (3-5 years),Remote,76251.0,"Matplotlib, SQL, DAX, R, Python, PowerQuery, Excel",2024-11-26,11/26/2024
+JOB_0504,Data Scientist,Digital Insights,Large (1001+),"Washington, DC",Entry Level (0-2 years),Hybrid,80648.0,"PyTorch, Python, Machine Learning",2024-08-11,08/11/2024
+JOB_0505,Data Analyst,Business Intelligence Ltd,Small (51-200),"San Francisco, CA",Entry Level (0-2 years),On-site,54474.0,"Excel, Python, SQL, R, Matplotlib, Statistics, Tableau",2024-09-18,09/18/2024
+JOB_0506,Data Scientist,Information Analytics Inc.,Startup (1-50),Los Angeles CA,Senior Level 6-10 years,Remote,,"Python, R, Deep Learning, Statistics, NumPy, SQL",2025-07-02,07/02/2025
+JOB_0507,Data Analyst,AI Innovations,Startup (1-50),"Miami, FL",Senior Level (6-10 years),Hybrid,110773.0,"SQL, Git, PowerQuery, Excel, Pandas, Seaborn, DAX",2025-04-27,04/27/2025
+JOB_0508,Data Scientist,Cloud Data Systems,Startup (1-50),"New York, NY",Senior Level (6-10 years),Remote,215943.0,"Python, PyTorch, R, Deep Learning, Machine Learning",2024-09-22,09/22/2024
+JOB_0509,Data Engineer,Insight Technologies,Startup (1-50),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,99818.0,"Python, Java, Scala",2025-08-04,08/04/2025
+JOB_0510,Data Engineer,Information Systems Inc,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),Remote,163606.0,"Airflow, Hadoop, NoSQL, SQL",2025-06-15,06/15/2025
+JOB_0511,Data Analyst,Intelligence Solutions,Startup (1-50),"Boston, MA",Mid Level (3-5 years),Hybrid,76783.0,"Tableau, Excel, R, Seaborn, SQL, Looker, Git",2024-09-15,09/15/2024
+JOB_0512,Data Engineer,DataFlow Systems,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),Hybrid,177815.0,"Hadoop, AWS, Python, GCP, PostgreSQL, Java",2025-03-23,03/23/2025
+JOB_0513,Data Scientist,Analytics Hub,Startup (1-50),"Austin, TX",Lead Level (10+ years),On-site,120854.0,"Python, PyTorch, Jupyter, R, Power BI",2024-10-07,10/07/2024
+JOB_0514,Data Analyst,Analytics First,Large (1001+),"Chicago, IL",Mid Level (3-5 years),On-site,50637.0,"Seaborn, Excel, Power BI, R, Python, SQL, Matplotlib",2025-04-30,04/30/2025
+JOB_0515,Data Scientist,Data Science Corp,Medium (201-1000),"Boston, MA",Entry Level (0-2 years),Remote,126862.0,"TensorFlow, Python, Statistics, PyTorch",2025-05-19,05/19/2025
+JOB_0516,Data Scientist,Digital Insights,Small (51-200),"Washington, DC",Senior Level (6-10 years),On-site,196494.0,"Python, Statistics, NumPy, R",2024-11-19,11/19/2024
+JOB_0517,Data Analyst,Cloud Data Systems,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),Remote,55143.0,"Excel, Python, DAX",2024-10-02,10/02/2024
+JOB_0518,Data Scientist,DataFlow Systems,Startup (1-50),"Washington, DC",Entry Level (0-2 years),On-site,102942.0,"Machine Learning, Python, Statistics, PyTorch, R, SQL, Pandas",2025-02-15,02/15/2025
+JOB_0519,Data Engineer,Data Experts Ltd,Small (51-200),"Miami, FL",Senior Level (6-10 years),Hybrid,133110.0,"Python, PostgreSQL, Hadoop, Apache Spark, SQL, AWS",2024-12-30,12/30/2024
+JOB_0520,Data Scientist,Data Experts Ltd,Startup (1-50),"Atlanta, GA",Lead Level (10+ years),Hybrid,224774.0,"AWS, R, Python, TensorFlow, SQL, NumPy",2025-02-02,02/02/2025
+JOB_0521,Data Engineer,Analytics First,Startup (1-50),"San Francisco, CA",Lead Level (10+ years),Remote,216132.0,"Azure, Airflow, Git, Python",2025-07-20,07/20/2025
+JOB_0522,Data Scientist,Digital Insights,Medium (201-1000),"Washington, DC",Senior Level (6-10 years),Remote,180458.0,"Python, Deep Learning, Statistics, NumPy, Machine Learning, Scikit-learn",2024-12-24,12/24/2024
+JOB_0523,Data Analyst,Intelligence Solutions,Medium (201-1000),"Los Angeles, CA",Mid Level (3-5 years),On-site,84538.0,"Excel, SQL, Matplotlib, DAX, Pandas",2025-03-02,03/02/2025
+JOB_0524,Data Scientist,Big Data Co,Medium (201-1000),"Washington, DC",Mid Level (3-5 years),Remote,126923.0,"R, TensorFlow, Scikit-learn, Python, Statistics, SQL",2025-05-20,05/20/2025
+JOB_0525,Data Scientist,Data Experts Ltd,Startup (1-50),"San Diego, CA",Mid Level (3-5 years),Remote,87625.0,"SQL, NumPy, GCP, Machine Learning, Python, TensorFlow",2025-03-12,03/12/2025
+JOB_0526,Data Scientist,Data Experts Ltd,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),On-site,97253.0,"Statistics, R, Python, Power BI, TensorFlow, PyTorch, AWS",2025-05-23,05/23/2025
+JOB_0527,Data Engineer,Business Intelligence Ltd,Large (1001+),"New York, NY",Mid Level (3-5 years),Hybrid,143864.0,"Kafka, Azure, SQL, Airflow, Kubernetes, Python",2024-09-27,09/27/2024
+JOB_0528,Data Scientist,Information Systems Inc,Startup (1-50),"Atlanta, GA",Senior Level (6-10 years),On-site,180074.0,"Statistics, Python, SQL, TensorFlow, Jupyter",2024-10-10,10/10/2024
+JOB_0529,Data Engineer,Data Driven Co,Medium (201-1000),"Washington, DC",Mid Level (3-5 years),On-site,151896.0,"Apache Spark, Kubernetes, Kafka, Python, SQL, ETL, Git",2025-07-19,07/19/2025
+JOB_0530,Data Scientist,Information Analytics,Medium (201-1000),"San Francisco, CA",Lead Level (10+ years),On-site,189528.0,"Python, GCP, Machine Learning, PyTorch",2025-06-28,06/28/2025
+JOB_0531,Data Analyst,Analytics Pro,Startup (1-50),"Los Angeles, CA",Lead Level (10+ years),Remote,129088.0,"SQL, R, Power BI, Excel",2025-01-31,01/31/2025
+JOB_0532,Data Analyst,Business Intelligence Ltd,Large (1001+),"Boston, MA",Lead Level (10+ years),On-site,151020.0,"Matplotlib, SQL, Python, Power BI, Excel, R, Looker",2025-06-05,06/05/2025
+JOB_0533,Data Engineer,Cloud Data Systems,Medium (201-1000),"New York, NY",Mid Level (3-5 years),Hybrid,110494.0,"Kafka, Kubernetes, SQL, Airflow, Apache Spark, Python, Docker, Hadoop",2025-08-02,08/02/2025
+JOB_0534,Data Scientist,Data Experts Ltd,Startup (1-50),"San Francisco, CA",Entry Level (0-2 years),Remote,83711.0,"Docker, Python, R, Scikit-learn, TensorFlow, Pandas, Statistics",2025-02-28,02/28/2025
+JOB_0535,Data Engineer,Data Driven Co,Small (51-200),"San Francisco, CA",Lead Level (10+ years),Remote,248514.0,"Apache Spark, SQL, Redis, Python, Kafka, Java",2025-01-01,01/01/2025
+JOB_0536,Data Scientist,Data Solutions Inc,Medium (201-1000),"Seattle, WA",Entry Level (0-2 years),On-site,138055.0,"Python, R, Machine Learning, Deep Learning, Power BI, PyTorch",2025-04-09,04/09/2025
+JOB_0537,Data Scientist,Analytics Partners,Large (1001+),"Seattle, WA",Mid Level (3-5 years),Hybrid,141013.0,"R, Python, Git, Deep Learning, Machine Learning, NumPy, SQL",2025-06-30,06/30/2025
+JOB_0538,Data Engineer,Data Experts Ltd,Small (51-200),"Boston, MA",Senior Level (6-10 years),Remote,167542.0,"Git, Airflow, Python, Apache Spark, AWS",2025-03-23,03/23/2025
+JOB_0539,Data Analyst,Insight Technologies Inc.,Small (51-200),New York NY,Entry Level 0-2 years,On-site,,"Excel, SQL, Statistics, R, Python, Pandas",2025-01-02,01/02/2025
+JOB_0540,Data Analyst,Data Driven Co,Startup (1-50),"Phoenix, AZ",Lead Level (10+ years),On-site,95152.0,"Git, R, Excel, Pandas, Python, SQL, Looker",2025-01-05,01/05/2025
+JOB_0541,Data Scientist,DataFlow Systems,Large (1001+),"Chicago, IL",Lead Level (10+ years),On-site,205708.0,"R, Python, Machine Learning, Pandas",2024-12-14,12/14/2024
+JOB_0542,Data Scientist,Business Intelligence Ltd,Startup (1-50),"Los Angeles, CA",Mid Level (3-5 years),On-site,144713.0,"Azure, PyTorch, SQL, NumPy",2025-06-25,06/25/2025
+JOB_0543,Data Scientist,Data Driven Co,Medium (201-1000),"Phoenix, AZ",Senior Level (6-10 years),On-site,114908.0,"Machine Learning, Statistics, NumPy",2024-11-13,11/13/2024
+JOB_0544,Data Engineer,Business Intelligence Ltd,Large (1001+),"Denver, CO",Lead Level (10+ years),Remote,,"Python, Git, PostgreSQL",2025-01-20,01/20/2025
+JOB_0545,Data Engineer,Data Driven Co,Medium (201-1000),"Seattle, WA",Entry Level (0-2 years),Remote,77337.0,"Python, Kubernetes, SQL, Hadoop, Kafka, Redis, Airflow, Azure",2025-03-21,03/21/2025
+JOB_0546,Data Engineer,Analytics First,Large (1001+),"Denver, CO",Mid Level (3-5 years),On-site,110388.0,"Git, Python, Scala, GCP, Apache Spark",2025-04-21,2025-04-21
+JOB_0547,Data Scientist,Data Solutions Inc,Medium (201-1000),"San Francisco, CA",Mid Level (3-5 years),On-site,152623.0,"Machine Learning, Deep Learning, R, Python, Statistics, Docker, TensorFlow",2024-09-14,09/14/2024
+JOB_0548,Data Analyst,Tech Corp,Startup (1-50),"Boston, MA",Lead Level (10+ years),Hybrid,150059.0,"SQL, Matplotlib, R, Excel, Pandas, Statistics",2024-12-14,12/14/2024
+JOB_0549,Data Engineer,Big Data Co,Small (51-200),"Chicago, IL",Lead Level (10+ years),On-site,168908.0,"Kafka, AWS, SQL, Linux, Hadoop, Python, GCP, Azure",2025-02-24,02/24/2025
+JOB_0550,Data Scientist,DataFlow Systems,Startup (1-50),"San Diego, CA",Entry Level (0-2 years),On-site,75583.0,"Python, Statistics, PyTorch, SQL, Deep Learning, Machine Learning, R, Scikit-learn",2025-04-12,04/12/2025
+JOB_0551,Data Scientist,Big Data Co,Small (51-200),"Dallas, TX",Mid Level (3-5 years),Hybrid,71974.0,"Python, R, Machine Learning, AWS, SQL",2025-03-19,03/19/2025
+JOB_0552,Data Analyst,Cloud Data Systems,Startup (1-50),"San Francisco, CA",Lead Level (10+ years),Remote,166294.0,"SQL, R, Git, Google Analytics, Excel, Power BI, Matplotlib, Python",2025-06-02,06/02/2025
+JOB_0553,Data Engineer,Cloud Data Systems,Small (51-200),"Phoenix, AZ",Entry Level (0-2 years),On-site,104543.0,"ETL, SQL, Python, Hadoop, Airflow, Java, GCP, Scala",2024-09-24,09/24/2024
+JOB_0554,Data Scientist,Data Solutions Inc,Medium (201-1000),"Phoenix, AZ",Entry Level (0-2 years),Hybrid,91150.0,"R, SQL, Python, Deep Learning, Statistics, Machine Learning, Pandas, TensorFlow",2024-10-26,10/26/2024
+JOB_0555,Data Scientist,DataFlow Systems,Medium (201-1000),"Chicago, IL",Senior Level (6-10 years),On-site,181341.0,"Python, GCP, TensorFlow",2024-11-15,11/15/2024
+JOB_0556,Data Analyst,Data Experts Ltd,Large (1001+),"Boston, MA",Entry Level (0-2 years),Hybrid,78118.0,"Excel, SQL, Pandas, Power BI, Statistics, Tableau, Looker",2025-01-06,01/06/2025
+JOB_0557,Data Scientist,Analytics Hub,Medium (201-1000),"Austin, TX",Senior Level (6-10 years),Hybrid,100027.0,"Python, R, Scikit-learn, Power BI",2025-05-19,05/19/2025
+JOB_0558,Data Scientist,DataFlow Systems,Medium (201-1000),"Dallas, TX",Senior Level (6-10 years),On-site,157316.0,"Jupyter, NumPy, Python, R, Tableau, Pandas, SQL, Scikit-learn",2024-08-09,08/09/2024
+JOB_0559,Data Analyst,Information Analytics,Small (51-200),"New York, NY",Senior Level (6-10 years),On-site,144634.0,"R, Matplotlib, Git, SQL, Power BI, Excel, Pandas, Tableau",2024-09-10,09/10/2024
+JOB_0560,Data Analyst,DataFlow Systems,Small (51-200),"Atlanta, GA",Lead Level (10+ years),Hybrid,106856.0,"SPSS, SQL, Power BI, Excel, Python",2024-12-31,12/31/2024
+JOB_0561,Data Engineer,Data Solutions Inc,Small (51-200),"Atlanta, GA",Entry Level (0-2 years),Remote,71015.0,"NoSQL, MongoDB, Java, Python",2024-08-25,08/25/2024
+JOB_0562,Data Scientist,Data Experts Ltd Inc.,Medium (201-1000),Washington DC,Lead Level 10+ years,Remote,,"Deep Learning, Machine Learning, R, TensorFlow",2025-02-12,02/12/2025
+JOB_0563,Data Analyst,Analytics Pro,Large (1001+),"Portland, OR",Lead Level (10+ years),Hybrid,116570.0,"SQL, Python, R, Seaborn, Excel",2024-09-09,09/09/2024
+JOB_0564,Data Scientist,Data Solutions Inc,Medium (201-1000),"Dallas, TX",Senior Level (6-10 years),Hybrid,100225.0,"Scikit-learn, SQL, Python, TensorFlow, PyTorch, Statistics, Deep Learning, R",2024-08-29,08/29/2024
+JOB_0565,Data Scientist,Big Data Co,Small (51-200),"Chicago, IL",Entry Level (0-2 years),Hybrid,68656.0,"R, Statistics, Machine Learning, Python",2025-02-22,02/22/2025
+JOB_0566,Data Analyst,DataFlow Systems,Large (1001+),"Portland, OR",Mid Level (3-5 years),Hybrid,87785.0,"SQL, Statistics, R, Google Analytics, Python, Pandas, Tableau, Power BI",2024-10-02,10/02/2024
+JOB_0567,Data Engineer,Big Data Co,Small (51-200),"Portland, OR",Lead Level (10+ years),Remote,194151.0,"Python, ETL, Hadoop, PostgreSQL, Kafka, NoSQL",2025-05-17,05/17/2025
+JOB_0568,Data Analyst,Information Systems Inc,Medium (201-1000),"Washington, DC",Lead Level (10+ years),Hybrid,142046.0,"Statistics, PowerQuery, R, SQL, Excel",2025-01-22,01/22/2025
+JOB_0569,Data Scientist,Information Analytics,Small (51-200),"San Diego, CA",Senior Level (6-10 years),Hybrid,140160.0,"R, SQL, Statistics, Machine Learning",2025-05-15,05/15/2025
+JOB_0570,Data Analyst,Analytics Hub,Large (1001+),"Boston, MA",Senior Level (6-10 years),On-site,77021.0,"SQL, Python, Excel, Matplotlib, R, Seaborn, PowerQuery, Looker",2024-08-09,08/09/2024
+JOB_0571,Data Scientist,Data Driven Co,Startup (1-50),"atlanta, ga",Mid Level (3-5 years),On-site,,"Python, Git, Machine Learning, SQL",2024-11-30,11/30/2024
+JOB_0572,Data Analyst,DataFlow Systems,Small (51-200),"San Diego, CA",Senior Level (6-10 years),Remote,88308.0,"Power BI, DAX, SPSS, SQL, Git, Excel",2024-08-28,08/28/2024
+JOB_0573,Data Scientist,Cloud Data Systems,Medium (201-1000),"Miami, FL",Mid Level (3-5 years),On-site,122402.0,"Docker, Python, Jupyter, Machine Learning, Deep Learning, R, NumPy",2024-09-25,09/25/2024
+JOB_0574,Data Engineer,Data Experts Ltd,Small (51-200),"San Francisco, CA",Senior Level (6-10 years),On-site,210727.0,"SQL, Python, Scala, Airflow, Redis, AWS, ETL, GCP",2025-07-28,07/28/2025
+JOB_0575,Data Engineer,Data Solutions Inc,Large (1001+),"Portland, OR",Senior Level (6-10 years),Remote,149603.0,"SQL, Python, Airflow, Kubernetes, Hadoop",2024-09-06,09/06/2024
+JOB_0576,Data Scientist,Cloud Data Systems,Startup (1-50),"Miami, FL",Entry Level (0-2 years),Hybrid,59547.0,"Machine Learning, R, Deep Learning, PyTorch, Python, TensorFlow",2025-06-28,2025-06-28
+JOB_0577,Data Scientist,Analytics First,Small (51-200),"Atlanta, GA",Mid Level (3-5 years),Remote,121495.0,"Python, Scikit-learn, Docker, R, PyTorch, NumPy, Tableau, Statistics",2024-09-03,09/03/2024
+JOB_0578,Data Scientist,Cloud Data Systems,Large (1001+),"Washington, DC",Entry Level (0-2 years),On-site,78926.0,"Python, Machine Learning, SQL, Git",2025-02-26,02/26/2025
+JOB_0579,Data Engineer,DataFlow Systems,Large (1001+),"San Diego, CA",Entry Level (0-2 years),On-site,96887.0,"SQL, ETL, AWS, Python, Docker, Scala",2024-09-21,09/21/2024
+JOB_0580,Data Analyst,Data Experts Ltd,Small (51-200),"Phoenix, AZ",Mid Level (3-5 years),On-site,87442.0,"Excel, Python, Tableau, SQL, Pandas, Seaborn, R, SPSS",2025-02-27,02/27/2025
+JOB_0581,Data Scientist,Cloud Data Systems,Startup (1-50),"San Diego, CA",Mid Level (3-5 years),On-site,288047.0,"Deep Learning, PyTorch, Pandas, Azure, R",2025-03-17,03/17/2025
+JOB_0582,Data Engineer,AI Innovations,Medium (201-1000),"Austin, TX",Senior Level (6-10 years),On-site,107172.0,"Python, Docker, Kubernetes, Airflow, NoSQL, GCP, Hadoop, MongoDB",2025-06-09,06/09/2025
+JOB_0583,Data Scientist,Information Analytics,Small (51-200),"Austin, TX",Lead Level (10+ years),On-site,138173.0,"Python, NumPy, SQL, Pandas",2024-08-31,08/31/2024
+JOB_0584,Data Analyst,Big Data Co,Startup (1-50),"San Diego, CA",Entry Level (0-2 years),Remote,68467.0,"R, Python, Matplotlib, Statistics",2025-06-22,06/22/2025
+JOB_0585,Data Scientist,Data Driven Co,Large (1001+),"Austin, TX",Entry Level (0-2 years),On-site,69697.0,"NumPy, Deep Learning, TensorFlow, R, Git",2024-08-20,08/20/2024
+JOB_0586,Data Analyst,DataFlow Systems,Large (1001+),"Atlanta, GA",Senior Level (6-10 years),Hybrid,110793.0,"SQL, Excel, Git, Google Analytics, Power BI, Tableau, R, Looker",2024-10-20,10/20/2024
+JOB_0587,Data Scientist,Business Intelligence Ltd,Small (51-200),"Miami, FL",Entry Level (0-2 years),Remote,107720.0,"Scikit-learn, R, Python, TensorFlow",2025-01-01,01/01/2025
+JOB_0588,Data Engineer,Analytics Pro,Large (1001+),"Denver, CO",Entry Level (0-2 years),Hybrid,107260.0,"SQL, Hadoop, Apache Spark, NoSQL, Python, Java, GCP, Azure",2024-12-25,12/25/2024
+JOB_0589,Data Analyst,Cloud Data Systems,Large (1001+),"Boston, MA",Lead Level (10+ years),Hybrid,133347.0,"Excel, Pandas, SQL",2025-08-07,08/07/2025
+JOB_0590,Data Engineer,AI Innovations,Large (1001+),"San Francisco, CA",Mid Level (3-5 years),Hybrid,109210.0,"Airflow, Apache Spark, Python",2025-08-08,08/08/2025
+JOB_0591,Data Engineer,Data Science Corp,Small (51-200),"Austin, TX",Lead Level (10+ years),Remote,174125.0,"Hadoop, SQL, Kafka, Java, Apache Spark, MongoDB, Python, Docker",2025-02-02,02/02/2025
+JOB_0592,Data Analyst,Data Solutions Inc,Medium (201-1000),"Atlanta, GA",Senior Level (6-10 years),On-site,83362.0,"SQL, PowerQuery, Seaborn, Statistics, Excel, Pandas, Google Analytics",2024-08-24,08/24/2024
+JOB_0593,Data Analyst,Analytics Pro,Large (1001+),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,95994.0,"SQL, Python, Excel, Tableau, Power BI, R, SPSS",2025-07-22,07/22/2025
+JOB_0594,Data Scientist,Intelligence Solutions,Medium (201-1000),"Washington, DC",Mid Level (3-5 years),Hybrid,148071.0,"Python, R, Pandas, Deep Learning, Scikit-learn, TensorFlow",2025-01-24,01/24/2025
+JOB_0595,Data Engineer,Smart Analytics,Medium (201-1000),"Washington, DC",Mid Level (3-5 years),Hybrid,105727.0,"NoSQL, Python, AWS, Apache Spark, Java, GCP, Hadoop",2025-08-05,08/05/2025
+JOB_0596,Data Analyst,Analytics Partners,Small (51-200),"Phoenix, AZ",Mid Level (3-5 years),On-site,84928.0,"SPSS, Seaborn, SQL, Power BI, Excel, R, PowerQuery",2024-09-12,09/12/2024
+JOB_0597,Data Scientist,Tech Corp,Medium (201-1000),"Austin, TX",Mid Level (3-5 years),On-site,128065.0,"NumPy, Python, R, Machine Learning, SQL",2025-03-07,03/07/2025
+JOB_0598,Data Analyst,Smart Analytics,Small (51-200),"Portland, OR",Senior Level (6-10 years),Remote,66716.0,"SQL, Excel, Git, Google Analytics",2024-10-15,10/15/2024
+JOB_0599,Data Analyst,Information Analytics,Small (51-200),"Boston, MA",Mid Level (3-5 years),Remote,27808.0,"Excel, SQL, Google Analytics",2025-07-26,07/26/2025
+JOB_0600,Data Scientist,Information Systems Inc,Small (51-200),"Dallas, TX",Lead Level (10+ years),On-site,130024.0,"R, Python, Scikit-learn, Pandas, Machine Learning, GCP",2025-04-17,04/17/2025
+JOB_0601,Data Scientist,Business Intelligence Ltd,Large (1001+),"Los Angeles, CA",Entry Level (0-2 years),Remote,27197.0,"Pandas, SQL, Python, GCP",2025-07-18,07/18/2025
+JOB_0602,Data Scientist,Analytics Hub,Small (51-200),"Denver, CO",Senior Level (6-10 years),On-site,170682.0,"Jupyter, Python, R",2025-03-04,03/04/2025
+JOB_0603,Data Analyst,Information Analytics,Startup (1-50),"Austin, TX",Lead Level (10+ years),Hybrid,109943.0,"Pandas, DAX, PowerQuery, Matplotlib, Git, SQL",2024-10-03,2024-10-03
+JOB_0604,Data Scientist,Data Solutions Inc,Large (1001+),"Chicago, IL",Lead Level (10+ years),Hybrid,136884.0,"R, Statistics, Python",2025-06-27,06/27/2025
+JOB_0605,Data Analyst,Analytics Hub,Small (51-200),"Boston, MA",Senior Level (6-10 years),On-site,78324.0,"SQL, Excel, Python, Pandas, Statistics, Tableau, Seaborn",2025-01-06,01/06/2025
+JOB_0606,Data Scientist,Analytics Pro,Startup (1-50),"Denver, CO",Lead Level (10+ years),Remote,183618.0,"R, Python, GCP, SQL, Statistics, Tableau, Machine Learning, NumPy",2025-06-04,06/04/2025
+JOB_0607,Data Scientist,Digital Insights,Large (1001+),"Denver, CO",Entry Level (0-2 years),Hybrid,113838.0,"Tableau, R, Scikit-learn, Deep Learning",2025-08-08,08/08/2025
+JOB_0608,Data Scientist,Big Data Co,Startup (1-50),"San Diego, CA",Mid Level (3-5 years),Remote,292704.0,"Python, Azure, AWS, Git, Statistics, Pandas",2025-08-05,08/05/2025
+JOB_0609,Data Scientist,Data Science Corp,Large (1001+),"Phoenix, AZ",Mid Level (3-5 years),Remote,144120.0,"R, Statistics, Python, Scikit-learn, Docker",2024-11-04,11/04/2024
+JOB_0610,Data Scientist,Digital Insights,Startup (1-50),"Seattle, WA",Mid Level (3-5 years),On-site,179703.0,"Python, R, Statistics, Scikit-learn, NumPy",2025-01-13,01/13/2025
+JOB_0611,Data Scientist,Big Data Co Inc.,Small (51-200),Portland OR,Mid Level 3-5 years,Remote,,"Pandas, Python, Machine Learning, Git, SQL, Scikit-learn, R",2024-08-10,08/10/2024
+JOB_0612,Data Analyst,Information Analytics,Large (1001+),"Denver, CO",Entry Level (0-2 years),Remote,61609.0,"Excel, SQL, R, Tableau, Python, Google Analytics, Matplotlib",2024-11-28,11/28/2024
+JOB_0613,Data Scientist,Cloud Data Systems,Medium (201-1000),"San Francisco, CA",Entry Level (0-2 years),Hybrid,,"R, AWS, Python, GCP, PyTorch, SQL, Docker",2025-06-26,06/26/2025
+JOB_0614,Data Analyst,Data Solutions Inc,Small (51-200),"Portland, OR",Senior Level (6-10 years),Remote,104536.0,"Python, SQL, PowerQuery, Excel, Statistics, Tableau, Looker",2025-07-16,07/16/2025
+JOB_0615,Data Analyst,Intelligence Solutions,Small (51-200),"New York, NY",Entry Level (0-2 years),Remote,88991.0,"R, Git, SQL, Python, Excel",2025-07-19,07/19/2025
+JOB_0616,Data Analyst,Data Solutions Inc,Startup (1-50),"Denver, CO",Senior Level (6-10 years),On-site,89834.0,"DAX, Excel, Google Analytics, Python, R",2025-01-21,01/21/2025
+JOB_0617,Data Scientist,Data Driven Co,Large (1001+),"Dallas, TX",Entry Level (0-2 years),Remote,112322.0,"Docker, SQL, PyTorch, Pandas, R, Machine Learning, NumPy, Jupyter",2024-10-10,10/10/2024
+JOB_0618,Data Engineer,AI Innovations,Startup (1-50),"Atlanta, GA",Mid Level (3-5 years),Remote,121220.0,"Kafka, Kubernetes, Azure, ETL, SQL, Python, Airflow, Docker",2025-05-28,05/28/2025
+JOB_0619,Data Analyst,Intelligence Solutions,Medium (201-1000),"San Diego, CA",Senior Level (6-10 years),On-site,105844.0,"Excel, Tableau, SQL, Statistics, R, PowerQuery, Pandas",2025-05-05,05/05/2025
+JOB_0620,Data Scientist,Insight Technologies,Large (1001+),"Washington, DC",Lead Level (10+ years),On-site,184206.0,"GCP, TensorFlow, Machine Learning, Docker, SQL, PyTorch, Python",2024-11-09,11/09/2024
+JOB_0621,Data Analyst,Tech Corp,Large (1001+),"New York, NY",Entry Level (0-2 years),Hybrid,63587.0,"SQL, Looker, Tableau, Seaborn, Power BI, Excel, Pandas, Git",2024-10-08,10/08/2024
+JOB_0622,Data Engineer,Analytics First,Medium (201-1000),"Los Angeles, CA",Entry Level (0-2 years),Hybrid,71140.0,"Scala, Hadoop, SQL, Airflow",2025-07-01,07/01/2025
+JOB_0623,Data Scientist,Data Driven Co,Medium (201-1000),"Boston, MA",Entry Level (0-2 years),Hybrid,65202.0,"Docker, Python, R, Pandas, Statistics",2025-05-17,05/17/2025
+JOB_0624,Data Scientist,Digital Insights,Small (51-200),"Los Angeles, CA",Entry Level (0-2 years),On-site,124397.0,"Machine Learning, Jupyter, R, Python, Scikit-learn, NumPy, Deep Learning, SQL",2025-01-29,01/29/2025
+JOB_0625,Data Analyst,Data Experts Ltd,Small (51-200),"Portland, OR",Mid Level (3-5 years),Hybrid,71961.0,"Python, Tableau, SQL, Excel, R, Google Analytics, Git",2025-04-01,04/01/2025
+JOB_0626,Data Analyst,Insight Technologies,Medium (201-1000),"Miami, FL",Entry Level (0-2 years),Hybrid,58192.0,"Google Analytics, Power BI, DAX, Python, SQL",2025-07-22,07/22/2025
+JOB_0627,Data Scientist,Information Systems Inc,Startup (1-50),"Portland, OR",Senior Level (6-10 years),Remote,135453.0,"TensorFlow, Python, R",2024-12-30,12/30/2024
+JOB_0628,Data Analyst,Analytics Partners,Large (1001+),"Dallas, TX",Mid Level (3-5 years),Remote,70203.0,"R, SQL, Python",2025-06-09,06/09/2025
+JOB_0629,Data Analyst,Intelligence Solutions,Startup (1-50),"New York, NY",Senior Level (6-10 years),On-site,110866.0,"Looker, Statistics, DAX, R, SQL",2024-12-08,12/08/2024
+JOB_0630,Data Analyst,Digital Insights,Startup (1-50),"Atlanta, GA",Senior Level (6-10 years),On-site,71068.0,"Tableau, R, Python, SQL",2024-08-28,2024-08-28
+JOB_0631,Data Analyst,AI Innovations,Medium (201-1000),"Denver, CO",Mid Level (3-5 years),On-site,71452.0,"SQL, Matplotlib, Excel, Pandas, Tableau",2025-05-04,05/04/2025
+JOB_0632,Data Scientist,AI Innovations,Startup (1-50),"Dallas, TX",Mid Level (3-5 years),On-site,138464.0,"SQL, R, AWS, Machine Learning, PyTorch, Python, Scikit-learn, TensorFlow",2025-02-23,02/23/2025
+JOB_0633,Data Engineer,Analytics First,Large (1001+),"New York, NY",Entry Level (0-2 years),Remote,130212.0,"Python, Hadoop, Kubernetes, Apache Spark, Scala, Azure, SQL",2024-09-30,09/30/2024
+JOB_0634,Data Analyst,AI Innovations,Medium (201-1000),"Washington, DC",Senior Level (6-10 years),Remote,89630.0,"Excel, SQL, Seaborn, R, Power BI",2024-11-15,11/15/2024
+JOB_0635,Data Engineer,Business Intelligence Ltd,Small (51-200),"Portland, OR",Entry Level (0-2 years),Remote,64999.0,"Python, Hadoop, SQL",2024-12-27,12/27/2024
+JOB_0636,Data Scientist,DataFlow Systems,Medium (201-1000),"San Francisco, CA",Mid Level (3-5 years),Hybrid,109554.0,"NumPy, Python, Machine Learning, SQL, Statistics",2025-01-19,01/19/2025
+JOB_0637,Data Scientist,Digital Insights,Startup (1-50),"Washington, DC",Mid Level (3-5 years),On-site,147854.0,"Machine Learning, SQL, R, Python, Statistics",2025-06-18,06/18/2025
+JOB_0638,Data Engineer,Big Data Co,Large (1001+),"Denver, CO",Entry Level (0-2 years),Remote,89684.0,"Linux, NoSQL, Kafka, Docker, SQL, Airflow",2024-09-22,09/22/2024
+JOB_0639,Data Analyst,Information Analytics,Medium (201-1000),"Washington, DC",Lead Level (10+ years),On-site,27629.0,"Python, Statistics, SQL, Excel",2025-01-26,01/26/2025
+JOB_0640,Data Engineer,Big Data Co,Large (1001+),"San Francisco, CA",Lead Level (10+ years),On-site,259489.0,"Python, Apache Spark, MongoDB, Kafka, Hadoop, SQL, ETL, GCP",2025-07-25,07/25/2025
+JOB_0641,Data Analyst,Information Analytics,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),On-site,71648.0,"SQL, Looker, Excel, Pandas",2025-02-25,02/25/2025
+JOB_0642,Data Scientist,Tech Corp,Startup (1-50),"Denver, CO",Lead Level (10+ years),On-site,174737.0,"Deep Learning, AWS, SQL, Python, NumPy",2024-10-05,10/05/2024
+JOB_0643,Data Analyst,Information Analytics,Small (51-200),"Phoenix, AZ",Senior Level (6-10 years),Hybrid,111810.0,"Git, Tableau, PowerQuery, SQL, Excel, Python",2024-09-30,09/30/2024
+JOB_0644,Data Engineer,Data Driven Co,Large (1001+),"Portland, OR",Entry Level (0-2 years),On-site,79635.0,"AWS, Airflow, SQL, Python, Apache Spark, Kafka",2025-06-07,06/07/2025
+JOB_0645,Data Analyst,Analytics Pro,Medium (201-1000),"Denver, CO",Lead Level (10+ years),Remote,108255.0,"SQL, Excel, Python, SPSS, Tableau, Git, Statistics",2025-07-30,07/30/2025
+JOB_0646,Data Analyst,DataFlow Systems,Small (51-200),"Phoenix, AZ",Senior Level (6-10 years),Remote,70104.0,"SQL, Python, Matplotlib, Git, PowerQuery, R, Seaborn, Excel",2025-07-14,07/14/2025
+JOB_0647,Data Engineer,Big Data Co,Large (1001+),"Dallas, TX",Lead Level (10+ years),On-site,186355.0,"Kubernetes, Git, Airflow",2025-05-20,05/20/2025
+JOB_0648,Data Scientist,Information Analytics,Large (1001+),"San Francisco, CA",Entry Level (0-2 years),On-site,218208.0,"Azure, Python, R, TensorFlow, PyTorch, AWS, Pandas, NumPy",2025-04-19,04/19/2025
+JOB_0649,Data Scientist,Smart Analytics,Small (51-200),"Miami, FL",Entry Level (0-2 years),On-site,81557.0,"R, Tableau, Statistics, PyTorch, GCP",2025-05-08,05/08/2025
+JOB_0650,Data Scientist,Data Driven Co Inc.,Medium (201-1000),Chicago IL,Senior Level 6-10 years,On-site,,"Pandas, Machine Learning, Jupyter",2025-02-01,02/01/2025
+JOB_0651,Data Scientist,Data Driven Co,Startup (1-50),"Los Angeles, CA",Mid Level (3-5 years),On-site,77110.0,"Azure, Python, R",2025-05-17,05/17/2025
+JOB_0652,Data Engineer,Data Driven Co,Startup (1-50),"Austin, TX",Entry Level (0-2 years),Remote,102676.0,"SQL, Kafka, Apache Spark, Kubernetes, Python, Hadoop, Docker, AWS",2025-03-18,03/18/2025
+JOB_0653,Data Scientist,Data Science Corp,Large (1001+),"Los Angeles, CA",Lead Level (10+ years),Hybrid,168658.0,"SQL, Git, Python, Statistics, Deep Learning, R, TensorFlow, Pandas",2024-11-25,11/25/2024
+JOB_0654,Data Scientist,Intelligence Solutions Inc.,Small (51-200),Los Angeles CA,Senior Level 6-10 years,On-site,,"TensorFlow, Deep Learning, Python, R",2025-07-18,07/18/2025
+JOB_0655,Data Engineer,Intelligence Solutions,Small (51-200),"Seattle, WA",Lead Level (10+ years),Remote,259236.0,"Apache Spark, MongoDB, Docker, Kafka, Azure, NoSQL, SQL, Scala",2024-10-18,10/18/2024
+JOB_0656,Data Analyst,Information Analytics,Small (51-200),"Phoenix, AZ",Lead Level (10+ years),On-site,116179.0,"SQL, Seaborn, Python, R, Excel, Google Analytics",2025-04-26,04/26/2025
+JOB_0657,Data Scientist,Intelligence Solutions,Startup (1-50),"Chicago, IL",Mid Level (3-5 years),Hybrid,101031.0,"NumPy, SQL, Python, Tableau, Machine Learning, R, Jupyter, TensorFlow",2025-04-21,04/21/2025
+JOB_0658,Data Scientist,Data Solutions Inc,Startup (1-50),"Miami, FL",Senior Level (6-10 years),Hybrid,139310.0,"Python, R, Scikit-learn, Machine Learning, Azure, Deep Learning, Power BI, TensorFlow",2025-04-13,04/13/2025
+JOB_0659,Data Scientist,Smart Analytics,Medium (201-1000),"San Diego, CA",Entry Level (0-2 years),On-site,90298.0,"Git, Machine Learning, TensorFlow",2025-04-30,04/30/2025
+JOB_0660,Data Engineer,DataFlow Systems,Medium (201-1000),"Denver, CO",Entry Level (0-2 years),Hybrid,99063.0,"Python, Docker, SQL, Apache Spark, PostgreSQL",2024-09-05,09/05/2024
+JOB_0661,Data Scientist,Analytics Partners,Medium (201-1000),"Atlanta, GA",Lead Level (10+ years),On-site,149907.0,"Machine Learning, Statistics, Python, Scikit-learn, R",2025-02-05,02/05/2025
+JOB_0662,Data Engineer,Analytics Partners,Medium (201-1000),"Washington, DC",Senior Level (6-10 years),Remote,190178.0,"PostgreSQL, Apache Spark, Hadoop, SQL, Redis, Python",2025-06-27,06/27/2025
+JOB_0663,Data Analyst,Data Driven Co,Large (1001+),"Boston, MA",Entry Level (0-2 years),Remote,51037.0,"DAX, Looker, Python, SQL, Google Analytics, Power BI, R",2024-10-12,10/12/2024
+JOB_0664,Data Scientist,Business Intelligence Ltd,Medium (201-1000),"Seattle, WA",Senior Level (6-10 years),Remote,132086.0,"R, Power BI, Python, SQL, Machine Learning, Scikit-learn, Deep Learning",2024-10-05,10/05/2024
+JOB_0665,Data Scientist,Information Systems Inc,Small (51-200),"Portland, OR",Lead Level (10+ years),On-site,175559.0,"Python, R, GCP, Azure",2025-08-02,08/02/2025
+JOB_0666,Data Scientist,Analytics Pro,Small (51-200),"New York, NY",Senior Level (6-10 years),Hybrid,212415.0,"SQL, Docker, Python, Pandas, Azure, R",2024-10-26,10/26/2024
+JOB_0667,Data Engineer,Digital Insights,Small (51-200),"Chicago, IL",Lead Level (10+ years),Hybrid,212182.0,"Hadoop, Python, Airflow",2025-02-01,02/01/2025
+JOB_0668,Data Analyst,Analytics Hub,Large (1001+),"New York, NY",Mid Level (3-5 years),On-site,111399.0,"Statistics, SPSS, SQL, Python, Excel, R",2025-01-10,01/10/2025
+JOB_0669,Data Engineer,Data Science Corp Inc.,Large (1001+),Chicago IL,Lead Level 10+ years,On-site,,"ETL, Apache Spark, Kafka, Python, Hadoop, Docker, Java",2024-10-22,10/22/2024
+JOB_0670,Data Analyst,Analytics First,Startup (1-50),"Denver, CO",Lead Level (10+ years),Remote,103188.0,"Excel, Pandas, SQL, Python, PowerQuery, Matplotlib, Power BI, DAX",2025-05-08,05/08/2025
+JOB_0671,Data Scientist,Analytics First,Medium (201-1000),"Miami, FL",Senior Level (6-10 years),On-site,176766.0,"Python, Machine Learning, Deep Learning, TensorFlow, Statistics",2024-09-28,09/28/2024
+JOB_0672,Data Engineer,Analytics Partners,Small (51-200),"Portland, OR",Mid Level (3-5 years),Hybrid,125238.0,"Hadoop, NoSQL, Python, Kafka, Docker, SQL, Apache Spark, AWS",2025-01-28,01/28/2025
+JOB_0673,Data Scientist,Analytics Pro,Startup (1-50),"New York, NY",Entry Level (0-2 years),On-site,83619.0,"Jupyter, Python, GCP, R, Git, Tableau, Deep Learning",2024-09-28,09/28/2024
+JOB_0674,Data Scientist,Business Intelligence Ltd,Small (51-200),"San Diego, CA",Senior Level (6-10 years),Remote,29734.0,"SQL, Deep Learning, Python, PyTorch, R, Statistics, Pandas",2024-08-21,08/21/2024
+JOB_0675,Data Scientist,Information Analytics,Startup (1-50),"Dallas, TX",Mid Level (3-5 years),Hybrid,149257.0,"Python, R, Tableau",2024-10-09,10/09/2024
+JOB_0676,Data Analyst,Big Data Co,Small (51-200),"Miami, FL",Mid Level (3-5 years),On-site,54962.0,"Python, R, SPSS, SQL, Power BI, Pandas",2025-01-06,01/06/2025
+JOB_0677,Data Scientist,Analytics First,Medium (201-1000),"Boston, MA",Lead Level (10+ years),Remote,145153.0,"Deep Learning, Python, Statistics, PyTorch, Docker",2024-09-15,09/15/2024
+JOB_0678,Data Scientist,Business Intelligence Ltd,Small (51-200),"New York, NY",Senior Level (6-10 years),On-site,242124.0,"NumPy, Machine Learning, Python, GCP, R, SQL",2024-09-13,09/13/2024
+JOB_0679,Data Analyst,Big Data Co,Small (51-200),"Seattle, WA",Lead Level (10+ years),Hybrid,109926.0,"R, SQL, Excel, Tableau",2025-03-17,03/17/2025
+JOB_0680,Data Analyst,Analytics Pro,Startup (1-50),"San Francisco, CA",Entry Level (0-2 years),Hybrid,53229.0,"SQL, Excel, Looker, Google Analytics, Pandas, R",2024-12-15,12/15/2024
+JOB_0681,Data Scientist,Data Solutions Inc,Large (1001+),"Portland, OR",Entry Level (0-2 years),On-site,77615.0,"R, Python, Machine Learning, Scikit-learn, Jupyter, NumPy, Deep Learning, Statistics",2024-10-25,10/25/2024
+JOB_0682,Data Scientist,Data Experts Ltd Inc.,Large (1001+),Atlanta GA,Lead Level 10+ years,On-site,,"TensorFlow, Python, R, Scikit-learn, Docker, SQL, Deep Learning",2024-09-13,09/13/2024
+JOB_0683,Data Analyst,Big Data Co,Medium (201-1000),"Dallas, TX",Lead Level (10+ years),On-site,21485.0,"Power BI, SPSS, SQL, Tableau, R",2025-07-24,07/24/2025
+JOB_0684,Data Engineer,Analytics Pro,Large (1001+),"Dallas, TX",Senior Level (6-10 years),On-site,127149.0,"Python, Kubernetes, Hadoop, Airflow",2025-07-06,07/06/2025
+JOB_0685,Data Scientist,Data Driven Co,Large (1001+),"Portland, OR",Mid Level (3-5 years),Remote,117089.0,"SQL, Git, Statistics, Python, Machine Learning, Deep Learning, R, PyTorch",2025-06-27,06/27/2025
+JOB_0686,Data Scientist,Smart Analytics,Startup (1-50),"Denver, CO",Mid Level (3-5 years),Remote,147718.0,"Python, Machine Learning, AWS, Jupyter, TensorFlow, Scikit-learn, Git, NumPy",2024-08-21,08/21/2024
+JOB_0687,Data Scientist,Data Experts Ltd,Large (1001+),"Phoenix, AZ",Senior Level (6-10 years),Remote,98347.0,"Deep Learning, NumPy, SQL, Machine Learning, R",2024-08-27,08/27/2024
+JOB_0688,Data Scientist,AI Innovations,Large (1001+),"Los Angeles, CA",Entry Level (0-2 years),Hybrid,92137.0,"Statistics, Python, Machine Learning, R",2025-05-10,2025-05-10
+JOB_0689,Data Analyst,Tech Corp Inc.,Large (1001+),Seattle WA,Lead Level 10+ years,Hybrid,,"SQL, Power BI, Pandas, Excel",2024-09-01,09/01/2024
+JOB_0690,Data Scientist,Big Data Co,Large (1001+),"Miami, FL",Senior Level (6-10 years),Hybrid,99383.0,"Git, SQL, Machine Learning, Python, Deep Learning, Jupyter, NumPy",2024-11-04,11/04/2024
+JOB_0691,Data Analyst,Analytics Pro,Small (51-200),"Denver, CO",Mid Level (3-5 years),On-site,76346.0,"SQL, Excel, Google Analytics, Pandas, Git, Matplotlib, Python, Seaborn",2025-01-28,01/28/2025
+JOB_0692,Data Scientist,Analytics First,Small (51-200),"Washington, DC",Mid Level (3-5 years),Remote,24487.0,"Statistics, R, Power BI, Python",2025-06-08,06/08/2025
+JOB_0693,Data Scientist,Information Systems Inc,Small (51-200),"Los Angeles, CA",Mid Level (3-5 years),On-site,82334.0,"AWS, Python, TensorFlow, NumPy, Tableau, R, Jupyter",2024-12-11,12/11/2024
+JOB_0694,Data Analyst,Digital Insights,Startup (1-50),"Portland, OR",Lead Level (10+ years),On-site,80473.0,"Tableau, SQL, SPSS",2024-09-19,09/19/2024
+JOB_0695,Data Engineer,Intelligence Solutions,Large (1001+),"Portland, OR",Senior Level (6-10 years),Hybrid,122754.0,"Apache Spark, Python, SQL, GCP",2024-10-12,10/12/2024
+JOB_0696,Data Analyst,Digital Insights,Startup (1-50),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,87760.0,"Python, SQL, Excel, DAX, Tableau, R, SPSS, Statistics",2024-11-09,11/09/2024
+JOB_0697,Data Analyst,Information Systems Inc,Large (1001+),"Dallas, TX",Senior Level (6-10 years),Remote,77576.0,"Excel, Power BI, Tableau, SQL",2025-05-21,05/21/2025
+JOB_0698,Data Scientist,DataFlow Systems,Small (51-200),"San Francisco, CA",Senior Level (6-10 years),On-site,172854.0,"Python, Deep Learning, Statistics, Jupyter, Git, Machine Learning, R, Pandas",2025-06-25,06/25/2025
+JOB_0699,Data Engineer,Data Experts Ltd,Large (1001+),"Phoenix, AZ",Mid Level (3-5 years),Remote,25966.0,"Python, Apache Spark, GCP, NoSQL, Hadoop, Git, MongoDB, ETL",2024-10-29,10/29/2024
+JOB_0700,Data Scientist,Analytics First,Large (1001+),"Los Angeles, CA",Senior Level (6-10 years),Remote,106975.0,"NumPy, Machine Learning, R, SQL, Python, PyTorch, Deep Learning, Statistics",2024-10-01,10/01/2024
+JOB_0701,Data Analyst,Data Experts Ltd,Startup (1-50),"Phoenix, AZ",Entry Level (0-2 years),Remote,54575.0,"Seaborn, SQL, R, Matplotlib, Excel, Tableau, Python, Git",2024-12-07,12/07/2024
+JOB_0702,Data Analyst,Cloud Data Systems,Startup (1-50),"Chicago, IL",Senior Level (6-10 years),On-site,80539.0,"R, Statistics, Tableau",2024-12-03,12/03/2024
+JOB_0703,Data Scientist,Analytics Pro,Large (1001+),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,134129.0,"R, Python, Pandas",2025-04-14,04/14/2025
+JOB_0704,Data Engineer,Data Science Corp,Medium (201-1000),"Denver, CO",Mid Level (3-5 years),Remote,92724.0,"Linux, Kafka, Python, Azure, Hadoop, AWS, GCP, PostgreSQL",2025-03-31,03/31/2025
+JOB_0705,Data Scientist,Smart Analytics,Startup (1-50),"Chicago, IL",Senior Level (6-10 years),Hybrid,127779.0,"PyTorch, NumPy, R",2025-05-27,05/27/2025
+JOB_0706,Data Analyst,Digital Insights,Medium (201-1000),"Denver, CO",Lead Level (10+ years),Remote,90275.0,"Excel, Google Analytics, SQL, R, Power BI, Python, Pandas",2025-01-07,01/07/2025
+JOB_0707,Data Engineer,Analytics Partners,Small (51-200),"Washington, DC",Mid Level (3-5 years),Remote,152122.0,"Python, AWS, Apache Spark, MongoDB, Airflow, SQL, ETL",2025-03-07,03/07/2025
+JOB_0708,Data Analyst,Business Intelligence Ltd,Startup (1-50),"Denver, CO",Lead Level (10+ years),Hybrid,137186.0,"Statistics, Excel, Python, SPSS, SQL, Matplotlib, Tableau, Google Analytics",2025-03-16,03/16/2025
+JOB_0709,Data Scientist,Analytics Partners,Small (51-200),"Washington, DC",Mid Level (3-5 years),Hybrid,,"Git, Python, Deep Learning, Docker, GCP, SQL",2024-08-11,08/11/2024
+JOB_0710,Data Engineer,Intelligence Solutions,Large (1001+),"Phoenix, AZ",Entry Level (0-2 years),On-site,93651.0,"Airflow, SQL, Python",2025-07-31,07/31/2025
+JOB_0711,Data Scientist,Intelligence Solutions,Small (51-200),"Phoenix, AZ",Entry Level (0-2 years),Remote,71667.0,"Python, Machine Learning, Scikit-learn, R, NumPy",2025-02-08,02/08/2025
+JOB_0712,Data Scientist,Digital Insights,Large (1001+),"Denver, CO",Senior Level (6-10 years),Hybrid,150616.0,"Python, AWS, Jupyter",2025-06-03,06/03/2025
+JOB_0713,Data Scientist,Digital Insights Inc.,Medium (201-1000),San Diego CA,Lead Level 10+ years,Hybrid,,"Deep Learning, SQL, Statistics, Python, Machine Learning, Azure, Pandas, AWS",2025-04-03,04/03/2025
+JOB_0714,Data Engineer,Insight Technologies,Startup (1-50),"Los Angeles, CA",Senior Level (6-10 years),On-site,194681.0,"Python, Docker, Airflow, Scala, Azure",2025-03-15,03/15/2025
+JOB_0715,Data Scientist,Information Analytics,Medium (201-1000),"Phoenix, AZ",Entry Level (0-2 years),Hybrid,117952.0,"Pandas, Python, Scikit-learn, Docker, R, Statistics, Machine Learning",2024-09-06,09/06/2024
+JOB_0716,Data Analyst,Data Science Corp,Medium (201-1000),"New York, NY",Entry Level (0-2 years),On-site,73958.0,"Excel, Statistics, DAX",2025-06-21,06/21/2025
+JOB_0717,Data Engineer,DataFlow Systems,Small (51-200),"San Diego, CA",Entry Level (0-2 years),Remote,99365.0,"Python, NoSQL, Kubernetes, SQL",2025-01-27,01/27/2025
+JOB_0718,Data Scientist,Cloud Data Systems,Medium (201-1000),"Phoenix, AZ",Mid Level (3-5 years),On-site,125434.0,"Docker, Statistics, TensorFlow, Python, R, Pandas, Machine Learning",2024-12-23,12/23/2024
+JOB_0719,Data Engineer,Data Experts Ltd,Startup (1-50),"Austin, TX",Lead Level (10+ years),On-site,216907.0,"Python, Airflow, SQL, Kafka, MongoDB, Hadoop, PostgreSQL",2025-08-07,08/07/2025
+JOB_0720,Data Engineer,Analytics Pro,Small (51-200),"Denver, CO",Senior Level (6-10 years),On-site,155207.0,"Python, Airflow, Scala",2024-09-22,09/22/2024
+JOB_0721,Data Engineer,Digital Insights,Medium (201-1000),"San Francisco, CA",Entry Level (0-2 years),Remote,115727.0,"Apache Spark, Azure, Python, Scala",2025-07-31,07/31/2025
+JOB_0722,Data Engineer,Data Driven Co,Large (1001+),"Portland, OR",Entry Level (0-2 years),Hybrid,95057.0,"Python, SQL, PostgreSQL, Airflow",2025-05-13,05/13/2025
+JOB_0723,Data Scientist,Data Driven Co,Small (51-200),"Portland, OR",Entry Level (0-2 years),Remote,110719.0,"R, Tableau, Statistics, Python",2024-08-20,08/20/2024
+JOB_0724,Data Engineer,Analytics First,Large (1001+),"Los Angeles, CA",Senior Level (6-10 years),Hybrid,183889.0,"GCP, SQL, Python, Kafka, Redis, Apache Spark, MongoDB, Kubernetes",2025-07-15,07/15/2025
+JOB_0725,Data Analyst,Data Driven Co,Small (51-200),"Boston, MA",Mid Level (3-5 years),On-site,81871.0,"Statistics, SQL, Excel, Tableau, Pandas, SPSS",2024-12-03,12/03/2024
+JOB_0726,Data Analyst,Information Systems Inc,Medium (201-1000),"New York, NY",Mid Level (3-5 years),On-site,73037.0,"Matplotlib, Excel, Pandas, R, Git, Tableau, SQL",2024-11-02,11/02/2024
+JOB_0727,Data Scientist,Digital Insights,Small (51-200),"Seattle, WA",Mid Level (3-5 years),Remote,159304.0,"Python, Jupyter, Scikit-learn, Machine Learning, Statistics",2024-08-30,08/30/2024
+JOB_0728,Data Scientist,DataFlow Systems,Startup (1-50),"Seattle, WA",Mid Level (3-5 years),Hybrid,103391.0,"GCP, Jupyter, R, PyTorch, Python",2025-01-18,01/18/2025
+JOB_0729,Data Scientist,Big Data Co,Startup (1-50),"Seattle, WA",Senior Level (6-10 years),On-site,233428.0,"Python, SQL, Machine Learning, R",2025-04-21,04/21/2025
+JOB_0730,Data Analyst,Data Driven Co,Large (1001+),"New York, NY",Senior Level (6-10 years),On-site,90889.0,"Power BI, Excel, Statistics, SQL, Matplotlib, R, Git, DAX",2025-05-29,05/29/2025
+JOB_0731,Data Analyst,Analytics First,Startup (1-50),"Miami, FL",Lead Level (10+ years),Hybrid,89137.0,"SQL, Git, Tableau",2025-04-11,04/11/2025
+JOB_0732,Data Analyst,Information Analytics,Small (51-200),"New York, NY",Lead Level (10+ years),On-site,23197.0,"Python, SQL, Tableau",2025-02-07,02/07/2025
+JOB_0733,Data Scientist,AI Innovations,Startup (1-50),"Chicago, IL",Senior Level (6-10 years),Remote,179744.0,"Power BI, Machine Learning, SQL, AWS, Pandas, R",2025-05-11,05/11/2025
+JOB_0734,Data Analyst,AI Innovations,Large (1001+),"Atlanta, GA",Lead Level (10+ years),On-site,113525.0,"R, Python, SQL, PowerQuery, Excel, SPSS, Matplotlib",2025-06-13,06/13/2025
+JOB_0735,Data Analyst,Smart Analytics,Large (1001+),"Austin, TX",Lead Level (10+ years),On-site,80798.0,"R, SQL, Excel, Tableau, Statistics",2025-02-22,02/22/2025
+JOB_0736,Data Engineer,AI Innovations,Large (1001+),"Denver, CO",Entry Level (0-2 years),Hybrid,82915.0,"Python, SQL, Redis, Docker, Apache Spark, AWS",2025-03-09,03/09/2025
+JOB_0737,Data Scientist,Intelligence Solutions,Small (51-200),"Miami, FL",Lead Level (10+ years),Hybrid,130827.0,"Tableau, Deep Learning, R",2025-06-11,06/11/2025
+JOB_0738,Data Analyst,Analytics Pro,Large (1001+),"Dallas, TX",Senior Level (6-10 years),Remote,106864.0,"SQL, Looker, Tableau, Power BI, Seaborn, Pandas",2024-08-12,08/12/2024
+JOB_0739,Data Analyst,Analytics Partners,Small (51-200),"Atlanta, GA",Lead Level (10+ years),Remote,98970.0,"Git, SQL, Excel, SPSS, Matplotlib, Pandas",2024-11-12,2024-11-12
+JOB_0740,Data Scientist,Analytics Partners,Medium (201-1000),"Dallas, TX",Senior Level (6-10 years),On-site,151745.0,"Python, R, Git, GCP, Statistics, Machine Learning, Scikit-learn, Jupyter",2025-05-22,05/22/2025
+JOB_0741,Data Scientist,Data Driven Co,Large (1001+),"Seattle, WA",Senior Level (6-10 years),Remote,226206.0,"Python, Scikit-learn, Statistics, R, Docker, Deep Learning, Tableau, Jupyter",2025-07-09,07/09/2025
+JOB_0742,Data Analyst,Tech Corp,Startup (1-50),"Miami, FL",Mid Level (3-5 years),On-site,89248.0,"PowerQuery, SQL, Google Analytics",2025-04-18,04/18/2025
+JOB_0743,Data Engineer,Business Intelligence Ltd,Large (1001+),"Washington, DC",Lead Level (10+ years),Hybrid,207977.0,"Azure, Python, ETL, SQL, Scala",2024-10-09,2024-10-09
+JOB_0744,Data Scientist,Analytics Partners,Startup (1-50),"Boston, MA",Mid Level (3-5 years),Remote,171369.0,"Python, SQL, Deep Learning, GCP, R, Machine Learning",2025-01-19,01/19/2025
+JOB_0745,Data Analyst,Intelligence Solutions,Medium (201-1000),"Boston, MA",Senior Level (6-10 years),Remote,109458.0,"DAX, Tableau, Matplotlib, SQL, Python",2025-01-04,01/04/2025
+JOB_0746,Data Analyst,Big Data Co,Small (51-200),"Chicago, IL",Mid Level (3-5 years),Hybrid,69731.0,"Python, SQL, Power BI, Statistics, Tableau",2025-01-21,01/21/2025
+JOB_0747,Data Scientist,DataFlow Systems,Medium (201-1000),"Austin, TX",Entry Level (0-2 years),Remote,89958.0,"Deep Learning, Python, Jupyter, Statistics",2024-08-15,08/15/2024
+JOB_0748,Data Scientist,Digital Insights,Startup (1-50),"Los Angeles, CA",Senior Level (6-10 years),Remote,129081.0,"GCP, SQL, Python, Statistics, Pandas, Power BI, Deep Learning",2024-10-27,10/27/2024
+JOB_0749,Data Analyst,Intelligence Solutions Inc.,Large (1001+),Atlanta GA,Entry Level 0-2 years,Remote,,"Statistics, SQL, R, Excel",2024-10-07,10/07/2024
+JOB_0750,Data Analyst,Smart Analytics,Large (1001+),"San Diego, CA",Senior Level (6-10 years),Hybrid,76285.0,"Seaborn, SQL, PowerQuery, Excel, Pandas",2025-05-03,2025-05-03
+JOB_0751,Data Scientist,Cloud Data Systems,Small (51-200),"Dallas, TX",Entry Level (0-2 years),Hybrid,70848.0,"Statistics, R, Scikit-learn, Python, TensorFlow, Jupyter, Machine Learning, Azure",2024-10-20,10/20/2024
+JOB_0752,Data Analyst,Big Data Co,Startup (1-50),"San Francisco, CA",Lead Level (10+ years),Remote,109572.0,"SQL, Excel, Power BI, Statistics, Pandas, PowerQuery",2025-04-13,2025-04-13
+JOB_0753,Data Engineer,Data Experts Ltd,Startup (1-50),"Portland, OR",Entry Level (0-2 years),On-site,83768.0,"Hadoop, Git, SQL",2024-08-31,08/31/2024
+JOB_0754,Data Engineer,Information Analytics,Small (51-200),"Phoenix, AZ",Entry Level (0-2 years),Hybrid,107948.0,"Apache Spark, ETL, GCP, SQL",2024-11-19,11/19/2024
+JOB_0755,Data Scientist,Analytics Partners,Medium (201-1000),"Dallas, TX",Senior Level (6-10 years),On-site,193341.0,"Machine Learning, SQL, Python, Scikit-learn, R, Deep Learning, Tableau",2024-10-30,10/30/2024
+JOB_0756,Data Scientist,Big Data Co,Startup (1-50),"Washington, DC",Entry Level (0-2 years),Hybrid,86706.0,"Python, Machine Learning, R, SQL, Scikit-learn, Power BI, PyTorch, TensorFlow",2024-11-28,11/28/2024
+JOB_0757,Data Scientist,Big Data Co,Small (51-200),"Phoenix, AZ",Entry Level (0-2 years),Hybrid,80016.0,"Machine Learning, PyTorch, Python, TensorFlow, R, Docker",2025-08-06,08/06/2025
+JOB_0758,Data Scientist,Digital Insights,Medium (201-1000),"Portland, OR",Entry Level (0-2 years),On-site,89701.0,"SQL, Python, PyTorch, Docker",2025-03-14,03/14/2025
+JOB_0759,Data Scientist,Analytics Hub,Startup (1-50),"Austin, TX",Entry Level (0-2 years),Hybrid,105956.0,"Jupyter, R, TensorFlow, Docker, Python, Machine Learning",2024-10-17,10/17/2024
+JOB_0760,Data Analyst,Analytics Pro,Medium (201-1000),"San Diego, CA",Entry Level (0-2 years),On-site,49293.0,"SQL, Google Analytics, Looker, Excel, DAX, Power BI",2024-10-07,10/07/2024
+JOB_0761,Data Scientist,Cloud Data Systems,Large (1001+),"Portland, OR",Lead Level (10+ years),On-site,27793.0,"TensorFlow, Deep Learning, Power BI, Python",2025-03-16,03/16/2025
+JOB_0762,Data Analyst,Tech Corp,Large (1001+),"Austin, TX",Mid Level (3-5 years),Hybrid,78708.0,"SQL, SPSS, Pandas, Tableau, Python, Excel",2024-10-01,10/01/2024
+JOB_0763,Data Scientist,Data Science Corp,Large (1001+),"San Francisco, CA",Mid Level (3-5 years),Hybrid,188180.0,"R, PyTorch, SQL",2025-06-07,06/07/2025
+JOB_0764,Data Scientist,AI Innovations,Medium (201-1000),"San Francisco, CA",Senior Level (6-10 years),Remote,150481.0,"Python, R, AWS, Statistics, Pandas, TensorFlow",2025-06-09,06/09/2025
+JOB_0765,Data Scientist,Analytics Partners,Medium (201-1000),"Denver, CO",Senior Level (6-10 years),Hybrid,153367.0,"Python, Git, Scikit-learn, Machine Learning, Deep Learning",2025-03-01,03/01/2025
+JOB_0766,Data Analyst,Smart Analytics,Large (1001+),"Denver, CO",Senior Level (6-10 years),Remote,97069.0,"Google Analytics, R, Python, SQL, Excel",2024-10-10,10/10/2024
+JOB_0767,Data Scientist,Big Data Co,Startup (1-50),"Seattle, WA",Entry Level (0-2 years),Remote,70706.0,"PyTorch, TensorFlow, Python, NumPy, R, SQL, Deep Learning, Statistics",2025-04-21,04/21/2025
+JOB_0768,Data Engineer,Smart Analytics,Medium (201-1000),"Portland, OR",Senior Level (6-10 years),Hybrid,114029.0,"Python, Kubernetes, SQL",2025-06-24,06/24/2025
+JOB_0769,Data Engineer,AI Innovations,Medium (201-1000),"Denver, CO",Lead Level (10+ years),Hybrid,194164.0,"Hadoop, Python, SQL, Azure, Kafka, Apache Spark",2025-04-20,04/20/2025
+JOB_0770,Data Engineer,Data Solutions Inc,Large (1001+),"Dallas, TX",Entry Level (0-2 years),Remote,84614.0,"Python, Azure, SQL, GCP, AWS, NoSQL",2025-02-21,02/21/2025
+JOB_0771,Data Engineer,Digital Insights,Medium (201-1000),"New York, NY",Entry Level (0-2 years),Hybrid,108225.0,"Docker, Python, ETL, AWS, Hadoop, Git",2024-11-01,11/01/2024
+JOB_0772,Data Analyst,Analytics Partners,Large (1001+),"Denver, CO",Entry Level (0-2 years),Hybrid,57674.0,"SQL, Google Analytics, Excel, Python, Power BI, Git, R, Tableau",2025-05-19,05/19/2025
+JOB_0773,Data Scientist,Insight Technologies,Startup (1-50),"Dallas, TX",Mid Level (3-5 years),On-site,147469.0,"Python, Pandas, TensorFlow, R, Scikit-learn, Machine Learning",2024-12-21,12/21/2024
+JOB_0774,Data Engineer,Analytics First,Startup (1-50),"Austin, TX",Senior Level (6-10 years),Remote,120803.0,"AWS, SQL, Hadoop",2025-06-07,06/07/2025
+JOB_0775,Data Engineer,Analytics First,Large (1001+),"San Diego, CA",Entry Level (0-2 years),Remote,87420.0,"Hadoop, Python, SQL, ETL, Airflow",2025-03-16,03/16/2025
+JOB_0776,Data Analyst,Cloud Data Systems,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),Hybrid,54292.0,"Git, PowerQuery, DAX, SQL, R, Statistics, Excel, Matplotlib",2024-09-21,09/21/2024
+JOB_0777,Data Analyst,DataFlow Systems,Medium (201-1000),"Seattle, WA",Entry Level (0-2 years),Remote,75687.0,"SQL, Python, Excel, R, Tableau, Git, Google Analytics, Statistics",2025-04-01,04/01/2025
+JOB_0778,Data Scientist,Data Experts Ltd,Startup (1-50),"Boston, MA",Entry Level (0-2 years),On-site,115556.0,"Jupyter, Python, Tableau, NumPy, Machine Learning, SQL, PyTorch",2025-02-18,02/18/2025
+JOB_0779,Data Scientist,AI Innovations,Medium (201-1000),"Denver, CO",Entry Level (0-2 years),On-site,78252.0,"AWS, Python, SQL, Statistics, Deep Learning, R, NumPy, Machine Learning",2025-04-23,04/23/2025
+JOB_0780,Data Engineer,Data Experts Ltd,Startup (1-50),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,,"Hadoop, AWS, Docker, Python, Redis",2024-11-26,11/26/2024
+JOB_0781,Data Analyst,Information Analytics,Startup (1-50),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,93788.0,"Looker, Python, SQL",2025-06-01,06/01/2025
+JOB_0782,Data Scientist,Intelligence Solutions,Small (51-200),"Phoenix, AZ",Lead Level (10+ years),On-site,219969.0,"Azure, R, Jupyter, Git, Python, TensorFlow, NumPy, Statistics",2024-09-17,09/17/2024
+JOB_0783,Data Analyst,AI Innovations,Large (1001+),"Los Angeles, CA",Senior Level (6-10 years),On-site,105275.0,"Pandas, Excel, Python, Matplotlib, SQL, R, Power BI",2024-12-15,12/15/2024
+JOB_0784,Data Scientist,Insight Technologies,Small (51-200),"Seattle, WA",Entry Level (0-2 years),Hybrid,128449.0,"Python, AWS, TensorFlow, SQL",2025-04-21,04/21/2025
+JOB_0785,Data Analyst,Analytics Partners,Startup (1-50),"Phoenix, AZ",Lead Level (10+ years),Hybrid,110309.0,"SQL, Tableau, Python, R, Excel",2024-11-19,11/19/2024
+JOB_0786,Data Scientist,Intelligence Solutions,Large (1001+),"Portland, OR",Senior Level (6-10 years),On-site,117680.0,"Python, Azure, R, Machine Learning, TensorFlow, SQL, Pandas, Deep Learning",2024-09-10,09/10/2024
+JOB_0787,Data Analyst,Business Intelligence Ltd,Small (51-200),"Boston, MA",Mid Level (3-5 years),On-site,67326.0,"SQL, Python, R",2024-12-09,12/09/2024
+JOB_0788,Data Scientist,Analytics Hub,Large (1001+),"Dallas, TX",Senior Level (6-10 years),Hybrid,175793.0,"Deep Learning, Pandas, R, Python, Power BI, Scikit-learn",2025-03-20,03/20/2025
+JOB_0789,Data Analyst,Tech Corp,Medium (201-1000),"Boston, MA",Mid Level (3-5 years),On-site,69032.0,"SQL, Python, R, DAX, Looker, Power BI, Google Analytics",2025-07-12,2025-07-12
+JOB_0790,Data Analyst,Tech Corp,Startup (1-50),"San Diego, CA",Lead Level (10+ years),Remote,99528.0,"SQL, Python, R, Excel, Power BI, Matplotlib, DAX",2025-01-16,01/16/2025
+JOB_0791,Data Analyst,Analytics Pro,Large (1001+),"Los Angeles, CA",Senior Level (6-10 years),Hybrid,78835.0,"Excel, DAX, PowerQuery, SQL",2024-10-19,10/19/2024
+JOB_0792,Data Scientist,Data Experts Ltd,Startup (1-50),"San Francisco, CA",Senior Level (6-10 years),Remote,200458.0,"PyTorch, NumPy, GCP",2025-06-12,06/12/2025
+JOB_0793,Data Engineer,Intelligence Solutions,Small (51-200),"Los Angeles, CA",Mid Level (3-5 years),Remote,116063.0,"Kafka, Hadoop, Python, Airflow",2024-10-02,10/02/2024
+JOB_0794,Data Analyst,Data Experts Ltd,Medium (201-1000),"Boston, MA",Entry Level (0-2 years),Hybrid,81765.0,"R, Statistics, SQL, Python, Seaborn",2024-10-05,10/05/2024
+JOB_0795,Data Analyst,Information Systems Inc,Large (1001+),"Boston, MA",Mid Level (3-5 years),Hybrid,58880.0,"SPSS, SQL, Python, Excel, DAX",2025-02-13,02/13/2025
+JOB_0796,Data Analyst,Cloud Data Systems,Medium (201-1000),"New York, NY",Entry Level (0-2 years),Hybrid,73780.0,"Git, SQL, Python, Tableau, Looker",2025-02-21,02/21/2025
+JOB_0797,Data Scientist,Analytics Hub,Large (1001+),"Atlanta, GA",Mid Level (3-5 years),Remote,299177.0,"R, Jupyter, Python, Machine Learning, TensorFlow",2025-02-26,02/26/2025
+JOB_0798,Data Engineer,Analytics Hub,Medium (201-1000),"Chicago, IL",Mid Level (3-5 years),Hybrid,97959.0,"AWS, Apache Spark, Java",2025-03-05,03/05/2025
+JOB_0799,Data Analyst,Intelligence Solutions,Medium (201-1000),"Denver, CO",Lead Level (10+ years),Hybrid,134027.0,"SQL, Excel, Python",2025-03-13,03/13/2025
+JOB_0800,Data Engineer,Intelligence Solutions,Medium (201-1000),"San Francisco, CA",Senior Level (6-10 years),On-site,23010.0,"AWS, Python, Kafka",2025-07-30,07/30/2025
+JOB_0801,Data Analyst,Tech Corp,Large (1001+),"Phoenix, AZ",Mid Level (3-5 years),Remote,70560.0,"Google Analytics, Git, Python, Pandas, R",2025-06-26,06/26/2025
+JOB_0802,Data Analyst,Information Analytics,Large (1001+),"Chicago, IL",Mid Level (3-5 years),On-site,58749.0,"SQL, Python, Power BI, Excel, Pandas, Statistics",2025-03-28,03/28/2025
+JOB_0803,Data Engineer,Data Driven Co,Small (51-200),"Dallas, TX",Senior Level (6-10 years),Remote,127840.0,"Apache Spark, Python, Hadoop, ETL, Java",2025-03-09,03/09/2025
+JOB_0804,Data Analyst,Tech Corp,Startup (1-50),"Dallas, TX",Mid Level (3-5 years),Hybrid,64988.0,"Excel, PowerQuery, SQL, R, Tableau, Matplotlib, Looker",2025-07-06,07/06/2025
+JOB_0805,Data Scientist,Digital Insights,Startup (1-50),"Chicago, IL",Senior Level (6-10 years),On-site,169694.0,"Pandas, Python, SQL, AWS, Scikit-learn, TensorFlow",2025-06-21,06/21/2025
+JOB_0806,Data Engineer,Analytics Partners,Startup (1-50),"Austin, TX",Mid Level (3-5 years),Remote,130682.0,"Airflow, Linux, Docker, Redis, Hadoop, Python",2025-05-05,05/05/2025
+JOB_0807,Data Analyst,Big Data Co,Small (51-200),"Portland, OR",Lead Level (10+ years),Hybrid,142000.0,"SQL, R, Python, Tableau",2024-11-21,11/21/2024
+JOB_0808,Data Scientist,Data Science Corp,Small (51-200),"Boston, MA",Lead Level (10+ years),On-site,185308.0,"Python, Machine Learning, Azure, R, TensorFlow, Statistics, Deep Learning",2024-11-22,11/22/2024
+JOB_0809,Data Analyst,Intelligence Solutions,Small (51-200),"Portland, OR",Mid Level (3-5 years),On-site,69018.0,"SQL, Looker, R",2024-10-22,10/22/2024
+JOB_0810,Data Scientist,Information Systems Inc,Large (1001+),"Denver, CO",Mid Level (3-5 years),Remote,87459.0,"Python, Scikit-learn, Machine Learning, R, Git, Jupyter",2024-08-14,08/14/2024
+JOB_0811,Data Engineer,Data Science Corp,Large (1001+),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,207700.0,"ETL, Docker, Python, AWS, NoSQL",2025-06-10,06/10/2025
+JOB_0812,Data Analyst,Data Experts Ltd Inc.,Medium (201-1000),Miami FL,Mid Level 3-5 years,Hybrid,,"SQL, Seaborn, Statistics, Looker, Matplotlib, Excel, SPSS",2025-07-18,07/18/2025
+JOB_0813,Data Scientist,Data Science Corp,Medium (201-1000),"Los Angeles, CA",Senior Level (6-10 years),Remote,176185.0,"NumPy, R, Statistics",2025-05-22,05/22/2025
+JOB_0814,Data Engineer,Analytics Hub,Small (51-200),"Denver, CO",Senior Level (6-10 years),Remote,173523.0,"Redis, Python, Airflow, PostgreSQL, Apache Spark, Kafka, SQL, NoSQL",2025-01-18,01/18/2025
+JOB_0815,Data Engineer,Smart Analytics,Large (1001+),"Austin, TX",Entry Level (0-2 years),On-site,82541.0,"Python, Apache Spark, Hadoop, Docker, Kafka, Kubernetes",2025-02-09,02/09/2025
+JOB_0816,Data Analyst,Insight Technologies,Medium (201-1000),"Dallas, TX",Senior Level (6-10 years),On-site,113291.0,"SQL, Statistics, Power BI, Excel, Git",2024-11-01,11/01/2024
+JOB_0817,Data Engineer,Data Solutions Inc,Small (51-200),"Seattle, WA",Lead Level (10+ years),Remote,,"Python, SQL, Hadoop, Apache Spark",2024-09-05,09/05/2024
+JOB_0818,Data Scientist,Intelligence Solutions,Startup (1-50),"San Diego, CA",Lead Level (10+ years),On-site,158729.0,"TensorFlow, SQL, R, Python, Machine Learning, Azure",2024-08-29,08/29/2024
+JOB_0819,Data Scientist,Big Data Co,Small (51-200),"Denver, CO",Lead Level (10+ years),Remote,138703.0,"TensorFlow, AWS, Python",2025-02-03,02/03/2025
+JOB_0820,Data Scientist,Analytics Partners,Small (51-200),"Seattle, WA",Senior Level (6-10 years),Hybrid,209712.0,"SQL, Git, Azure, PyTorch, Python, Deep Learning, R",2024-08-11,08/11/2024
+JOB_0821,Data Analyst,Data Experts Ltd,Startup (1-50),"San Francisco, CA",Mid Level (3-5 years),On-site,109650.0,"SQL, Pandas, Python, Excel, Power BI",2024-08-22,08/22/2024
+JOB_0822,Data Engineer,Analytics First,Small (51-200),"Austin, TX",Entry Level (0-2 years),Remote,110380.0,"Kubernetes, Python, MongoDB, Kafka, Airflow, Docker",2024-09-19,09/19/2024
+JOB_0823,Data Scientist,Analytics First,Startup (1-50),"Boston, MA",Entry Level (0-2 years),Hybrid,106986.0,"Pandas, SQL, Python, Azure, Machine Learning, Docker",2025-06-23,06/23/2025
+JOB_0824,Data Engineer,AI Innovations,Startup (1-50),"Miami, FL",Mid Level (3-5 years),Hybrid,21158.0,"Python, Kubernetes, Hadoop, Kafka, Azure",2024-12-31,12/31/2024
+JOB_0825,Data Scientist,Analytics Pro,Large (1001+),"Washington, DC",Lead Level (10+ years),On-site,227292.0,"R, Machine Learning, SQL, Pandas",2024-11-08,11/08/2024
+JOB_0826,Data Scientist,Data Driven Co,Small (51-200),"Phoenix, AZ",Lead Level (10+ years),Remote,217001.0,"Pandas, TensorFlow, SQL, R, Python, Jupyter",2025-01-08,01/08/2025
+JOB_0827,Data Analyst,Information Systems Inc,Startup (1-50),"Boston, MA",Mid Level (3-5 years),On-site,89586.0,"Tableau, Excel, PowerQuery, R",2025-04-28,04/28/2025
+JOB_0828,Data Scientist,Analytics Pro,Large (1001+),"Boston, MA",Lead Level (10+ years),On-site,242597.0,"Machine Learning, PyTorch, Scikit-learn, Docker",2025-06-19,06/19/2025
+JOB_0829,Data Scientist,Analytics Hub,Small (51-200),"Atlanta, GA",Senior Level (6-10 years),Hybrid,111325.0,"R, Docker, Git, Deep Learning, Jupyter, Python, Machine Learning, SQL",2025-07-26,07/26/2025
+JOB_0830,Data Analyst,Data Driven Co,Large (1001+),"Portland, OR",Entry Level (0-2 years),On-site,49843.0,"SQL, Excel, R, Power BI, Git, Google Analytics",2024-09-18,09/18/2024
+JOB_0831,Data Engineer,Cloud Data Systems,Large (1001+),"Miami, FL",Senior Level (6-10 years),On-site,20738.0,"SQL, Kubernetes, Python",2025-05-27,05/27/2025
+JOB_0832,Data Scientist,Intelligence Solutions,Startup (1-50),"Atlanta, GA",Lead Level (10+ years),On-site,186511.0,"R, Pandas, Python, Jupyter, Statistics, PyTorch, TensorFlow, Scikit-learn",2025-07-13,07/13/2025
+JOB_0833,Data Scientist,Insight Technologies,Startup (1-50),"Washington, DC",Entry Level (0-2 years),Remote,85134.0,"Jupyter, R, TensorFlow, Python, PyTorch, Machine Learning",2025-07-13,07/13/2025
+JOB_0834,Data Engineer,Intelligence Solutions,Medium (201-1000),"New York, NY",Entry Level (0-2 years),On-site,109818.0,"Python, Airflow, Azure, Hadoop, Kubernetes, SQL, Kafka, GCP",2025-06-05,06/05/2025
+JOB_0835,Data Analyst,Analytics First,Small (51-200),"Phoenix, AZ",Senior Level (6-10 years),Remote,113957.0,"Excel, Python, Seaborn",2024-11-11,11/11/2024
+JOB_0836,Data Engineer,Intelligence Solutions,Startup (1-50),"Portland, OR",Entry Level (0-2 years),Remote,64871.0,"Hadoop, Airflow, PostgreSQL",2025-02-27,02/27/2025
+JOB_0837,Data Scientist,Information Analytics,Large (1001+),"San Diego, CA",Lead Level (10+ years),On-site,159281.0,"Python, TensorFlow, Pandas, Jupyter, R, Machine Learning, Statistics",2025-06-21,06/21/2025
+JOB_0838,Data Scientist,Data Driven Co,Startup (1-50),"Portland, OR",Lead Level (10+ years),Remote,137008.0,"Scikit-learn, Python, NumPy",2024-10-17,2024-10-17
+JOB_0839,Data Analyst,AI Innovations,Large (1001+),"Chicago, IL",Entry Level (0-2 years),Hybrid,47922.0,"R, SQL, Excel, Google Analytics, Matplotlib, Python, Looker, Statistics",2024-10-22,10/22/2024
+JOB_0840,Data Scientist,Analytics Pro,Medium (201-1000),"phoenix, az",Mid Level (3-5 years),On-site,,"SQL, Azure, Python, R, TensorFlow, Git",2024-10-23,10/23/2024
+JOB_0841,Data Analyst,Data Experts Ltd,Large (1001+),"Seattle, WA",Lead Level (10+ years),Remote,127801.0,"SPSS, Power BI, SQL, Excel, R, Tableau, Python",2025-03-27,03/27/2025
+JOB_0842,Data Scientist,Data Solutions Inc,Medium (201-1000),"Dallas, TX",Lead Level (10+ years),Remote,223100.0,"Machine Learning, NumPy, SQL, Power BI, R, Python, TensorFlow, Docker",2024-09-30,09/30/2024
+JOB_0843,Data Engineer,Analytics Partners,Medium (201-1000),"Dallas, TX",Lead Level (10+ years),Remote,191714.0,"Scala, Python, NoSQL, SQL, AWS, Apache Spark",2025-04-15,04/15/2025
+JOB_0844,Data Analyst,Cloud Data Systems,Startup (1-50),"Miami, FL",Lead Level (10+ years),Hybrid,117775.0,"SQL, Statistics, Python, SPSS, Excel, Pandas",2024-08-18,08/18/2024
+JOB_0845,Data Analyst,Data Experts Ltd,Startup (1-50),"Miami, FL",Lead Level (10+ years),On-site,102725.0,"Excel, Statistics, Git, DAX, Matplotlib, Seaborn, R, SQL",2025-06-23,06/23/2025
+JOB_0846,Data Scientist,AI Innovations,Large (1001+),"Seattle, WA",Senior Level (6-10 years),On-site,175736.0,"R, Machine Learning, GCP, Python",2025-03-21,03/21/2025
+JOB_0847,Data Scientist,Smart Analytics,Medium (201-1000),"Austin, TX",Lead Level (10+ years),Hybrid,237803.0,"SQL, Python, Machine Learning, Git, Jupyter, Deep Learning",2025-08-08,08/08/2025
+JOB_0848,Data Scientist,Data Experts Ltd,Small (51-200),"Portland, OR",Senior Level (6-10 years),Hybrid,181531.0,"R, Scikit-learn, Python, Deep Learning, Machine Learning",2024-11-23,11/23/2024
+JOB_0849,Data Scientist,AI Innovations,Small (51-200),"Seattle, WA",Mid Level (3-5 years),Hybrid,138523.0,"AWS, Jupyter, TensorFlow",2025-04-17,04/17/2025
+JOB_0850,Data Analyst,DataFlow Systems,Startup (1-50),"Chicago, IL",Mid Level (3-5 years),Remote,73399.0,"Python, Looker, SQL, Matplotlib, Excel",2025-02-08,02/08/2025
+JOB_0851,Data Scientist,Analytics Pro,Medium (201-1000),"Dallas, TX",Entry Level (0-2 years),On-site,70856.0,"Deep Learning, R, AWS, Python, Machine Learning, Docker, SQL",2024-10-06,10/06/2024
+JOB_0852,Data Scientist,Information Systems Inc,Startup (1-50),"Boston, MA",Senior Level (6-10 years),Hybrid,216506.0,"Statistics, Python, GCP, Docker",2024-12-23,12/23/2024
+JOB_0853,Data Scientist,Data Solutions Inc,Large (1001+),"Portland, OR",Entry Level (0-2 years),On-site,107226.0,"Python, Docker, R",2024-10-04,10/04/2024
+JOB_0854,Data Analyst,Insight Technologies,Startup (1-50),"San Francisco, CA",Entry Level (0-2 years),Remote,65460.0,"Python, R, SQL",2025-06-27,06/27/2025
+JOB_0855,Data Scientist,Insight Technologies,Large (1001+),"Boston, MA",Lead Level (10+ years),Hybrid,224150.0,"AWS, Docker, Scikit-learn, Python",2024-09-28,09/28/2024
+JOB_0856,Data Scientist,Analytics Hub,Large (1001+),"Dallas, TX",Mid Level (3-5 years),Remote,114737.0,"Statistics, Python, Docker, Tableau, R, Deep Learning",2024-12-12,12/12/2024
+JOB_0857,Data Scientist,Intelligence Solutions,Medium (201-1000),"Boston, MA",Senior Level (6-10 years),Hybrid,124520.0,"R, Python, SQL, GCP",2025-07-15,07/15/2025
+JOB_0858,Data Analyst,Smart Analytics,Large (1001+),"Phoenix, AZ",Mid Level (3-5 years),On-site,83826.0,"SQL, Tableau, Excel, Seaborn, Python, Git",2025-03-06,03/06/2025
+JOB_0859,Data Scientist,Smart Analytics,Startup (1-50),"New York, NY",Lead Level (10+ years),Hybrid,162224.0,"Scikit-learn, Python, R",2025-04-30,04/30/2025
+JOB_0860,Data Analyst,Intelligence Solutions,Startup (1-50),"Phoenix, AZ",Mid Level (3-5 years),On-site,59892.0,"Google Analytics, DAX, SQL, Excel, Python, PowerQuery, Looker, Power BI",2024-08-27,08/27/2024
+JOB_0861,Data Analyst,Intelligence Solutions,Large (1001+),"Portland, OR",Senior Level (6-10 years),Hybrid,84944.0,"PowerQuery, Matplotlib, SQL, Excel, Python, Statistics, R",2025-08-02,08/02/2025
+JOB_0862,Data Scientist,Business Intelligence Ltd,Small (51-200),"Austin, TX",Entry Level (0-2 years),Hybrid,98197.0,"Python, Pandas, Jupyter, Machine Learning, R, Tableau",2025-03-03,03/03/2025
+JOB_0863,Data Scientist,Information Systems Inc,Large (1001+),"Phoenix, AZ",Lead Level (10+ years),Remote,116845.0,"Python, R, Statistics",2025-01-10,01/10/2025
+JOB_0864,Data Engineer,Insight Technologies,Medium (201-1000),"San Diego, CA",Mid Level (3-5 years),Remote,116161.0,"Kafka, SQL, Redis, Python, Hadoop, Apache Spark, Docker",2024-09-25,09/25/2024
+JOB_0865,Data Analyst,Tech Corp,Startup (1-50),"Portland, OR",Mid Level (3-5 years),Hybrid,65816.0,"Power BI, Tableau, Excel, SQL, Python",2025-06-08,06/08/2025
+JOB_0866,Data Engineer,Data Solutions Inc,Medium (201-1000),"Los Angeles, CA",Entry Level (0-2 years),On-site,93630.0,"Apache Spark, SQL, AWS, Azure, NoSQL, Docker, Python",2025-06-26,06/26/2025
+JOB_0867,Data Analyst,Data Driven Co,Startup (1-50),"San Francisco, CA",Lead Level (10+ years),On-site,180230.0,"Statistics, SQL, Git, Excel",2025-01-29,01/29/2025
+JOB_0868,Data Engineer,Information Systems Inc,Medium (201-1000),"Portland, OR",Mid Level (3-5 years),On-site,117536.0,"Apache Spark, Python, GCP, SQL, Hadoop, Airflow, Docker, Java",2025-07-16,07/16/2025
+JOB_0869,Data Analyst,Big Data Co,Medium (201-1000),"Atlanta, GA",Mid Level (3-5 years),Hybrid,73676.0,"Excel, Google Analytics, Tableau, SQL",2025-06-03,06/03/2025
+JOB_0870,Data Engineer,Analytics Pro,Startup (1-50),"Los Angeles, CA",Lead Level (10+ years),Remote,203223.0,"SQL, Airflow, Apache Spark, Python",2025-03-14,03/14/2025
+JOB_0871,Data Analyst,Analytics Partners,Large (1001+),"Portland, OR",Lead Level (10+ years),On-site,121711.0,"SQL, Excel, R, Statistics, Matplotlib, PowerQuery",2025-06-04,06/04/2025
+JOB_0872,Data Scientist,Intelligence Solutions,Small (51-200),"Miami, FL",Lead Level (10+ years),Remote,175539.0,"Python, SQL, AWS, NumPy",2025-04-24,04/24/2025
+JOB_0873,Data Engineer,AI Innovations,Large (1001+),"San Diego, CA",Entry Level (0-2 years),On-site,74278.0,"SQL, Apache Spark, Python, Git, Hadoop, Linux, AWS, GCP",2024-08-25,08/25/2024
+JOB_0874,Data Engineer,Big Data Co,Startup (1-50),"San Francisco, CA",Lead Level (10+ years),On-site,171679.0,"SQL, Kafka, Python, GCP, NoSQL",2025-05-28,05/28/2025
+JOB_0875,Data Scientist,Data Driven Co,Medium (201-1000),"Boston, MA",Senior Level (6-10 years),On-site,123279.0,"R, SQL, Python, Statistics",2024-08-23,08/23/2024
+JOB_0876,Data Scientist,Data Driven Co,Small (51-200),"Miami, FL",Senior Level (6-10 years),Remote,107033.0,"Pandas, Python, Statistics",2025-04-16,04/16/2025
+JOB_0877,Data Engineer,Data Experts Ltd,Medium (201-1000),"New York, NY",Lead Level (10+ years),Hybrid,262413.0,"Python, SQL, Kubernetes, Hadoop, MongoDB",2025-03-28,03/28/2025
+JOB_0878,Data Engineer,Smart Analytics,Large (1001+),"Dallas, TX",Mid Level (3-5 years),On-site,89763.0,"Azure, Kafka, Apache Spark, Python, Scala, SQL",2025-07-16,07/16/2025
+JOB_0879,Data Scientist,Data Science Corp,Small (51-200),"Phoenix, AZ",Lead Level (10+ years),On-site,118005.0,"Deep Learning, R, SQL, Machine Learning, NumPy, Python, Scikit-learn",2025-01-29,01/29/2025
+JOB_0880,Data Analyst,Analytics Pro,Small (51-200),"San Diego, CA",Senior Level (6-10 years),Hybrid,106294.0,"Tableau, Pandas, Excel, SQL, DAX, Seaborn, Python",2024-08-21,08/21/2024
+JOB_0881,Data Scientist,DataFlow Systems,Startup (1-50),"Atlanta, GA",Entry Level (0-2 years),Remote,93804.0,"Machine Learning, Git, SQL, AWS, Python, Jupyter, R",2025-06-21,06/21/2025
+JOB_0882,Data Engineer,Data Experts Ltd,Startup (1-50),"Atlanta, GA",Mid Level (3-5 years),Remote,91779.0,"MongoDB, Git, Hadoop, Airflow, AWS, Python, Kafka",2025-07-12,07/12/2025
+JOB_0883,Data Scientist,Analytics Partners,Large (1001+),"Chicago, IL",Mid Level (3-5 years),Remote,111999.0,"Machine Learning, Python, R, Statistics, Scikit-learn, Deep Learning, Pandas",2025-05-09,2025-05-09
+JOB_0884,Data Analyst,Analytics First,Large (1001+),"Dallas, TX",Entry Level (0-2 years),Remote,68168.0,"R, Statistics, Excel",2025-03-09,03/09/2025
+JOB_0885,Data Engineer,Big Data Co,Small (51-200),"San Francisco, CA",Entry Level (0-2 years),On-site,99948.0,"Apache Spark, Airflow, Python, Azure",2024-10-21,10/21/2024
+JOB_0886,Data Analyst,Data Solutions Inc,Medium (201-1000),"Los Angeles, CA",Mid Level (3-5 years),Remote,58833.0,"Excel, SQL, DAX, Power BI, R, PowerQuery, Python, Looker",2024-08-22,08/22/2024
+JOB_0887,Data Scientist,Analytics First,Medium (201-1000),"Seattle, WA",Lead Level (10+ years),On-site,187499.0,"Python, GCP, Statistics",2024-10-09,10/09/2024
+JOB_0888,Data Scientist,Insight Technologies,Large (1001+),"Chicago, IL",Lead Level (10+ years),Remote,153724.0,"Python, Docker, SQL",2024-12-24,12/24/2024
+JOB_0889,Data Analyst,Intelligence Solutions,Small (51-200),"Denver, CO",Entry Level (0-2 years),Remote,71571.0,"DAX, Excel, SQL, Python, PowerQuery, Matplotlib, Pandas",2024-12-24,12/24/2024
+JOB_0890,Data Analyst,Data Driven Co,Large (1001+),"Phoenix, AZ",Mid Level (3-5 years),On-site,82796.0,"PowerQuery, SQL, Python, Git, Excel, Tableau, Looker, Statistics",2024-09-20,09/20/2024
+JOB_0891,Data Analyst,Cloud Data Systems,Large (1001+),"Austin, TX",Mid Level (3-5 years),Hybrid,50065.0,"SQL, Python, Statistics",2025-03-28,03/28/2025
+JOB_0892,Data Engineer,Digital Insights,Startup (1-50),"Washington, DC",Senior Level (6-10 years),Remote,192763.0,"Kafka, Airflow, Python, Git, ETL",2025-04-12,04/12/2025
+JOB_0893,Data Scientist,Analytics Partners,Medium (201-1000),"Austin, TX",Mid Level (3-5 years),Remote,140004.0,"AWS, TensorFlow, PyTorch, Python, Machine Learning, Statistics, Scikit-learn, Tableau",2024-10-30,10/30/2024
+JOB_0894,Data Engineer,Smart Analytics,Medium (201-1000),"Los Angeles, CA",Entry Level (0-2 years),On-site,103483.0,"Python, GCP, Hadoop, Apache Spark, SQL, Kafka, Kubernetes",2024-11-24,11/24/2024
+JOB_0895,Data Analyst,Business Intelligence Ltd,Large (1001+),"Portland, OR",Senior Level (6-10 years),On-site,86078.0,"Tableau, Power BI, SQL, Seaborn, Python, Statistics, Google Analytics, R",2024-12-12,12/12/2024
+JOB_0896,Data Analyst,Tech Corp Inc.,Small (51-200),Washington DC,Senior Level 6-10 years,Hybrid,,"SQL, Python, SPSS, Pandas, Tableau, Seaborn, Excel",2024-08-10,2024-08-10
+JOB_0897,Data Engineer,DataFlow Systems,Large (1001+),"Seattle, WA",Lead Level (10+ years),On-site,256793.0,"Kafka, SQL, Apache Spark",2025-05-11,05/11/2025
+JOB_0898,Data Analyst,Analytics Hub,Startup (1-50),"Atlanta, GA",Entry Level (0-2 years),On-site,51729.0,"R, Python, SQL, Matplotlib, Git, Looker, Tableau",2025-02-17,02/17/2025
+JOB_0899,Data Scientist,Big Data Co,Large (1001+),"Phoenix, AZ",Entry Level (0-2 years),On-site,56613.0,"SQL, Python, AWS, R, Deep Learning, Git",2024-11-15,2024-11-15
+JOB_0900,Data Analyst,AI Innovations,Startup (1-50),"Boston, MA",Senior Level (6-10 years),Hybrid,127730.0,"SQL, Python, R, Pandas, Seaborn",2025-06-25,06/25/2025
+JOB_0901,Data Engineer,Data Solutions Inc Inc.,Medium (201-1000),Denver CO,Senior Level 6-10 years,On-site,,"MongoDB, Git, Python, SQL, PostgreSQL, Scala, ETL, Apache Spark",2025-08-04,08/04/2025
+JOB_0902,Data Engineer,Big Data Co,Medium (201-1000),"Portland, OR",Lead Level (10+ years),Hybrid,150344.0,"Apache Spark, Python, Hadoop, SQL, AWS, GCP",2025-04-22,04/22/2025
+JOB_0903,Data Engineer,Analytics Pro,Small (51-200),"Washington, DC",Mid Level (3-5 years),Hybrid,122029.0,"Airflow, Apache Spark, GCP, MongoDB",2024-09-11,09/11/2024
+JOB_0904,Data Scientist,AI Innovations,Startup (1-50),"Miami, FL",Senior Level (6-10 years),Hybrid,171538.0,"SQL, R, Python, Deep Learning, Jupyter, Pandas, Azure",2025-07-22,07/22/2025
+JOB_0905,Data Engineer,Intelligence Solutions,Startup (1-50),"Denver, CO",Entry Level (0-2 years),On-site,81959.0,"Python, MongoDB, SQL, Hadoop, ETL, Docker",2025-03-18,03/18/2025
+JOB_0906,Data Scientist,Insight Technologies,Startup (1-50),"Denver, CO",Senior Level (6-10 years),Hybrid,127429.0,"Python, Deep Learning, Jupyter",2024-12-01,12/01/2024
+JOB_0907,Data Scientist,Data Science Corp,Small (51-200),"austin, tx",Entry Level (0-2 years),On-site,,"Python, R, Machine Learning, GCP, Statistics, SQL, PyTorch",2024-09-19,09/19/2024
+JOB_0908,Data Engineer,Analytics Pro,Small (51-200),"San Diego, CA",Lead Level (10+ years),Remote,21584.0,"SQL, Python, AWS, Kafka, Hadoop",2024-11-01,2024-11-01
+JOB_0909,Data Scientist,Analytics Partners,Medium (201-1000),"Los Angeles, CA",Entry Level (0-2 years),On-site,123672.0,"Python, Statistics, Deep Learning",2024-12-13,12/13/2024
+JOB_0910,Data Analyst,Insight Technologies,Small (51-200),"New York, NY",Senior Level (6-10 years),Remote,109989.0,"SQL, Google Analytics, Seaborn, Power BI, Python, Excel, SPSS",2025-06-12,06/12/2025
+JOB_0911,Data Scientist,Analytics Pro,Startup (1-50),"Washington, DC",Entry Level (0-2 years),Remote,70123.0,"Machine Learning, R, Statistics, Python, Deep Learning",2025-02-18,02/18/2025
+JOB_0912,Data Engineer,Data Solutions Inc,Medium (201-1000),"Phoenix, AZ",Lead Level (10+ years),Hybrid,136623.0,"Python, MongoDB, GCP, SQL, Azure, Scala",2025-06-25,06/25/2025
+JOB_0913,Data Analyst,Data Science Corp,Large (1001+),"New York, NY",Senior Level (6-10 years),Remote,96527.0,"Excel, SQL, SPSS, Tableau, Power BI, Google Analytics",2025-06-21,06/21/2025
+JOB_0914,Data Scientist,Analytics Hub,Large (1001+),"Washington, DC",Entry Level (0-2 years),On-site,74874.0,"SQL, Machine Learning, TensorFlow, Python, PyTorch, R, Scikit-learn",2025-03-16,03/16/2025
+JOB_0915,Data Scientist,Analytics Hub Inc.,Medium (201-1000),Phoenix AZ,Entry Level 0-2 years,Hybrid,,"Jupyter, Azure, SQL",2024-11-15,11/15/2024
+JOB_0916,Data Scientist,Analytics Partners,Small (51-200),"Washington, DC",Mid Level (3-5 years),Hybrid,123581.0,"Python, Deep Learning, SQL, GCP, Statistics",2025-04-26,04/26/2025
+JOB_0917,Data Analyst,Cloud Data Systems,Small (51-200),"Denver, CO",Mid Level (3-5 years),Remote,70425.0,"Python, SQL, Power BI, Matplotlib",2024-09-08,09/08/2024
+JOB_0918,Data Engineer,Data Driven Co,Small (51-200),"Portland, OR",Senior Level (6-10 years),Remote,148944.0,"SQL, Python, Apache Spark, Hadoop, PostgreSQL",2025-04-06,04/06/2025
+JOB_0919,Data Engineer,Data Solutions Inc,Small (51-200),"Atlanta, GA",Mid Level (3-5 years),Hybrid,107660.0,"Git, Python, NoSQL",2025-05-22,05/22/2025
+JOB_0920,Data Analyst,Analytics Pro,Medium (201-1000),"Portland, OR",Mid Level (3-5 years),Remote,80631.0,"Python, Seaborn, Excel, Tableau, SQL, DAX",2025-07-16,07/16/2025
+JOB_0921,Data Analyst,Information Analytics,Medium (201-1000),"Washington, DC",Senior Level (6-10 years),On-site,78371.0,"Tableau, SQL, R, Excel",2025-01-24,01/24/2025
+JOB_0922,Data Analyst,Cloud Data Systems,Startup (1-50),"New York, NY",Lead Level (10+ years),Hybrid,130182.0,"Excel, R, SQL, SPSS, Power BI, Tableau, Python, Looker",2024-12-01,12/01/2024
+JOB_0923,Data Scientist,Data Science Corp Inc.,Small (51-200),Denver CO,Senior Level 6-10 years,On-site,,"Machine Learning, Deep Learning, Python",2024-11-11,11/11/2024
+JOB_0924,Data Engineer,Smart Analytics,Medium (201-1000),"Atlanta, GA",Entry Level (0-2 years),On-site,102383.0,"Hadoop, SQL, Python, PostgreSQL, Docker, ETL, AWS, Airflow",2024-11-16,11/16/2024
+JOB_0925,Data Scientist,AI Innovations,Medium (201-1000),"New York, NY",Mid Level (3-5 years),Remote,181719.0,"Python, Deep Learning, Tableau, Statistics, SQL",2024-11-29,11/29/2024
+JOB_0926,Data Analyst,AI Innovations,Startup (1-50),"Chicago, IL",Mid Level (3-5 years),Remote,51375.0,"SQL, Matplotlib, Python",2024-12-21,12/21/2024
+JOB_0927,Data Analyst,Analytics First,Small (51-200),"Portland, OR",Entry Level (0-2 years),On-site,52112.0,"Excel, SQL, Power BI, R",2025-03-30,03/30/2025
+JOB_0928,Data Analyst,Analytics Pro,Startup (1-50),"Atlanta, GA",Lead Level (10+ years),Remote,92562.0,"Excel, Python, SQL, Seaborn",2024-10-14,10/14/2024
+JOB_0929,Data Analyst,Cloud Data Systems,Startup (1-50),"Austin, TX",Lead Level (10+ years),Hybrid,135996.0,"SQL, Python, Excel, DAX",2025-06-05,06/05/2025
+JOB_0930,Data Scientist,Data Solutions Inc,Medium (201-1000),"Austin, TX",Mid Level (3-5 years),Remote,134092.0,"Python, Statistics, Deep Learning, Machine Learning, Pandas, TensorFlow, NumPy",2025-04-26,04/26/2025
+JOB_0931,Data Scientist,Digital Insights,Large (1001+),"Denver, CO",Entry Level (0-2 years),Hybrid,88675.0,"SQL, Machine Learning, Python, Statistics, Jupyter",2025-04-26,04/26/2025
+JOB_0932,Data Engineer,Insight Technologies,Large (1001+),"San Diego, CA",Senior Level (6-10 years),Hybrid,139171.0,"Kafka, SQL, Python, Apache Spark, Linux, Kubernetes",2025-04-19,04/19/2025
+JOB_0933,Data Scientist,AI Innovations,Small (51-200),"Phoenix, AZ",Entry Level (0-2 years),Remote,81945.0,"R, NumPy, Deep Learning, Statistics",2025-03-28,03/28/2025
+JOB_0934,Data Scientist,Information Systems Inc,Medium (201-1000),"Los Angeles, CA",Mid Level (3-5 years),Hybrid,88013.0,"Pandas, Python, Jupyter, Machine Learning",2024-09-21,09/21/2024
+JOB_0935,Data Scientist,Analytics Hub,Medium (201-1000),"Chicago, IL",Entry Level (0-2 years),On-site,84344.0,"Machine Learning, Deep Learning, Python, Jupyter, R, SQL",2025-03-27,03/27/2025
+JOB_0936,Data Analyst,Data Science Corp,Startup (1-50),"Austin, TX",Senior Level (6-10 years),Remote,82407.0,"Python, Excel, Power BI, Looker",2025-03-23,03/23/2025
+JOB_0937,Data Analyst,Insight Technologies,Startup (1-50),"San Francisco, CA",Senior Level (6-10 years),On-site,20627.0,"Matplotlib, SQL, Excel",2024-12-03,12/03/2024
+JOB_0938,Data Scientist,Analytics First,Medium (201-1000),"Austin, TX",Mid Level (3-5 years),On-site,94987.0,"SQL, Jupyter, Python, NumPy, R",2025-07-24,07/24/2025
+JOB_0939,Data Analyst,Tech Corp,Medium (201-1000),"Dallas, TX",Senior Level (6-10 years),On-site,91591.0,"R, Matplotlib, SQL, Google Analytics, Python, Statistics",2025-02-02,02/02/2025
+JOB_0940,Data Engineer,Insight Technologies,Small (51-200),"New York, NY",Lead Level (10+ years),On-site,254809.0,"GCP, Java, Python, Docker",2024-12-03,12/03/2024
+JOB_0941,Data Engineer,Analytics Hub,Medium (201-1000),"Atlanta, GA",Lead Level (10+ years),Remote,184202.0,"SQL, Python, Azure, Kafka",2025-01-16,01/16/2025
+JOB_0942,Data Analyst,Analytics Hub,Startup (1-50),"Chicago, IL",Lead Level (10+ years),On-site,137262.0,"R, Statistics, Excel, Tableau, SQL, Python, Matplotlib",2024-10-19,10/19/2024
+JOB_0943,Data Engineer,Information Systems Inc,Medium (201-1000),"New York, NY",Lead Level (10+ years),Remote,249884.0,"Docker, Azure, SQL, Python, Apache Spark, AWS",2025-03-11,03/11/2025
+JOB_0944,Data Engineer,Analytics First,Startup (1-50),"San Diego, CA",Senior Level (6-10 years),Hybrid,124144.0,"Python, AWS, NoSQL, Azure",2024-08-25,08/25/2024
+JOB_0945,Data Engineer,Data Science Corp,Small (51-200),"Washington, DC",Lead Level (10+ years),On-site,191450.0,"SQL, Airflow, Apache Spark, Kafka, Python, GCP, Redis",2024-09-10,09/10/2024
+JOB_0946,Data Analyst,Data Driven Co,Startup (1-50),"Washington, DC",Lead Level (10+ years),Remote,,"Tableau, SQL, Power BI, Python, PowerQuery, DAX, Matplotlib, Excel",2024-10-01,10/01/2024
+JOB_0947,Data Scientist,Digital Insights,Small (51-200),"Denver, CO",Entry Level (0-2 years),Remote,69493.0,"SQL, Python, PyTorch, TensorFlow, Pandas",2025-02-22,02/22/2025
+JOB_0948,Data Engineer,Data Solutions Inc,Medium (201-1000),"San Francisco, CA",Lead Level (10+ years),Hybrid,209230.0,"Docker, Airflow, SQL, Python",2024-08-14,08/14/2024
+JOB_0949,Data Scientist,Smart Analytics,Large (1001+),"Seattle, WA",Entry Level (0-2 years),On-site,94263.0,"SQL, Deep Learning, R, TensorFlow, Python, Machine Learning",2024-09-13,09/13/2024
+JOB_0950,Data Engineer,Digital Insights,Medium (201-1000),"Los Angeles, CA",Lead Level (10+ years),Hybrid,234748.0,"Kubernetes, PostgreSQL, Python, Java, Apache Spark, Docker, SQL",2024-11-20,11/20/2024
+JOB_0951,Data Analyst,Analytics Hub,Startup (1-50),"New York, NY",Mid Level (3-5 years),On-site,96962.0,"PowerQuery, Excel, Tableau, SQL",2025-06-14,06/14/2025
+JOB_0952,Data Analyst,Analytics Hub,Startup (1-50),"Denver, CO",Lead Level (10+ years),Hybrid,122355.0,"Excel, SQL, PowerQuery, Tableau, R",2024-09-24,09/24/2024
+JOB_0953,Data Analyst,Data Science Corp,Small (51-200),"San Diego, CA",Senior Level (6-10 years),On-site,105483.0,"Excel, Statistics, Looker, Git",2024-12-14,12/14/2024
+JOB_0954,Data Analyst,Analytics Partners,Startup (1-50),"Miami, FL",Mid Level (3-5 years),On-site,65708.0,"SQL, Power BI, Python",2025-08-01,08/01/2025
+JOB_0955,Data Analyst,Analytics Pro,Small (51-200),"Miami, FL",Senior Level (6-10 years),On-site,72944.0,"Git, Excel, PowerQuery, Statistics, Python, R, SPSS",2025-03-07,03/07/2025
+JOB_0956,Data Analyst,Intelligence Solutions,Large (1001+),"San Francisco, CA",Senior Level (6-10 years),Remote,,"SQL, Excel, Tableau, Python",2024-12-16,2024-12-16
+JOB_0957,Data Analyst,Data Science Corp,Medium (201-1000),"Portland, OR",Lead Level (10+ years),Hybrid,,"Excel, SQL, Matplotlib, Statistics",2025-03-01,03/01/2025
+JOB_0958,Data Scientist,Analytics First,Large (1001+),"San Diego, CA",Mid Level (3-5 years),On-site,80819.0,"R, Statistics, Python",2025-04-02,04/02/2025
+JOB_0959,Data Scientist,Data Experts Ltd,Medium (201-1000),"Denver, CO",Mid Level (3-5 years),Remote,149559.0,"Python, Pandas, PyTorch",2024-11-04,11/04/2024
+JOB_0960,Data Engineer,Digital Insights,Startup (1-50),"Atlanta, GA",Lead Level (10+ years),Hybrid,163815.0,"Docker, Airflow, Apache Spark, Python, Kafka, AWS, Hadoop, SQL",2024-08-14,08/14/2024
+JOB_0961,Data Analyst,DataFlow Systems,Small (51-200),"Chicago, IL",Entry Level (0-2 years),On-site,67410.0,"Power BI, Git, Excel",2025-07-31,07/31/2025
+JOB_0962,Data Engineer,Data Science Corp,Medium (201-1000),"Portland, OR",Entry Level (0-2 years),On-site,,"Hadoop, NoSQL, Kubernetes, Linux, Python, Redis, Airflow",2024-09-04,09/04/2024
+JOB_0963,Data Analyst,Information Systems Inc,Small (51-200),"chicago, il",Mid Level (3-5 years),Remote,,"Python, SQL, Pandas",2024-09-24,2024-09-24
+JOB_0964,Data Analyst,Analytics Pro,Small (51-200),"Dallas, TX",Mid Level (3-5 years),Remote,,"Excel, Seaborn, SQL, DAX",2025-07-15,07/15/2025
+JOB_0965,Data Scientist,Analytics First,Small (51-200),"Dallas, TX",Senior Level (6-10 years),Hybrid,142781.0,"Statistics, Azure, Deep Learning, R, Python, Power BI, Jupyter",2024-11-23,11/23/2024
+JOB_0966,Data Analyst,Information Systems Inc,Medium (201-1000),"Chicago, IL",Entry Level (0-2 years),Remote,61430.0,"Excel, SQL, R, Statistics, Python, Google Analytics",2024-08-16,08/16/2024
+JOB_0967,Data Scientist,Analytics Pro,Medium (201-1000),"Denver, CO",Mid Level (3-5 years),Hybrid,23580.0,"R, Python, Machine Learning, GCP, Statistics",2025-06-24,06/24/2025
+JOB_0968,Data Engineer,Big Data Co,Small (51-200),"Phoenix, AZ",Lead Level (10+ years),On-site,170513.0,"Apache Spark, Scala, Hadoop, Redis, Python, Kubernetes, PostgreSQL",2024-09-26,09/26/2024
+JOB_0969,Data Scientist,Analytics First,Small (51-200),"Portland, OR",Mid Level (3-5 years),Hybrid,20289.0,"Python, Machine Learning, AWS, SQL, R",2025-07-27,07/27/2025
+JOB_0970,Data Scientist,Data Science Corp,Small (51-200),"Washington, DC",Lead Level (10+ years),Hybrid,126684.0,"Pandas, Python, Statistics, Docker, Deep Learning, R, NumPy, Machine Learning",2025-06-05,06/05/2025
+JOB_0971,Data Analyst,Data Driven Co,Small (51-200),"Miami, FL",Entry Level (0-2 years),Hybrid,22253.0,"R, SQL, Statistics, Excel",2025-03-16,03/16/2025
+JOB_0972,Data Analyst,Smart Analytics,Large (1001+),"Boston, MA",Mid Level (3-5 years),Remote,73100.0,"SQL, Power BI, R",2025-07-03,07/03/2025
+JOB_0973,Data Scientist,Smart Analytics,Medium (201-1000),"Denver, CO",Senior Level (6-10 years),On-site,159271.0,"PyTorch, Python, Git",2025-07-04,07/04/2025
+JOB_0974,Data Engineer,Tech Corp,Small (51-200),"Dallas, TX",Senior Level (6-10 years),Hybrid,135752.0,"Python, Kafka, SQL, Docker, GCP",2025-01-25,01/25/2025
+JOB_0975,Data Analyst,Cloud Data Systems,Large (1001+),"Miami, FL",Mid Level (3-5 years),Hybrid,78990.0,"SQL, Excel, Power BI, Statistics",2025-01-20,01/20/2025
+JOB_0976,Data Analyst,AI Innovations,Startup (1-50),"Denver, CO",Entry Level (0-2 years),Hybrid,277677.0,"SQL, Excel, Tableau, Git",2024-10-20,10/20/2024
+JOB_0977,Data Engineer,Cloud Data Systems,Startup (1-50),"Phoenix, AZ",Mid Level (3-5 years),On-site,90758.0,"Hadoop, Apache Spark, Python, NoSQL, Linux",2025-04-05,04/05/2025
+JOB_0978,Data Analyst,Data Driven Co,Medium (201-1000),"Seattle, WA",Mid Level (3-5 years),Hybrid,73199.0,"Excel, DAX, SQL, R, Tableau, Git, Python, Looker",2025-03-26,03/26/2025
+JOB_0979,Data Scientist,Data Science Corp,Large (1001+),"San Francisco, CA",Senior Level (6-10 years),Remote,229107.0,"Python, Power BI, R, Machine Learning, NumPy, AWS",2025-04-07,04/07/2025
+JOB_0980,Data Scientist,Data Experts Ltd,Startup (1-50),"Phoenix, AZ",Mid Level (3-5 years),On-site,109351.0,"Python, R, Statistics",2025-03-15,03/15/2025
+JOB_0981,Data Scientist,Business Intelligence Ltd,Large (1001+),"San Diego, CA",Mid Level (3-5 years),On-site,107122.0,"Machine Learning, Python, Azure, Docker, SQL, R",2025-01-12,01/12/2025
+JOB_0982,Data Scientist,Smart Analytics Inc.,Large (1001+),San Francisco CA,Senior Level 6-10 years,Remote,,"R, TensorFlow, Machine Learning, Jupyter",2024-10-27,10/27/2024
+JOB_0983,Data Engineer,Data Experts Ltd,Large (1001+),"San Diego, CA",Senior Level (6-10 years),On-site,152908.0,"SQL, Hadoop, Python, NoSQL, Docker, AWS, GCP, Airflow",2025-02-27,02/27/2025
+JOB_0984,Data Engineer,Intelligence Solutions,Startup (1-50),"Washington, DC",Entry Level (0-2 years),Remote,81040.0,"Hadoop, Apache Spark, Python, GCP, Kafka, Kubernetes, SQL",2025-02-22,02/22/2025
+JOB_0985,Data Scientist,Insight Technologies,Large (1001+),"Boston, MA",Senior Level (6-10 years),Hybrid,26313.0,"R, TensorFlow, Scikit-learn, Machine Learning, SQL",2025-07-27,07/27/2025
+JOB_0986,Data Analyst,Cloud Data Systems,Large (1001+),"San Diego, CA",Mid Level (3-5 years),Remote,51851.0,"SQL, Tableau, Excel, SPSS, Python, R, Power BI, DAX",2025-02-10,02/10/2025
+JOB_0987,Data Scientist,Smart Analytics Inc.,Medium (201-1000),Boston MA,Lead Level 10+ years,Remote,,"Azure, Git, SQL, Deep Learning, R, Python, PyTorch",2025-06-13,06/13/2025
+JOB_0988,Data Analyst,Data Science Corp,Startup (1-50),"Portland, OR",Lead Level (10+ years),Hybrid,90867.0,"Git, SQL, Matplotlib, Excel, Tableau, Python",2024-11-13,11/13/2024
+JOB_0989,Data Analyst,Analytics Partners,Medium (201-1000),"Boston, MA",Lead Level (10+ years),Hybrid,103648.0,"Pandas, Excel, Python, Seaborn, Power BI, SQL, Git, Matplotlib",2025-03-07,03/07/2025
+JOB_0990,Data Scientist,Smart Analytics,Medium (201-1000),"Phoenix, AZ",Senior Level (6-10 years),Hybrid,143162.0,"Python, Pandas, Power BI, Scikit-learn, R, Machine Learning, Azure, Deep Learning",2024-11-24,2024-11-24
+JOB_0991,Data Analyst,Tech Corp,Startup (1-50),"Seattle, WA",Lead Level (10+ years),Remote,164807.0,"SQL, Power BI, R, Pandas, Matplotlib, Excel",2025-07-31,07/31/2025
+JOB_0992,Data Scientist,Digital Insights,Medium (201-1000),"Los Angeles, CA",Mid Level (3-5 years),Remote,102954.0,"Azure, Python, Jupyter, Pandas",2025-08-04,08/04/2025
+JOB_0993,Data Scientist,Analytics Partners,Small (51-200),"San Francisco, CA",Lead Level (10+ years),Remote,193501.0,"Pandas, Scikit-learn, Statistics",2024-11-19,11/19/2024
+JOB_0994,Data Scientist,Analytics Hub,Startup (1-50),"Miami, FL",Lead Level (10+ years),Hybrid,216342.0,"Python, Machine Learning, PyTorch",2024-11-02,11/02/2024
+JOB_0995,Data Scientist,Analytics Partners,Small (51-200),"Austin, TX",Entry Level (0-2 years),On-site,105842.0,"Machine Learning, R, Statistics, Docker, Python, Jupyter, Tableau, Deep Learning",2025-04-14,04/14/2025
+JOB_0996,Data Engineer,Analytics Partners,Startup (1-50),"Phoenix, AZ",Entry Level (0-2 years),Remote,64475.0,"Python, Kafka, PostgreSQL, Hadoop, Airflow, GCP, SQL",2024-11-25,11/25/2024
+JOB_0997,Data Scientist,Data Experts Ltd,Large (1001+),"Phoenix, AZ",Senior Level (6-10 years),On-site,135112.0,"Git, R, Python, Machine Learning, Statistics, Deep Learning",2025-06-14,06/14/2025
+JOB_0998,Data Scientist,Information Systems Inc,Large (1001+),"Austin, TX",Mid Level (3-5 years),On-site,116665.0,"R, Git, Tableau",2025-06-17,06/17/2025
+JOB_0999,Data Analyst,Data Science Corp,Small (51-200),"New York, NY",Lead Level (10+ years),Remote,169550.0,"SQL, PowerQuery, Python",2025-06-13,06/13/2025
+JOB_1000,Data Scientist,Information Systems Inc,Large (1001+),"Dallas, TX",Mid Level (3-5 years),Hybrid,132285.0,"AWS, PyTorch, TensorFlow, Python, Deep Learning, SQL, Jupyter, Machine Learning",2025-07-26,07/26/2025
+JOB_1001,Data Analyst,Tech Corp,Startup (1-50),"Boston, MA",Lead Level (10+ years),Hybrid,150059.0,"SQL, Matplotlib, R, Excel, Pandas, Statistics",2024-12-14,12/14/2024
+JOB_1002,Data Analyst,Information Systems Inc,Small (51-200),"chicago, il",Mid Level (3-5 years),Remote,,"Python, SQL, Pandas",2024-09-24,2024-09-24
+JOB_1003,Data Engineer,Tech Corp,Startup (1-50),"Boston, MA",Lead Level (10+ years),On-site,237128.0,"ETL, SQL, GCP, Python, Kafka, Apache Spark",2025-03-02,03/02/2025
+JOB_1004,Data Scientist,Analytics First,Medium (201-1000),"Austin, TX",Mid Level (3-5 years),On-site,94987.0,"SQL, Jupyter, Python, NumPy, R",2025-07-24,07/24/2025
+JOB_1005,Data Scientist,Information Systems Inc,Small (51-200),"Dallas, TX",Lead Level (10+ years),On-site,130024.0,"R, Python, Scikit-learn, Pandas, Machine Learning, GCP",2025-04-17,04/17/2025
+JOB_1006,Data Scientist,Analytics Partners,Startup (1-50),"Washington, DC",Senior Level (6-10 years),Remote,184176.0,"PyTorch, Jupyter, Python",2024-09-19,09/19/2024
+JOB_1007,Data Engineer,AI Innovations,Startup (1-50),"Atlanta, GA",Mid Level (3-5 years),Remote,121220.0,"Kafka, Kubernetes, Azure, ETL, SQL, Python, Airflow, Docker",2025-05-28,05/28/2025
+JOB_1008,Data Analyst,Information Analytics,Startup (1-50),"Austin, TX",Lead Level (10+ years),Hybrid,109943.0,"Pandas, DAX, PowerQuery, Matplotlib, Git, SQL",2024-10-03,2024-10-03
+JOB_1009,Data Scientist,Digital Insights Inc.,Medium (201-1000),San Diego CA,Lead Level 10+ years,Hybrid,,"Deep Learning, SQL, Statistics, Python, Machine Learning, Azure, Pandas, AWS",2025-04-03,04/03/2025
+JOB_1010,Data Scientist,Insight Technologies,Large (1001+),"Chicago, IL",Lead Level (10+ years),Remote,153724.0,"Python, Docker, SQL",2024-12-24,12/24/2024
+JOB_1011,Data Scientist,Analytics First,Medium (201-1000),"Denver, CO",Senior Level (6-10 years),On-site,108117.0,"Python, PyTorch, R, Machine Learning, SQL, Jupyter, Power BI",2025-05-16,05/16/2025
+JOB_1012,Data Analyst,AI Innovations,Medium (201-1000),"San Francisco, CA",Senior Level (6-10 years),Remote,151681.0,"Tableau, SPSS, Excel, SQL, PowerQuery, Google Analytics, Python, Power BI",2025-03-08,03/08/2025
+JOB_1013,Data Analyst,Analytics First,Small (51-200),"Phoenix, AZ",Senior Level (6-10 years),Remote,113957.0,"Excel, Python, Seaborn",2024-11-11,11/11/2024
+JOB_1014,Data Scientist,Intelligence Solutions,Small (51-200),"San Diego, CA",Mid Level (3-5 years),Hybrid,105400.0,"GCP, Statistics, Python, Deep Learning, R, PyTorch, Git, AWS",2025-05-03,05/03/2025
+JOB_1015,Data Analyst,Cloud Data Systems,Medium (201-1000),"Chicago, IL",Senior Level (6-10 years),Remote,111400.0,"PowerQuery, Python, SQL",2025-01-10,01/10/2025
+JOB_1016,Data Analyst,Analytics Partners,Startup (1-50),"Phoenix, AZ",Lead Level (10+ years),Hybrid,110309.0,"SQL, Tableau, Python, R, Excel",2024-11-19,11/19/2024
+JOB_1017,Data Engineer,DataFlow Systems,Medium (201-1000),"Austin, TX",Senior Level (6-10 years),Remote,170731.0,"Hadoop, SQL, Apache Spark, Kafka, MongoDB, Airflow, Java",2024-11-18,2024-11-18
+JOB_1018,Data Scientist,Insight Technologies,Startup (1-50),"Denver, CO",Senior Level (6-10 years),Hybrid,127429.0,"Python, Deep Learning, Jupyter",2024-12-01,12/01/2024
+JOB_1019,Data Scientist,AI Innovations,Startup (1-50),"Chicago, IL",Senior Level (6-10 years),Remote,179744.0,"Power BI, Machine Learning, SQL, AWS, Pandas, R",2025-05-11,05/11/2025
+JOB_1020,Data Engineer,Intelligence Solutions,Medium (201-1000),"San Francisco, CA",Senior Level (6-10 years),On-site,23010.0,"AWS, Python, Kafka",2025-07-30,07/30/2025
